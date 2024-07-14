@@ -1,0 +1,11 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/nickdeveau/Projects/Utility/WiFi Stability Analyzer/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _get_network_interfaces, symObjAddr: 0x0, symBinAddr: 0x100000A40, symSize: 0xA0 }
+  - { offsetInCU: 0x10C, offset: 0x10C, size: 0x8, addend: 0x0, symName: _get_network_interfaces, symObjAddr: 0x0, symBinAddr: 0x100000A40, symSize: 0xA0 }
+  - { offsetInCU: 0x15A, offset: 0x15A, size: 0x8, addend: 0x0, symName: _monitor_signal_strength, symObjAddr: 0xA0, symBinAddr: 0x100000AE0, symSize: 0x140 }
+  - { offsetInCU: 0x1AB, offset: 0x1AB, size: 0x8, addend: 0x0, symName: _check_connectivity, symObjAddr: 0x1E0, symBinAddr: 0x100000C20, symSize: 0x140 }
+  - { offsetInCU: 0x1FC, offset: 0x1FC, size: 0x8, addend: 0x0, symName: _test_network_speed, symObjAddr: 0x320, symBinAddr: 0x100000D60, symSize: 0x20 }
+  - { offsetInCU: 0x211, offset: 0x211, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x340, symBinAddr: 0x100000D80, symSize: 0x7F }
+...

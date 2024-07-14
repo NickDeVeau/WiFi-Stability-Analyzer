@@ -1,0 +1,72 @@
+[2024-07-14 19:47:12] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:47:12] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=23.736 ms
+[2024-07-14 19:47:12] 
+[2024-07-14 19:47:12] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:47:12] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:47:12] round-trip min/avg/max/stddev = 23.736/23.736/23.736/0.000 ms
+[2024-07-14 19:47:44] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:47:44] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=4.799 ms
+[2024-07-14 19:47:44] 
+[2024-07-14 19:47:44] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:47:44] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:47:44] round-trip min/avg/max/stddev = 4.799/4.799/4.799/0.000 ms
+[2024-07-14 19:47:45] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:47:45] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=5.029 ms
+[2024-07-14 19:47:45] 
+[2024-07-14 19:47:45] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:47:45] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:47:45] round-trip min/avg/max/stddev = 5.029/5.029/5.029/0.000 ms
+[2024-07-14 19:47:46] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:47:46] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=7.717 ms
+[2024-07-14 19:47:46] 
+[2024-07-14 19:47:46] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:47:46] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:47:46] round-trip min/avg/max/stddev = 7.717/7.717/7.717/0.000 ms
+[2024-07-14 19:47:47] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:47:47] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=4.821 ms
+[2024-07-14 19:47:47] 
+[2024-07-14 19:47:47] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:47:47] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:47:47] round-trip min/avg/max/stddev = 4.821/4.821/4.821/0.000 ms
+[2024-07-14 19:47:48] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:47:48] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=5.204 ms
+[2024-07-14 19:47:48] 
+[2024-07-14 19:47:48] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:47:48] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:47:48] round-trip min/avg/max/stddev = 5.204/5.204/5.204/0.000 ms
+[2024-07-14 19:49:25] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:49:25] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=147.091 ms
+[2024-07-14 19:49:25] 
+[2024-07-14 19:49:25] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:49:25] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:49:25] round-trip min/avg/max/stddev = 147.091/147.091/147.091/0.000 ms
+[2024-07-14 19:49:52] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:49:52] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=4.201 ms
+[2024-07-14 19:49:52] 
+[2024-07-14 19:49:52] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:49:52] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:49:52] round-trip min/avg/max/stddev = 4.201/4.201/4.201/0.000 ms
+[2024-07-14 19:49:53] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:49:53] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=14.023 ms
+[2024-07-14 19:49:53] 
+[2024-07-14 19:49:53] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:49:53] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:49:53] round-trip min/avg/max/stddev = 14.023/14.023/14.023/0.000 ms
+[2024-07-14 19:49:54] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:49:54] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=5.775 ms
+[2024-07-14 19:49:54] 
+[2024-07-14 19:49:54] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:49:54] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:49:54] round-trip min/avg/max/stddev = 5.775/5.775/5.775/0.000 ms
+[2024-07-14 19:49:55] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:49:55] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=24.493 ms
+[2024-07-14 19:49:55] 
+[2024-07-14 19:49:55] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:49:55] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:49:55] round-trip min/avg/max/stddev = 24.493/24.493/24.493/0.000 ms
+[2024-07-14 19:49:56] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2024-07-14 19:49:56] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=115 time=28.520 ms
+[2024-07-14 19:49:56] 
+[2024-07-14 19:49:56] --- 8.8.8.8 ping statistics ---
+[2024-07-14 19:49:56] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2024-07-14 19:49:56] round-trip min/avg/max/stddev = 28.520/28.520/28.520/0.000 ms
