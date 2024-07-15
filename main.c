@@ -149,11 +149,9 @@ void generate_summary(int duration) {
         if (sscanf(buffer, "[%*[^]]] agrCtlRSSI: %d", &rssi) == 1) {
             rssi_total += rssi;
             signal_count++;
-            printf("Parsed RSSI: %d\n", rssi);
         }
         if (sscanf(buffer, "[%*[^]]] agrCtlNoise: %d", &noise) == 1) {
             noise_total += noise;
-            printf("Parsed Noise: %d\n", noise);
         }
     }
 
@@ -171,7 +169,6 @@ void generate_summary(int duration) {
     while (fgets(buffer, sizeof(buffer), system_log)) {
         if (strstr(buffer, "Host and FW packet count mismatch")) {
             packet_count_mismatch++;
-            printf("Found Packet Count Mismatch\n");
         }
         if (strstr(buffer, "retries:")) {
             char *token = strtok(buffer, " ");
@@ -180,7 +177,6 @@ void generate_summary(int duration) {
                     int retries = strtol(token + 8, NULL, 10);
                     if (retries > 50) {
                         high_retries++;
-                        printf("Parsed High Retries: %d\n", retries);
                     }
                 }
                 token = strtok(NULL, " ");
@@ -191,16 +187,12 @@ void generate_summary(int duration) {
             while (token != NULL) {
                 if (strncmp(token, "fcsFail:", 8) == 0) {
                     fcs_failures += strtol(token + 8, NULL, 10);
-                    printf("Parsed FCS Failures: %d\n", fcs_failures);
                 } else if (strncmp(token, "plcpBad:", 8) == 0) {
                     plcp_bad += strtol(token + 8, NULL, 10);
-                    printf("Parsed PLCP Bad: %d\n", plcp_bad);
                 } else if (strncmp(token, "goodPlcps:", 10) == 0) {
                     good_plcps += strtol(token + 10, NULL, 10);
-                    printf("Parsed Good PLCPS: %d\n", good_plcps);
                 } else if (strncmp(token, "crsGlitches:", 12) == 0) {
                     crs_glitches += strtol(token + 12, NULL, 10);
-                    printf("Parsed CRS Glitches: %d\n", crs_glitches);
                 }
                 token = strtok(NULL, " ");
             }
@@ -247,8 +239,6 @@ void generate_summary(int duration) {
         printf("Diagnosis: WiFi performance is within normal parameters.\n");
     }
 }
-
-
 
 // Function to check system logs for errors
 void check_system_logs() {
