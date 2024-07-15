@@ -1,0 +1,138 @@
+[815961.611583]: com.apple.p2p: AWDLStateDump: Services[Valid 0 Airplay 0 WiFid 0 AirDrop 0 nonAirplay:0 rdlink:0 clink:0]
+[815961.904679]: LQM-WIFI: slow-wifi featureEnabled:1 Channel:161 chWidth:80 phyMode:128 nss:3 RSSI:-64 CCA:27 SNR:29 offChanDurUS:2121756 TVPMDurMS:0 concurrentIntDurMS:1615476 randomMac:0 dataStallScore:100 networkScore:100
+[815961.904705]: LQM-WIFI: slow-wifi btAntDurMS:326 btESCO:0/0 rc1CoexDurMS:0 rc2CoexDurMS:0 lteCoexDurMS:0 totalNonWLANDurMS:2121 infraDutyCycle:60 lastScanType:0
+[815961.904715]: LQM-WIFI: slow-wifi availWLANDurMS:2901 availTxDurMS:1644 realTxDurMS:27 availRxDurMS:2874 realRxDurMS:1257 measurementDurMS:5022 lastScanDurMS:0
+[815961.904723]: LQM-WIFI: slow-wifi Tx tput (i/p:0 o/p:0 expected:0)Mbps queueFullDurMS:0 avgLatencyMS:55 maxLatencyMS:230 phyRate(mode:195 avg:297 expected:1004) phyRateTputRatio:0
+[815961.904733]: LQM-WIFI: slow-wifi Tx AMPDUDensity(actual:1 expectedAtQueueFull:64) retries:26 fails:0 fwFrames:46 hostFrames:0 hostFails:0 ctlPkts:13(25009) symptomsFails:0
+[815961.904742]: LQM-WIFI: slow-wifi TxLim[1] outputBelowExpected:0 outputBelowInput:0 lowTxFrameCount:1 queueFull:0 highLatency:0 baselineNotAllowed:0 highSymptomsFails:0
+[815961.904751]: LQM-WIFI: slow-wifi TxLim[1] lowPhyRate:0 lowPhyRateTputRatio:0 highPER:0 highRetries:0 lowTxAMPDUDensity:1 lowCCA:1 activeCoex:0 hostFWMismatch:0
+[815961.904759]: LQM-WIFI: slow-wifi Rx tput:0 Mbps baseline:0 Mbps overflows:0 fcsFail:132 plcpBad:136 goodPlcps:6401 crsGlitches:1818 fwFrames:9184 ucastFWFrames:27 hostFrames:0 AmpduDUP:0 APTxDataStallPct:0 rxAmpduTxBaMismatch:0
+[815961.904771]: LQM-WIFI: slow-wifi Rx ucast(replays:0 decryptErrs:0) mcast(replays:0 decryptErrs:0) phyRate(mode:650 avg:647 expected:1004) dups:0 retries:4 phyRateTputRatio:0
+[815961.904780]: LQM-WIFI: slow-wifi RxLim[1] highRetries:0 highPhyPER:0 highDataPER:0 highOverflows:0 highRSSI:1 lowPhyRate:0 lowPhyRateTputRatio:0 
+[815961.904788]: LQM-WIFI: slow-wifi RxLim[1] highFCSErrors:0 highDups:0 highReplays:0 highDecryptErrors:0 highMCDecryptErrors:0 lowRxFrameCount:1
+[815961.904795]: LQM-WIFI: UI Entry curState:Idle prevState:PendingIP event:ChannelQualityUpdate data:0
+[815961.904803]: LQM-WIFI: UI Suboptimal link during idle
+[815961.904806]: LQM-WIFI: UI Exit curState:Idle prevState:PendingIP
+[815961.904810]: LQM-WIFI: slow-wifi Available WLAN duration not sufficient
+[815961.904813]: LQM-WIFI: slow-wifi Available WLAN duration not sufficient
+[815962.967152]: LQM-WIFI-CT: ofdmDesense=0 bphyDesense=0 reason=0x0
+[815963.017084]: LQM-WIFI-CT: rssi=-63(-65 -65) snr=30 bcn=0(0) txFrames=0 txRetry=0 txRate=0 rxFrames=0 rxRetry=0 rxRate=0 rxToss=0
+[815963.610795]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<53 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815963.610834]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815963.610836]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815963.610839]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<14 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815963.610885]: LQM-WIFI: L3 Control VO TX(00:00:00:00:00:00) Success=14 NoACK=0 Expired=0 OtherErr=0
+[815963.610891]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815963.610895]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815963.610899]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815963.610902]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815963.730527]: LQM-WIFI:  WiFi Latency: TxLat-hist  [1(53 %) / 33(2 %) / 98(20 %) / 207(23 %)]   RxLat-hist  [0(0 %) / 0(0 %) / 0(0 %) / 0(0 %)]  intermittent-state = 0 
+[815963.730555]: LQM-WIFI-CT: rssi=-64(-65 -64) snr=28 bcn=39(33) txFrames=47 txRetry=18 txRate=351000 rxFrames=43 rxRetry=11 rxRate=351000 rxToss=0
+[815964.450655]: 8 duplicate reports for Sandbox: Google Chrome Helper (GPU)(755) deny(1) mach-lookup com.apple.audio.audiohaldSandbox: com.apple.quicklook.ThumbnailsAg(548) deny(1) file-read-data /Users/nickdeveau/Projects/Utility/WiFi Stability Analyzer/main.c[IGFB][LOG  ][DISPLAY   ] getCurrentDisplayMode: FB=0 fCurrentMode = 0x80001003 fCurrentDepth = 0, fBootDisplay = 1.
+[815965.611572]: com.apple.wifi: LQM-WiFi:AWDL State #13 Idle(3)  DutyCycle 40  StateDuration 1lu.050s[196218.474 - 196219.525]   StateComplete  1
+[815965.611575]: com.apple.wifi: LQM-WiFi:AWDL State #14 Idle(3)  DutyCycle 40  StateDuration 3lu.145s[196219.525 - 196222.670]   StateComplete  1
+[815965.611578]: com.apple.wifi: LQM-WiFi:AWDL State #15 Infra Priority(29)  DutyCycle 22  StateDuration 1lu.046s[196222.670 - 196223.717]   StateComplete  1
+[815965.611581]: com.apple.wifi: LQM-WiFi:AWDL State #16 Idle(3)  DutyCycle 40  StateDuration 0lu.079s[196223.717 - 0.000]   StateComplete  0
+[815965.611584]: com.apple.wifi: LQM-WiFi:AWDL Active Time 1810ms(36%) 5.000s[196218.796s - 196223.797s]
+[815966.913845]: LQM-WIFI: BT Coex Stats2:btDur=279ms(4%) status=0x5 reqTypeMap=0x300000 req=42 gnt=54 abort=540 rx1ovfl=0 latency=27 [5593ms]
+[815966.917175]: LQM-WIFI: slow-wifi featureEnabled:1 Channel:161 chWidth:80 phyMode:128 nss:3 RSSI:-64 CCA:21 SNR:28 offChanDurUS:1839842 TVPMDurMS:0 concurrentIntDurMS:1620488 randomMac:0 dataStallScore:100 networkScore:100
+[815966.917193]: LQM-WIFI: slow-wifi btAntDurMS:278 btESCO:0/0 rc1CoexDurMS:0 rc2CoexDurMS:0 lteCoexDurMS:0 totalNonWLANDurMS:1839 infraDutyCycle:78 lastScanType:0
+[815966.917199]: LQM-WIFI: slow-wifi availWLANDurMS:3173 availTxDurMS:1672 realTxDurMS:28 availRxDurMS:3145 realRxDurMS:1501 measurementDurMS:5012 lastScanDurMS:0
+[815966.917205]: LQM-WIFI: slow-wifi Tx tput (i/p:0 o/p:0 expected:0)Mbps queueFullDurMS:0 avgLatencyMS:44 maxLatencyMS:217 phyRate(mode:195 avg:316 expected:1004) phyRateTputRatio:0
+[815966.917212]: LQM-WIFI: slow-wifi Tx AMPDUDensity(actual:1 expectedAtQueueFull:64) retries:20 fails:0 fwFrames:55 hostFrames:0 hostFails:0 ctlPkts:14(25023) symptomsFails:0
+[815966.917218]: LQM-WIFI: slow-wifi TxLim[1] outputBelowExpected:0 outputBelowInput:0 lowTxFrameCount:1 queueFull:0 highLatency:0 baselineNotAllowed:0 highSymptomsFails:0
+[815966.917224]: LQM-WIFI: slow-wifi TxLim[1] lowPhyRate:0 lowPhyRateTputRatio:0 highPER:0 highRetries:0 lowTxAMPDUDensity:1 lowCCA:1 activeCoex:0 hostFWMismatch:0
+[815966.917229]: LQM-WIFI: slow-wifi Rx tput:0 Mbps baseline:0 Mbps overflows:0 fcsFail:672 plcpBad:121 goodPlcps:6018 crsGlitches:1600 fwFrames:15475 ucastFWFrames:36 hostFrames:0 AmpduDUP:0 APTxDataStallPct:0 rxAmpduTxBaMismatch:0
+[815966.917239]: LQM-WIFI: slow-wifi Rx ucast(replays:0 decryptErrs:0) mcast(replays:0 decryptErrs:0) phyRate(mode:520 avg:553 expected:1004) dups:0 retries:3 phyRateTputRatio:0
+[815966.917245]: LQM-WIFI: slow-wifi RxLim[1] highRetries:0 highPhyPER:0 highDataPER:0 highOverflows:0 highRSSI:1 lowPhyRate:0 lowPhyRateTputRatio:0 
+[815966.917250]: LQM-WIFI: slow-wifi RxLim[1] highFCSErrors:0 highDups:0 highReplays:0 highDecryptErrors:0 highMCDecryptErrors:0 lowRxFrameCount:1
+[815966.917254]: LQM-WIFI: UI Entry curState:Idle prevState:PendingIP event:ChannelQualityUpdate data:0
+[815966.917260]: LQM-WIFI: UI Suboptimal link during idle
+[815966.917262]: LQM-WIFI: UI Exit curState:Idle prevState:PendingIP
+[815966.917264]: LQM-WIFI: slow-wifi Available WLAN duration not sufficient
+[815966.917267]: LQM-WIFI: slow-wifi Available WLAN duration not sufficient
+[815967.611366]: com.apple.p2p: AWDLStateDump: Services[Valid 0 Airplay 0 WiFid 0 AirDrop 0 nonAirplay:0 rdlink:0 clink:0]
+[815967.692698]: Waking up reference: 1232Thread waiting on reference 1232 woke upevaluation result: 1232, allowed, cache,  1721006758, 7, /Users/nickdeveau/Projects/Utility/WiFi Stability Analyzer/wsaSandbox apply: mdworker_shared[25393] <bytes>map_with_linking_np: [25392(wsa)]: region 0, not code signed
+[815967.726608]: com.apple.p2p.stats: IOUC-WIFI: [airport] virtual IOReturn IO80211APIUserClient::clientClose()
+[815967.968327]: LQM-WIFI-CT: ofdmDesense=0 bphyDesense=0 reason=0x0
+[815968.610716]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<103 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815968.610742]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815968.610754]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815968.610765]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<14 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815968.610936]: LQM-WIFI: L3 Control VO TX(00:00:00:00:00:00) Success=14 NoACK=0 Expired=0 OtherErr=0
+[815968.610956]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815968.610983]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815968.611005]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815968.611028]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815968.740759]: LQM-WIFI:  WiFi Latency: TxLat-hist  [2(76 %) / 24(11 %) / 0(0 %) / 203(11 %)]   RxLat-hist  [0(0 %) / 0(0 %) / 0(0 %) / 0(0 %)]  intermittent-state = 0 
+[815968.740784]: LQM-WIFI-CT: rssi=-64(-68 -65) snr=28 bcn=44(32) txFrames=79 txRetry=7 txRate=468000 rxFrames=72 rxRetry=9 rxRate=650000 rxToss=0
+[815968.766103]: com.apple.p2p.stats: IOUC-WIFI: [airport] virtual IOReturn IO80211APIUserClient::clientClose()
+[815969.566913]: LQM-WIFI-CT: rssi=-65(-68 -64) snr=28 bcn=44(32) txFrames=79 txRetry=7 txRate=468000 rxFrames=72 rxRetry=9 rxRate=650000 rxToss=0
+[815969.801534]: com.apple.p2p.stats: IOUC-WIFI: [airport] virtual IOReturn IO80211APIUserClient::clientClose()
+[815970.850253]: 5 duplicate reports for Sandbox: Google Chrome Helper (GPU)(755) deny(1) mach-lookup com.apple.audio.audiohaldSandbox: com.apple.quicklook.ThumbnailsAg(548) deny(1) file-read-data /Users/nickdeveau/Projects/Utility/WiFi Stability Analyzer/connectivity.logSandbox: com.apple.quicklook.ThumbnailsAg(548) deny(1) file-read-data /Users/nickdeveau/Projects/Utility/WiFi Stability Analyzer/signal_strength.logclear_purgeability_log:1381: disk1s2 apfs_vnop_pageout : com.apple.quicklook.ThumbnailsA clearing purgeability on ino 135672 (thumbnails.data ; parent-id 44348)
+[815971.611762]: com.apple.wifi: LQM-WiFi:AWDL State #13 Idle(3)  DutyCycle 40  StateDuration 1lu.050s[196223.717 - 196224.768]   StateComplete  1
+[815971.611775]: com.apple.wifi: LQM-WiFi:AWDL State #14 Infra Priority(29)  DutyCycle 22  StateDuration 2lu.095s[196224.768 - 196226.863]   StateComplete  1
+[815971.611787]: com.apple.wifi: LQM-WiFi:AWDL State #15 Idle(3)  DutyCycle 40  StateDuration 1lu.050s[196226.863 - 196227.913]   StateComplete  1
+[815971.611799]: com.apple.wifi: LQM-WiFi:AWDL State #16 Infra Priority(29)  DutyCycle 22  StateDuration 1lu.883s[196227.913 - 0.000]   StateComplete  0
+[815971.611813]: com.apple.wifi: LQM-WiFi:AWDL Active Time 1682ms(28%) 6.000s[196223.797s - 196229.797s]
+[815971.930547]: LQM-WIFI: BT Coex Stats2:btDur=58ms(1%) status=0x5 reqTypeMap=0x300000 req=8 gnt=49 abort=540 rx1ovfl=0 latency=27 [5016ms]
+[815971.934393]: LQM-WIFI: slow-wifi featureEnabled:1 Channel:161 chWidth:80 phyMode:128 nss:3 RSSI:-65 CCA:36 SNR:28 offChanDurUS:1234320 TVPMDurMS:0 concurrentIntDurMS:1625505 randomMac:0 dataStallScore:100 networkScore:100
+[815971.934420]: LQM-WIFI: slow-wifi btAntDurMS:58 btESCO:0/0 rc1CoexDurMS:0 rc2CoexDurMS:0 lteCoexDurMS:0 totalNonWLANDurMS:1234 infraDutyCycle:78 lastScanType:0
+[815971.934429]: LQM-WIFI: slow-wifi availWLANDurMS:3778 availTxDurMS:2539 realTxDurMS:58 availRxDurMS:3720 realRxDurMS:1239 measurementDurMS:5012 lastScanDurMS:0
+[815971.934438]: LQM-WIFI: slow-wifi Tx tput (i/p:0 o/p:0 expected:0)Mbps queueFullDurMS:0 avgLatencyMS:11 maxLatencyMS:214 phyRate(mode:260 avg:398 expected:1004) phyRateTputRatio:0
+[815971.934447]: LQM-WIFI: slow-wifi Tx AMPDUDensity(actual:1 expectedAtQueueFull:64) retries:56 fails:0 fwFrames:214 hostFrames:0 hostFails:0 ctlPkts:18(25041) symptomsFails:0
+[815971.934457]: LQM-WIFI: slow-wifi TxLim[1] outputBelowExpected:0 outputBelowInput:0 lowTxFrameCount:1 queueFull:0 highLatency:0 baselineNotAllowed:0 highSymptomsFails:0
+[815971.934466]: LQM-WIFI: slow-wifi TxLim[1] lowPhyRate:0 lowPhyRateTputRatio:0 highPER:0 highRetries:0 lowTxAMPDUDensity:1 lowCCA:0 activeCoex:0 hostFWMismatch:1
+[815971.934473]: LQM-WIFI: slow-wifi Rx tput:0 Mbps baseline:0 Mbps overflows:0 fcsFail:239 plcpBad:111 goodPlcps:8476 crsGlitches:2047 fwFrames:15565 ucastFWFrames:175 hostFrames:0 AmpduDUP:0 APTxDataStallPct:0 rxAmpduTxBaMismatch:0
+[815971.934485]: LQM-WIFI: slow-wifi Rx ucast(replays:0 decryptErrs:0) mcast(replays:0 decryptErrs:0) phyRate(mode:520 avg:600 expected:1004) dups:1 retries:2 phyRateTputRatio:0
+[815971.934495]: LQM-WIFI: slow-wifi RxLim[1] highRetries:0 highPhyPER:0 highDataPER:0 highOverflows:0 highRSSI:1 lowPhyRate:0 lowPhyRateTputRatio:0 
+[815971.934502]: LQM-WIFI: slow-wifi RxLim[1] highFCSErrors:0 highDups:0 highReplays:0 highDecryptErrors:0 highMCDecryptErrors:0 lowRxFrameCount:1
+[815971.934509]: LQM-WIFI: UI Entry curState:Idle prevState:PendingIP event:ChannelQualityUpdate data:0
+[815971.934517]: LQM-WIFI: UI Suboptimal link during idle
+[815971.934520]: LQM-WIFI: UI Exit curState:Idle prevState:PendingIP
+[815971.934524]: LQM-WIFI: slow-wifi Host and FW packet count mismatchLQM-WIFI: slow-wifi Host and FW packet count mismatch[IGFB][LOG  ][DISPLAY   ] getCurrentDisplayMode: FB=0 fCurrentMode = 0x80001003 fCurrentDepth = 0, fBootDisplay = 1.
+[815972.969463]: LQM-WIFI-CT: ofdmDesense=0 bphyDesense=0 reason=0x0
+[815973.610463]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<348 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815973.610489]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815973.610501]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815973.610511]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<18 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815973.610661]: LQM-WIFI: L3 Control VO TX(00:00:00:00:00:00) Success=18 NoACK=0 Expired=0 OtherErr=0
+[815973.610695]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815973.610720]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815973.610739]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815973.610756]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<0 0 0 0 0 0 0 0 0 0 0> (5000ms)
+[815973.611164]: com.apple.p2p: AWDLStateDump: Services[Valid 0 Airplay 0 WiFid 0 AirDrop 0 nonAirplay:0 rdlink:0 clink:0]
+[815973.747719]: LQM-WIFI:  WiFi Latency: TxLat-hist  [1(94 %) / 25(0 %) / 88(0 %) / 198(3 %)]   RxLat-hist  [0(0 %) / 0(0 %) / 0(0 %) / 0(0 %)]  intermittent-state = 0 
+[815973.747778]: LQM-WIFI-CT: rssi=-63(-66 -65) snr=30 bcn=43(37) txFrames=282 txRetry=62 txRate=390000 rxFrames=258 rxRetry=13 rxRate=585000 rxToss=0
+[815974.585107]: LQM-WIFI-CT: rssi=-62(-66 -65) snr=30 bcn=43(37) txFrames=282 txRetry=62 txRate=390000 rxFrames=258 rxRetry=13 rxRate=585000 rxToss=0
+[815976.946529]: LQM-WIFI: BT Coex Stats2:btDur=53ms(1%) status=0x5 reqTypeMap=0x300000 req=13 gnt=49 abort=540 rx1ovfl=0 latency=27 [5015ms]
+[815976.950446]: LQM-WIFI: slow-wifi featureEnabled:1 Channel:161 chWidth:80 phyMode:128 nss:3 RSSI:-62 CCA:36 SNR:30 offChanDurUS:1074617 TVPMDurMS:0 concurrentIntDurMS:1630521 randomMac:0 dataStallScore:100 networkScore:100
+[815976.950473]: LQM-WIFI: slow-wifi btAntDurMS:53 btESCO:0/0 rc1CoexDurMS:0 rc2CoexDurMS:0 lteCoexDurMS:0 totalNonWLANDurMS:1074 infraDutyCycle:78 lastScanType:0
+[815976.950482]: LQM-WIFI: slow-wifi availWLANDurMS:3936 availTxDurMS:2691 realTxDurMS:62 availRxDurMS:3874 realRxDurMS:1245 measurementDurMS:5010 lastScanDurMS:0
+[815976.950491]: LQM-WIFI: slow-wifi Tx tput (i/p:0 o/p:0 expected:0)Mbps queueFullDurMS:0 avgLatencyMS:4 maxLatencyMS:86 phyRate(mode:260 avg:396 expected:1004) phyRateTputRatio:0
+[815976.950500]: LQM-WIFI: slow-wifi Tx AMPDUDensity(actual:1 expectedAtQueueFull:64) retries:41 fails:0 fwFrames:256 hostFrames:0 hostFails:0 ctlPkts:16(25057) symptomsFails:0
+[815976.950510]: LQM-WIFI: slow-wifi TxLim[1] outputBelowExpected:0 outputBelowInput:0 lowTxFrameCount:1 queueFull:0 highLatency:0 baselineNotAllowed:0 highSymptomsFails:0
+[815976.950519]: LQM-WIFI: slow-wifi TxLim[1] lowPhyRate:0 lowPhyRateTputRatio:0 highPER:0 highRetries:0 lowTxAMPDUDensity:1 lowCCA:0 activeCoex:0 hostFWMismatch:1
+[815976.950527]: LQM-WIFI: slow-wifi Rx tput:0 Mbps baseline:0 Mbps overflows:0 fcsFail:172 plcpBad:90 goodPlcps:7070 crsGlitches:2115 fwFrames:12319 ucastFWFrames:196 hostFrames:0 AmpduDUP:0 APTxDataStallPct:0 rxAmpduTxBaMismatch:0
+[815976.950539]: LQM-WIFI: slow-wifi Rx ucast(replays:0 decryptErrs:0) mcast(replays:0 decryptErrs:0) phyRate(mode:520 avg:587 expected:1004) dups:0 retries:1 phyRateTputRatio:0
+[815976.950548]: LQM-WIFI: slow-wifi RxLim[1] highRetries:0 highPhyPER:0 highDataPER:0 highOverflows:0 highRSSI:1 lowPhyRate:0 lowPhyRateTputRatio:0 
+[815976.950556]: LQM-WIFI: slow-wifi RxLim[1] highFCSErrors:0 highDups:0 highReplays:0 highDecryptErrors:0 highMCDecryptErrors:0 lowRxFrameCount:1
+[815976.950563]: LQM-WIFI: UI Entry curState:Idle prevState:PendingIP event:ChannelQualityUpdate data:0
+[815976.950570]: LQM-WIFI: UI Suboptimal link during idle
+[815976.950573]: LQM-WIFI: UI Exit curState:Idle prevState:PendingIP
+[815976.950577]: LQM-WIFI: slow-wifi Host and FW packet count mismatchLQM-WIFI: slow-wifi Host and FW packet count mismatchcom.apple.p2p: isInfraRealtimePacketThresholdAllowed allowed:1 option:32 threshold:50 noRegistrations:1 cachedPeerCount:0 fastDiscoveryInactive:1 fastDiscoveryOnSince:196235251
+[815977.612200]: com.apple.wifi: LQM-WiFi:AWDL State #16 Infra Priority(29)  DutyCycle 22  StateDuration 7lu.884s[196227.913 - 0.000]   StateComplete  0
+[815977.612214]: com.apple.wifi: LQM-WiFi:AWDL Active Time 1320ms(22%) 6.000s[196229.797s - 196235.797s]
+[815977.970612]: LQM-WIFI-CT: ofdmDesense=0 bphyDesense=0 reason=0x0
+[815978.611823]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<222 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815978.611838]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815978.611850]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815978.611860]: LQM-WIFI: TX(00:00:00:00:00:00) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<15 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815978.612003]: LQM-WIFI: L3 Control VO TX(00:00:00:00:00:00) Success=15 NoACK=0 Expired=0 OtherErr=0
+[815978.612012]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BE<4 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815978.612030]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> BK<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815978.612044]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VI<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815978.612057]: LQM-WIFI: TX(FF:FF:FF:FF:FF:FF) AC<SU MS NB NRS NA CM EX TF FFP MRET FLE> VO<0 0 0 0 0 0 0 0 0 0 0> (5001ms)
+[815978.755596]: LQM-WIFI:  WiFi Latency: TxLat-hist  [5(94 %) / 0(0 %) / 77(5 %) / 0(0 %)]   RxLat-hist  [0(0 %) / 0(0 %) / 0(0 %) / 0(0 %)]  intermittent-state = 0 
+[815978.755646]: LQM-WIFI-CT: rssi=-62(-67 -63) snr=28 bcn=43(39) txFrames=173 txRetry=49 txRate=526500 rxFrames=139 rxRetry=12 rxRate=585000 rxToss=0
+[815979.612106]: com.apple.p2p: AWDLStateDump: Services[Valid 0 Airplay 0 WiFid 0 AirDrop 0 nonAirplay:0 rdlink:0 clink:0]
