@@ -1,18 +1,2465 @@
-[2024-07-14 19:49:25]      agrCtlRSSI: -67
-[2024-07-14 19:49:25]     agrCtlNoise: -91
-[2024-07-14 19:49:25]           state: running
-[2024-07-14 19:49:52]      agrCtlRSSI: -66
-[2024-07-14 19:49:52]     agrCtlNoise: -93
-[2024-07-14 19:49:52]           state: running
-[2024-07-14 19:49:53]      agrCtlRSSI: -65
-[2024-07-14 19:49:53]     agrCtlNoise: -92
-[2024-07-14 19:49:53]           state: running
-[2024-07-14 19:49:54]      agrCtlRSSI: -64
-[2024-07-14 19:49:54]     agrCtlNoise: -92
-[2024-07-14 19:49:54]           state: running
-[2024-07-14 19:49:55]      agrCtlRSSI: -65
-[2024-07-14 19:49:55]     agrCtlNoise: -92
-[2024-07-14 19:49:55]           state: running
-[2024-07-14 19:49:56]      agrCtlRSSI: -65
-[2024-07-14 19:49:56]     agrCtlNoise: -92
-[2024-07-14 19:49:56]           state: running
+[2024-07-14 20:36:56]      agrCtlRSSI: -67
+[2024-07-14 20:36:56]      agrExtRSSI: 0
+[2024-07-14 20:36:56]     agrCtlNoise: -91
+[2024-07-14 20:36:56]     agrExtNoise: 0
+[2024-07-14 20:36:56]           state: running
+[2024-07-14 20:36:56]         op mode: station 
+[2024-07-14 20:36:56]      lastTxRate: 526
+[2024-07-14 20:36:56]         maxRate: 217
+[2024-07-14 20:36:56] lastAssocStatus: 0
+[2024-07-14 20:36:56]     802.11 auth: open
+[2024-07-14 20:36:56]       link auth: wpa2-psk
+[2024-07-14 20:36:56]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:36:56]            SSID: No Weenies Allowed
+[2024-07-14 20:36:56]             MCS: 4
+[2024-07-14 20:36:56]   guardInterval: 400
+[2024-07-14 20:36:56]             NSS: 3
+[2024-07-14 20:36:56]         channel: 161,80
+[2024-07-14 20:36:57]      agrCtlRSSI: -67
+[2024-07-14 20:36:57]      agrExtRSSI: 0
+[2024-07-14 20:36:57]     agrCtlNoise: -91
+[2024-07-14 20:36:57]     agrExtNoise: 0
+[2024-07-14 20:36:57]           state: running
+[2024-07-14 20:36:57]         op mode: station 
+[2024-07-14 20:36:57]      lastTxRate: 526
+[2024-07-14 20:36:57]         maxRate: 217
+[2024-07-14 20:36:57] lastAssocStatus: 0
+[2024-07-14 20:36:57]     802.11 auth: open
+[2024-07-14 20:36:57]       link auth: wpa2-psk
+[2024-07-14 20:36:57]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:36:57]            SSID: No Weenies Allowed
+[2024-07-14 20:36:57]             MCS: 4
+[2024-07-14 20:36:57]   guardInterval: 400
+[2024-07-14 20:36:57]             NSS: 3
+[2024-07-14 20:36:57]         channel: 161,80
+[2024-07-14 20:36:58]      agrCtlRSSI: -67
+[2024-07-14 20:36:58]      agrExtRSSI: 0
+[2024-07-14 20:36:58]     agrCtlNoise: -91
+[2024-07-14 20:36:58]     agrExtNoise: 0
+[2024-07-14 20:36:58]           state: running
+[2024-07-14 20:36:58]         op mode: station 
+[2024-07-14 20:36:58]      lastTxRate: 526
+[2024-07-14 20:36:58]         maxRate: 217
+[2024-07-14 20:36:58] lastAssocStatus: 0
+[2024-07-14 20:36:58]     802.11 auth: open
+[2024-07-14 20:36:58]       link auth: wpa2-psk
+[2024-07-14 20:36:58]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:36:58]            SSID: No Weenies Allowed
+[2024-07-14 20:36:58]             MCS: 4
+[2024-07-14 20:36:58]   guardInterval: 400
+[2024-07-14 20:36:58]             NSS: 3
+[2024-07-14 20:36:58]         channel: 161,80
+[2024-07-14 20:36:59]      agrCtlRSSI: -66
+[2024-07-14 20:36:59]      agrExtRSSI: 0
+[2024-07-14 20:36:59]     agrCtlNoise: -91
+[2024-07-14 20:36:59]     agrExtNoise: 0
+[2024-07-14 20:36:59]           state: running
+[2024-07-14 20:36:59]         op mode: station 
+[2024-07-14 20:36:59]      lastTxRate: 526
+[2024-07-14 20:36:59]         maxRate: 217
+[2024-07-14 20:36:59] lastAssocStatus: 0
+[2024-07-14 20:36:59]     802.11 auth: open
+[2024-07-14 20:36:59]       link auth: wpa2-psk
+[2024-07-14 20:36:59]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:36:59]            SSID: No Weenies Allowed
+[2024-07-14 20:36:59]             MCS: 4
+[2024-07-14 20:36:59]   guardInterval: 400
+[2024-07-14 20:36:59]             NSS: 3
+[2024-07-14 20:36:59]         channel: 161,80
+[2024-07-14 20:37:01]      agrCtlRSSI: -66
+[2024-07-14 20:37:01]      agrExtRSSI: 0
+[2024-07-14 20:37:01]     agrCtlNoise: -91
+[2024-07-14 20:37:01]     agrExtNoise: 0
+[2024-07-14 20:37:01]           state: running
+[2024-07-14 20:37:01]         op mode: station 
+[2024-07-14 20:37:01]      lastTxRate: 585
+[2024-07-14 20:37:01]         maxRate: 217
+[2024-07-14 20:37:01] lastAssocStatus: 0
+[2024-07-14 20:37:01]     802.11 auth: open
+[2024-07-14 20:37:01]       link auth: wpa2-psk
+[2024-07-14 20:37:01]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:37:01]            SSID: No Weenies Allowed
+[2024-07-14 20:37:01]             MCS: 4
+[2024-07-14 20:37:01]   guardInterval: 400
+[2024-07-14 20:37:01]             NSS: 3
+[2024-07-14 20:37:01]         channel: 161,80
+[2024-07-14 20:39:04]      agrCtlRSSI: -68
+[2024-07-14 20:39:04]      agrExtRSSI: 0
+[2024-07-14 20:39:04]     agrCtlNoise: -91
+[2024-07-14 20:39:04]     agrExtNoise: 0
+[2024-07-14 20:39:04]           state: running
+[2024-07-14 20:39:04]         op mode: station 
+[2024-07-14 20:39:04]      lastTxRate: 351
+[2024-07-14 20:39:04]         maxRate: 217
+[2024-07-14 20:39:04] lastAssocStatus: 0
+[2024-07-14 20:39:04]     802.11 auth: open
+[2024-07-14 20:39:04]       link auth: wpa2-psk
+[2024-07-14 20:39:04]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:04]            SSID: No Weenies Allowed
+[2024-07-14 20:39:04]             MCS: 3
+[2024-07-14 20:39:04]   guardInterval: 400
+[2024-07-14 20:39:04]             NSS: 3
+[2024-07-14 20:39:04]         channel: 161,80
+[2024-07-14 20:39:05]      agrCtlRSSI: -68
+[2024-07-14 20:39:05]      agrExtRSSI: 0
+[2024-07-14 20:39:05]     agrCtlNoise: -91
+[2024-07-14 20:39:05]     agrExtNoise: 0
+[2024-07-14 20:39:05]           state: running
+[2024-07-14 20:39:05]         op mode: station 
+[2024-07-14 20:39:05]      lastTxRate: 351
+[2024-07-14 20:39:05]         maxRate: 217
+[2024-07-14 20:39:05] lastAssocStatus: 0
+[2024-07-14 20:39:05]     802.11 auth: open
+[2024-07-14 20:39:05]       link auth: wpa2-psk
+[2024-07-14 20:39:05]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:05]            SSID: No Weenies Allowed
+[2024-07-14 20:39:05]             MCS: 3
+[2024-07-14 20:39:05]   guardInterval: 400
+[2024-07-14 20:39:05]             NSS: 3
+[2024-07-14 20:39:05]         channel: 161,80
+[2024-07-14 20:39:06]      agrCtlRSSI: -69
+[2024-07-14 20:39:06]      agrExtRSSI: 0
+[2024-07-14 20:39:06]     agrCtlNoise: -91
+[2024-07-14 20:39:06]     agrExtNoise: 0
+[2024-07-14 20:39:06]           state: running
+[2024-07-14 20:39:06]         op mode: station 
+[2024-07-14 20:39:06]      lastTxRate: 351
+[2024-07-14 20:39:06]         maxRate: 217
+[2024-07-14 20:39:06] lastAssocStatus: 0
+[2024-07-14 20:39:06]     802.11 auth: open
+[2024-07-14 20:39:06]       link auth: wpa2-psk
+[2024-07-14 20:39:06]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:06]            SSID: No Weenies Allowed
+[2024-07-14 20:39:06]             MCS: 3
+[2024-07-14 20:39:06]   guardInterval: 400
+[2024-07-14 20:39:06]             NSS: 3
+[2024-07-14 20:39:06]         channel: 161,80
+[2024-07-14 20:39:07]      agrCtlRSSI: -69
+[2024-07-14 20:39:07]      agrExtRSSI: 0
+[2024-07-14 20:39:07]     agrCtlNoise: -92
+[2024-07-14 20:39:07]     agrExtNoise: 0
+[2024-07-14 20:39:07]           state: running
+[2024-07-14 20:39:07]         op mode: station 
+[2024-07-14 20:39:07]      lastTxRate: 351
+[2024-07-14 20:39:07]         maxRate: 217
+[2024-07-14 20:39:07] lastAssocStatus: 0
+[2024-07-14 20:39:07]     802.11 auth: open
+[2024-07-14 20:39:07]       link auth: wpa2-psk
+[2024-07-14 20:39:07]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:07]            SSID: No Weenies Allowed
+[2024-07-14 20:39:07]             MCS: 3
+[2024-07-14 20:39:07]   guardInterval: 400
+[2024-07-14 20:39:07]             NSS: 3
+[2024-07-14 20:39:07]         channel: 161,80
+[2024-07-14 20:39:08]      agrCtlRSSI: -70
+[2024-07-14 20:39:08]      agrExtRSSI: 0
+[2024-07-14 20:39:08]     agrCtlNoise: -92
+[2024-07-14 20:39:08]     agrExtNoise: 0
+[2024-07-14 20:39:08]           state: running
+[2024-07-14 20:39:08]         op mode: station 
+[2024-07-14 20:39:08]      lastTxRate: 351
+[2024-07-14 20:39:08]         maxRate: 217
+[2024-07-14 20:39:08] lastAssocStatus: 0
+[2024-07-14 20:39:08]     802.11 auth: open
+[2024-07-14 20:39:08]       link auth: wpa2-psk
+[2024-07-14 20:39:08]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:08]            SSID: No Weenies Allowed
+[2024-07-14 20:39:08]             MCS: 3
+[2024-07-14 20:39:08]   guardInterval: 400
+[2024-07-14 20:39:08]             NSS: 3
+[2024-07-14 20:39:08]         channel: 161,80
+[2024-07-14 20:39:21]      agrCtlRSSI: -68
+[2024-07-14 20:39:21]      agrExtRSSI: 0
+[2024-07-14 20:39:21]     agrCtlNoise: -91
+[2024-07-14 20:39:21]     agrExtNoise: 0
+[2024-07-14 20:39:21]           state: running
+[2024-07-14 20:39:21]         op mode: station 
+[2024-07-14 20:39:21]      lastTxRate: 351
+[2024-07-14 20:39:21]         maxRate: 217
+[2024-07-14 20:39:21] lastAssocStatus: 0
+[2024-07-14 20:39:21]     802.11 auth: open
+[2024-07-14 20:39:21]       link auth: wpa2-psk
+[2024-07-14 20:39:21]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:21]            SSID: No Weenies Allowed
+[2024-07-14 20:39:21]             MCS: 3
+[2024-07-14 20:39:21]   guardInterval: 400
+[2024-07-14 20:39:21]             NSS: 3
+[2024-07-14 20:39:21]         channel: 161,80
+[2024-07-14 20:39:22]      agrCtlRSSI: -68
+[2024-07-14 20:39:22]      agrExtRSSI: 0
+[2024-07-14 20:39:22]     agrCtlNoise: -91
+[2024-07-14 20:39:22]     agrExtNoise: 0
+[2024-07-14 20:39:22]           state: running
+[2024-07-14 20:39:22]         op mode: station 
+[2024-07-14 20:39:22]      lastTxRate: 351
+[2024-07-14 20:39:22]         maxRate: 217
+[2024-07-14 20:39:22] lastAssocStatus: 0
+[2024-07-14 20:39:22]     802.11 auth: open
+[2024-07-14 20:39:22]       link auth: wpa2-psk
+[2024-07-14 20:39:22]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:22]            SSID: No Weenies Allowed
+[2024-07-14 20:39:22]             MCS: 3
+[2024-07-14 20:39:22]   guardInterval: 400
+[2024-07-14 20:39:22]             NSS: 3
+[2024-07-14 20:39:22]         channel: 161,80
+[2024-07-14 20:39:23]      agrCtlRSSI: -69
+[2024-07-14 20:39:23]      agrExtRSSI: 0
+[2024-07-14 20:39:23]     agrCtlNoise: -91
+[2024-07-14 20:39:23]     agrExtNoise: 0
+[2024-07-14 20:39:23]           state: running
+[2024-07-14 20:39:23]         op mode: station 
+[2024-07-14 20:39:23]      lastTxRate: 351
+[2024-07-14 20:39:23]         maxRate: 217
+[2024-07-14 20:39:23] lastAssocStatus: 0
+[2024-07-14 20:39:23]     802.11 auth: open
+[2024-07-14 20:39:23]       link auth: wpa2-psk
+[2024-07-14 20:39:23]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:23]            SSID: No Weenies Allowed
+[2024-07-14 20:39:23]             MCS: 3
+[2024-07-14 20:39:23]   guardInterval: 400
+[2024-07-14 20:39:23]             NSS: 3
+[2024-07-14 20:39:23]         channel: 161,80
+[2024-07-14 20:39:24]      agrCtlRSSI: -68
+[2024-07-14 20:39:24]      agrExtRSSI: 0
+[2024-07-14 20:39:24]     agrCtlNoise: -91
+[2024-07-14 20:39:24]     agrExtNoise: 0
+[2024-07-14 20:39:24]           state: running
+[2024-07-14 20:39:24]         op mode: station 
+[2024-07-14 20:39:24]      lastTxRate: 351
+[2024-07-14 20:39:24]         maxRate: 217
+[2024-07-14 20:39:24] lastAssocStatus: 0
+[2024-07-14 20:39:24]     802.11 auth: open
+[2024-07-14 20:39:24]       link auth: wpa2-psk
+[2024-07-14 20:39:24]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:24]            SSID: No Weenies Allowed
+[2024-07-14 20:39:24]             MCS: 3
+[2024-07-14 20:39:24]   guardInterval: 400
+[2024-07-14 20:39:24]             NSS: 3
+[2024-07-14 20:39:24]         channel: 161,80
+[2024-07-14 20:39:26]      agrCtlRSSI: -68
+[2024-07-14 20:39:26]      agrExtRSSI: 0
+[2024-07-14 20:39:26]     agrCtlNoise: -92
+[2024-07-14 20:39:26]     agrExtNoise: 0
+[2024-07-14 20:39:26]           state: running
+[2024-07-14 20:39:26]         op mode: station 
+[2024-07-14 20:39:26]      lastTxRate: 351
+[2024-07-14 20:39:26]         maxRate: 217
+[2024-07-14 20:39:26] lastAssocStatus: 0
+[2024-07-14 20:39:26]     802.11 auth: open
+[2024-07-14 20:39:26]       link auth: wpa2-psk
+[2024-07-14 20:39:26]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:26]            SSID: No Weenies Allowed
+[2024-07-14 20:39:26]             MCS: 3
+[2024-07-14 20:39:26]   guardInterval: 400
+[2024-07-14 20:39:26]             NSS: 3
+[2024-07-14 20:39:26]         channel: 161,80
+[2024-07-14 20:39:35]      agrCtlRSSI: -68
+[2024-07-14 20:39:35]      agrExtRSSI: 0
+[2024-07-14 20:39:35]     agrCtlNoise: -92
+[2024-07-14 20:39:35]     agrExtNoise: 0
+[2024-07-14 20:39:35]           state: running
+[2024-07-14 20:39:35]         op mode: station 
+[2024-07-14 20:39:35]      lastTxRate: 390
+[2024-07-14 20:39:35]         maxRate: 217
+[2024-07-14 20:39:35] lastAssocStatus: 0
+[2024-07-14 20:39:35]     802.11 auth: open
+[2024-07-14 20:39:35]       link auth: wpa2-psk
+[2024-07-14 20:39:35]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:35]            SSID: No Weenies Allowed
+[2024-07-14 20:39:35]             MCS: 3
+[2024-07-14 20:39:35]   guardInterval: 400
+[2024-07-14 20:39:35]             NSS: 3
+[2024-07-14 20:39:35]         channel: 161,80
+[2024-07-14 20:39:36]      agrCtlRSSI: -67
+[2024-07-14 20:39:36]      agrExtRSSI: 0
+[2024-07-14 20:39:36]     agrCtlNoise: -92
+[2024-07-14 20:39:36]     agrExtNoise: 0
+[2024-07-14 20:39:36]           state: running
+[2024-07-14 20:39:36]         op mode: station 
+[2024-07-14 20:39:36]      lastTxRate: 390
+[2024-07-14 20:39:36]         maxRate: 217
+[2024-07-14 20:39:36] lastAssocStatus: 0
+[2024-07-14 20:39:36]     802.11 auth: open
+[2024-07-14 20:39:36]       link auth: wpa2-psk
+[2024-07-14 20:39:36]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:36]            SSID: No Weenies Allowed
+[2024-07-14 20:39:36]             MCS: 3
+[2024-07-14 20:39:36]   guardInterval: 400
+[2024-07-14 20:39:36]             NSS: 3
+[2024-07-14 20:39:36]         channel: 161,80
+[2024-07-14 20:39:37]      agrCtlRSSI: -67
+[2024-07-14 20:39:37]      agrExtRSSI: 0
+[2024-07-14 20:39:37]     agrCtlNoise: -92
+[2024-07-14 20:39:37]     agrExtNoise: 0
+[2024-07-14 20:39:37]           state: running
+[2024-07-14 20:39:37]         op mode: station 
+[2024-07-14 20:39:37]      lastTxRate: 390
+[2024-07-14 20:39:37]         maxRate: 217
+[2024-07-14 20:39:37] lastAssocStatus: 0
+[2024-07-14 20:39:37]     802.11 auth: open
+[2024-07-14 20:39:37]       link auth: wpa2-psk
+[2024-07-14 20:39:37]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:37]            SSID: No Weenies Allowed
+[2024-07-14 20:39:37]             MCS: 3
+[2024-07-14 20:39:37]   guardInterval: 400
+[2024-07-14 20:39:37]             NSS: 3
+[2024-07-14 20:39:37]         channel: 161,80
+[2024-07-14 20:39:38]      agrCtlRSSI: -68
+[2024-07-14 20:39:38]      agrExtRSSI: 0
+[2024-07-14 20:39:38]     agrCtlNoise: -92
+[2024-07-14 20:39:38]     agrExtNoise: 0
+[2024-07-14 20:39:38]           state: running
+[2024-07-14 20:39:38]         op mode: station 
+[2024-07-14 20:39:38]      lastTxRate: 390
+[2024-07-14 20:39:38]         maxRate: 217
+[2024-07-14 20:39:38] lastAssocStatus: 0
+[2024-07-14 20:39:38]     802.11 auth: open
+[2024-07-14 20:39:38]       link auth: wpa2-psk
+[2024-07-14 20:39:38]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:38]            SSID: No Weenies Allowed
+[2024-07-14 20:39:38]             MCS: 3
+[2024-07-14 20:39:38]   guardInterval: 400
+[2024-07-14 20:39:38]             NSS: 3
+[2024-07-14 20:39:38]         channel: 161,80
+[2024-07-14 20:39:39]      agrCtlRSSI: -68
+[2024-07-14 20:39:39]      agrExtRSSI: 0
+[2024-07-14 20:39:39]     agrCtlNoise: -92
+[2024-07-14 20:39:39]     agrExtNoise: 0
+[2024-07-14 20:39:39]           state: running
+[2024-07-14 20:39:39]         op mode: station 
+[2024-07-14 20:39:39]      lastTxRate: 390
+[2024-07-14 20:39:39]         maxRate: 217
+[2024-07-14 20:39:39] lastAssocStatus: 0
+[2024-07-14 20:39:39]     802.11 auth: open
+[2024-07-14 20:39:39]       link auth: wpa2-psk
+[2024-07-14 20:39:39]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:39]            SSID: No Weenies Allowed
+[2024-07-14 20:39:39]             MCS: 3
+[2024-07-14 20:39:39]   guardInterval: 400
+[2024-07-14 20:39:39]             NSS: 3
+[2024-07-14 20:39:39]         channel: 161,80
+[2024-07-14 20:39:40]      agrCtlRSSI: -68
+[2024-07-14 20:39:40]      agrExtRSSI: 0
+[2024-07-14 20:39:40]     agrCtlNoise: -92
+[2024-07-14 20:39:40]     agrExtNoise: 0
+[2024-07-14 20:39:40]           state: running
+[2024-07-14 20:39:40]         op mode: station 
+[2024-07-14 20:39:40]      lastTxRate: 390
+[2024-07-14 20:39:40]         maxRate: 217
+[2024-07-14 20:39:40] lastAssocStatus: 0
+[2024-07-14 20:39:40]     802.11 auth: open
+[2024-07-14 20:39:40]       link auth: wpa2-psk
+[2024-07-14 20:39:40]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:40]            SSID: No Weenies Allowed
+[2024-07-14 20:39:40]             MCS: 3
+[2024-07-14 20:39:40]   guardInterval: 400
+[2024-07-14 20:39:40]             NSS: 3
+[2024-07-14 20:39:40]         channel: 161,80
+[2024-07-14 20:39:41]      agrCtlRSSI: -68
+[2024-07-14 20:39:41]      agrExtRSSI: 0
+[2024-07-14 20:39:41]     agrCtlNoise: -91
+[2024-07-14 20:39:41]     agrExtNoise: 0
+[2024-07-14 20:39:41]           state: running
+[2024-07-14 20:39:41]         op mode: station 
+[2024-07-14 20:39:41]      lastTxRate: 390
+[2024-07-14 20:39:41]         maxRate: 217
+[2024-07-14 20:39:41] lastAssocStatus: 0
+[2024-07-14 20:39:41]     802.11 auth: open
+[2024-07-14 20:39:41]       link auth: wpa2-psk
+[2024-07-14 20:39:41]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:41]            SSID: No Weenies Allowed
+[2024-07-14 20:39:41]             MCS: 3
+[2024-07-14 20:39:41]   guardInterval: 400
+[2024-07-14 20:39:41]             NSS: 3
+[2024-07-14 20:39:41]         channel: 161,80
+[2024-07-14 20:39:42]      agrCtlRSSI: -68
+[2024-07-14 20:39:42]      agrExtRSSI: 0
+[2024-07-14 20:39:42]     agrCtlNoise: -91
+[2024-07-14 20:39:42]     agrExtNoise: 0
+[2024-07-14 20:39:42]           state: running
+[2024-07-14 20:39:42]         op mode: station 
+[2024-07-14 20:39:42]      lastTxRate: 390
+[2024-07-14 20:39:42]         maxRate: 217
+[2024-07-14 20:39:42] lastAssocStatus: 0
+[2024-07-14 20:39:42]     802.11 auth: open
+[2024-07-14 20:39:42]       link auth: wpa2-psk
+[2024-07-14 20:39:42]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:42]            SSID: No Weenies Allowed
+[2024-07-14 20:39:42]             MCS: 3
+[2024-07-14 20:39:42]   guardInterval: 400
+[2024-07-14 20:39:42]             NSS: 3
+[2024-07-14 20:39:42]         channel: 161,80
+[2024-07-14 20:39:43]      agrCtlRSSI: -68
+[2024-07-14 20:39:43]      agrExtRSSI: 0
+[2024-07-14 20:39:43]     agrCtlNoise: -91
+[2024-07-14 20:39:43]     agrExtNoise: 0
+[2024-07-14 20:39:43]           state: running
+[2024-07-14 20:39:43]         op mode: station 
+[2024-07-14 20:39:43]      lastTxRate: 390
+[2024-07-14 20:39:43]         maxRate: 217
+[2024-07-14 20:39:43] lastAssocStatus: 0
+[2024-07-14 20:39:43]     802.11 auth: open
+[2024-07-14 20:39:43]       link auth: wpa2-psk
+[2024-07-14 20:39:43]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:43]            SSID: No Weenies Allowed
+[2024-07-14 20:39:43]             MCS: 3
+[2024-07-14 20:39:43]   guardInterval: 400
+[2024-07-14 20:39:43]             NSS: 3
+[2024-07-14 20:39:43]         channel: 161,80
+[2024-07-14 20:39:44]      agrCtlRSSI: -68
+[2024-07-14 20:39:44]      agrExtRSSI: 0
+[2024-07-14 20:39:44]     agrCtlNoise: -91
+[2024-07-14 20:39:44]     agrExtNoise: 0
+[2024-07-14 20:39:44]           state: running
+[2024-07-14 20:39:44]         op mode: station 
+[2024-07-14 20:39:44]      lastTxRate: 390
+[2024-07-14 20:39:44]         maxRate: 217
+[2024-07-14 20:39:44] lastAssocStatus: 0
+[2024-07-14 20:39:44]     802.11 auth: open
+[2024-07-14 20:39:44]       link auth: wpa2-psk
+[2024-07-14 20:39:44]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:44]            SSID: No Weenies Allowed
+[2024-07-14 20:39:44]             MCS: 3
+[2024-07-14 20:39:44]   guardInterval: 400
+[2024-07-14 20:39:44]             NSS: 3
+[2024-07-14 20:39:44]         channel: 161,80
+[2024-07-14 20:39:45]      agrCtlRSSI: -68
+[2024-07-14 20:39:45]      agrExtRSSI: 0
+[2024-07-14 20:39:45]     agrCtlNoise: -89
+[2024-07-14 20:39:45]     agrExtNoise: 0
+[2024-07-14 20:39:45]           state: running
+[2024-07-14 20:39:45]         op mode: station 
+[2024-07-14 20:39:45]      lastTxRate: 351
+[2024-07-14 20:39:45]         maxRate: 217
+[2024-07-14 20:39:45] lastAssocStatus: 0
+[2024-07-14 20:39:45]     802.11 auth: open
+[2024-07-14 20:39:45]       link auth: wpa2-psk
+[2024-07-14 20:39:45]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:45]            SSID: No Weenies Allowed
+[2024-07-14 20:39:45]             MCS: 3
+[2024-07-14 20:39:45]   guardInterval: 400
+[2024-07-14 20:39:45]             NSS: 3
+[2024-07-14 20:39:45]         channel: 161,80
+[2024-07-14 20:39:46]      agrCtlRSSI: -67
+[2024-07-14 20:39:46]      agrExtRSSI: 0
+[2024-07-14 20:39:46]     agrCtlNoise: -89
+[2024-07-14 20:39:46]     agrExtNoise: 0
+[2024-07-14 20:39:46]           state: running
+[2024-07-14 20:39:46]         op mode: station 
+[2024-07-14 20:39:46]      lastTxRate: 351
+[2024-07-14 20:39:46]         maxRate: 217
+[2024-07-14 20:39:46] lastAssocStatus: 0
+[2024-07-14 20:39:46]     802.11 auth: open
+[2024-07-14 20:39:46]       link auth: wpa2-psk
+[2024-07-14 20:39:46]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:46]            SSID: No Weenies Allowed
+[2024-07-14 20:39:46]             MCS: 3
+[2024-07-14 20:39:46]   guardInterval: 400
+[2024-07-14 20:39:46]             NSS: 3
+[2024-07-14 20:39:46]         channel: 161,80
+[2024-07-14 20:39:47]      agrCtlRSSI: -68
+[2024-07-14 20:39:47]      agrExtRSSI: 0
+[2024-07-14 20:39:47]     agrCtlNoise: -89
+[2024-07-14 20:39:47]     agrExtNoise: 0
+[2024-07-14 20:39:47]           state: running
+[2024-07-14 20:39:47]         op mode: station 
+[2024-07-14 20:39:47]      lastTxRate: 351
+[2024-07-14 20:39:47]         maxRate: 217
+[2024-07-14 20:39:47] lastAssocStatus: 0
+[2024-07-14 20:39:47]     802.11 auth: open
+[2024-07-14 20:39:47]       link auth: wpa2-psk
+[2024-07-14 20:39:47]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:47]            SSID: No Weenies Allowed
+[2024-07-14 20:39:47]             MCS: 3
+[2024-07-14 20:39:47]   guardInterval: 400
+[2024-07-14 20:39:47]             NSS: 3
+[2024-07-14 20:39:47]         channel: 161,80
+[2024-07-14 20:39:48]      agrCtlRSSI: -68
+[2024-07-14 20:39:48]      agrExtRSSI: 0
+[2024-07-14 20:39:48]     agrCtlNoise: -89
+[2024-07-14 20:39:48]     agrExtNoise: 0
+[2024-07-14 20:39:48]           state: running
+[2024-07-14 20:39:48]         op mode: station 
+[2024-07-14 20:39:48]      lastTxRate: 351
+[2024-07-14 20:39:48]         maxRate: 217
+[2024-07-14 20:39:48] lastAssocStatus: 0
+[2024-07-14 20:39:48]     802.11 auth: open
+[2024-07-14 20:39:48]       link auth: wpa2-psk
+[2024-07-14 20:39:48]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:48]            SSID: No Weenies Allowed
+[2024-07-14 20:39:48]             MCS: 3
+[2024-07-14 20:39:48]   guardInterval: 400
+[2024-07-14 20:39:48]             NSS: 3
+[2024-07-14 20:39:48]         channel: 161,80
+[2024-07-14 20:39:49]      agrCtlRSSI: -68
+[2024-07-14 20:39:49]      agrExtRSSI: 0
+[2024-07-14 20:39:49]     agrCtlNoise: -89
+[2024-07-14 20:39:49]     agrExtNoise: 0
+[2024-07-14 20:39:49]           state: running
+[2024-07-14 20:39:49]         op mode: station 
+[2024-07-14 20:39:49]      lastTxRate: 351
+[2024-07-14 20:39:49]         maxRate: 217
+[2024-07-14 20:39:49] lastAssocStatus: 0
+[2024-07-14 20:39:49]     802.11 auth: open
+[2024-07-14 20:39:49]       link auth: wpa2-psk
+[2024-07-14 20:39:49]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:49]            SSID: No Weenies Allowed
+[2024-07-14 20:39:49]             MCS: 3
+[2024-07-14 20:39:49]   guardInterval: 400
+[2024-07-14 20:39:49]             NSS: 3
+[2024-07-14 20:39:49]         channel: 161,80
+[2024-07-14 20:39:50]      agrCtlRSSI: -68
+[2024-07-14 20:39:50]      agrExtRSSI: 0
+[2024-07-14 20:39:50]     agrCtlNoise: -88
+[2024-07-14 20:39:50]     agrExtNoise: 0
+[2024-07-14 20:39:50]           state: running
+[2024-07-14 20:39:50]         op mode: station 
+[2024-07-14 20:39:50]      lastTxRate: 390
+[2024-07-14 20:39:50]         maxRate: 217
+[2024-07-14 20:39:50] lastAssocStatus: 0
+[2024-07-14 20:39:50]     802.11 auth: open
+[2024-07-14 20:39:50]       link auth: wpa2-psk
+[2024-07-14 20:39:50]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:50]            SSID: No Weenies Allowed
+[2024-07-14 20:39:50]             MCS: 3
+[2024-07-14 20:39:50]   guardInterval: 400
+[2024-07-14 20:39:50]             NSS: 3
+[2024-07-14 20:39:50]         channel: 161,80
+[2024-07-14 20:39:51]      agrCtlRSSI: -68
+[2024-07-14 20:39:51]      agrExtRSSI: 0
+[2024-07-14 20:39:51]     agrCtlNoise: -88
+[2024-07-14 20:39:51]     agrExtNoise: 0
+[2024-07-14 20:39:51]           state: running
+[2024-07-14 20:39:51]         op mode: station 
+[2024-07-14 20:39:51]      lastTxRate: 390
+[2024-07-14 20:39:51]         maxRate: 217
+[2024-07-14 20:39:51] lastAssocStatus: 0
+[2024-07-14 20:39:51]     802.11 auth: open
+[2024-07-14 20:39:51]       link auth: wpa2-psk
+[2024-07-14 20:39:51]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:51]            SSID: No Weenies Allowed
+[2024-07-14 20:39:51]             MCS: 3
+[2024-07-14 20:39:51]   guardInterval: 400
+[2024-07-14 20:39:51]             NSS: 3
+[2024-07-14 20:39:51]         channel: 161,80
+[2024-07-14 20:39:52]      agrCtlRSSI: -68
+[2024-07-14 20:39:52]      agrExtRSSI: 0
+[2024-07-14 20:39:52]     agrCtlNoise: -88
+[2024-07-14 20:39:52]     agrExtNoise: 0
+[2024-07-14 20:39:52]           state: running
+[2024-07-14 20:39:52]         op mode: station 
+[2024-07-14 20:39:52]      lastTxRate: 390
+[2024-07-14 20:39:52]         maxRate: 217
+[2024-07-14 20:39:52] lastAssocStatus: 0
+[2024-07-14 20:39:52]     802.11 auth: open
+[2024-07-14 20:39:52]       link auth: wpa2-psk
+[2024-07-14 20:39:52]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:52]            SSID: No Weenies Allowed
+[2024-07-14 20:39:52]             MCS: 3
+[2024-07-14 20:39:52]   guardInterval: 400
+[2024-07-14 20:39:52]             NSS: 3
+[2024-07-14 20:39:52]         channel: 161,80
+[2024-07-14 20:39:53]      agrCtlRSSI: -67
+[2024-07-14 20:39:53]      agrExtRSSI: 0
+[2024-07-14 20:39:53]     agrCtlNoise: -88
+[2024-07-14 20:39:53]     agrExtNoise: 0
+[2024-07-14 20:39:53]           state: running
+[2024-07-14 20:39:53]         op mode: station 
+[2024-07-14 20:39:53]      lastTxRate: 390
+[2024-07-14 20:39:53]         maxRate: 217
+[2024-07-14 20:39:53] lastAssocStatus: 0
+[2024-07-14 20:39:53]     802.11 auth: open
+[2024-07-14 20:39:53]       link auth: wpa2-psk
+[2024-07-14 20:39:53]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:53]            SSID: No Weenies Allowed
+[2024-07-14 20:39:53]             MCS: 3
+[2024-07-14 20:39:53]   guardInterval: 400
+[2024-07-14 20:39:53]             NSS: 3
+[2024-07-14 20:39:53]         channel: 161,80
+[2024-07-14 20:39:54]      agrCtlRSSI: -67
+[2024-07-14 20:39:54]      agrExtRSSI: 0
+[2024-07-14 20:39:54]     agrCtlNoise: -88
+[2024-07-14 20:39:54]     agrExtNoise: 0
+[2024-07-14 20:39:54]           state: running
+[2024-07-14 20:39:54]         op mode: station 
+[2024-07-14 20:39:54]      lastTxRate: 390
+[2024-07-14 20:39:54]         maxRate: 217
+[2024-07-14 20:39:54] lastAssocStatus: 0
+[2024-07-14 20:39:54]     802.11 auth: open
+[2024-07-14 20:39:54]       link auth: wpa2-psk
+[2024-07-14 20:39:54]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:54]            SSID: No Weenies Allowed
+[2024-07-14 20:39:54]             MCS: 3
+[2024-07-14 20:39:54]   guardInterval: 400
+[2024-07-14 20:39:54]             NSS: 3
+[2024-07-14 20:39:54]         channel: 161,80
+[2024-07-14 20:39:55]      agrCtlRSSI: -68
+[2024-07-14 20:39:55]      agrExtRSSI: 0
+[2024-07-14 20:39:55]     agrCtlNoise: -88
+[2024-07-14 20:39:55]     agrExtNoise: 0
+[2024-07-14 20:39:55]           state: running
+[2024-07-14 20:39:55]         op mode: station 
+[2024-07-14 20:39:55]      lastTxRate: 390
+[2024-07-14 20:39:55]         maxRate: 217
+[2024-07-14 20:39:55] lastAssocStatus: 0
+[2024-07-14 20:39:55]     802.11 auth: open
+[2024-07-14 20:39:55]       link auth: wpa2-psk
+[2024-07-14 20:39:55]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:55]            SSID: No Weenies Allowed
+[2024-07-14 20:39:55]             MCS: 3
+[2024-07-14 20:39:55]   guardInterval: 400
+[2024-07-14 20:39:55]             NSS: 3
+[2024-07-14 20:39:55]         channel: 161,80
+[2024-07-14 20:39:56]      agrCtlRSSI: -68
+[2024-07-14 20:39:56]      agrExtRSSI: 0
+[2024-07-14 20:39:56]     agrCtlNoise: -88
+[2024-07-14 20:39:56]     agrExtNoise: 0
+[2024-07-14 20:39:56]           state: running
+[2024-07-14 20:39:56]         op mode: station 
+[2024-07-14 20:39:56]      lastTxRate: 390
+[2024-07-14 20:39:56]         maxRate: 217
+[2024-07-14 20:39:56] lastAssocStatus: 0
+[2024-07-14 20:39:56]     802.11 auth: open
+[2024-07-14 20:39:56]       link auth: wpa2-psk
+[2024-07-14 20:39:56]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:56]            SSID: No Weenies Allowed
+[2024-07-14 20:39:56]             MCS: 3
+[2024-07-14 20:39:56]   guardInterval: 400
+[2024-07-14 20:39:56]             NSS: 3
+[2024-07-14 20:39:56]         channel: 161,80
+[2024-07-14 20:39:58]      agrCtlRSSI: -68
+[2024-07-14 20:39:58]      agrExtRSSI: 0
+[2024-07-14 20:39:58]     agrCtlNoise: -88
+[2024-07-14 20:39:58]     agrExtNoise: 0
+[2024-07-14 20:39:58]           state: running
+[2024-07-14 20:39:58]         op mode: station 
+[2024-07-14 20:39:58]      lastTxRate: 390
+[2024-07-14 20:39:58]         maxRate: 217
+[2024-07-14 20:39:58] lastAssocStatus: 0
+[2024-07-14 20:39:58]     802.11 auth: open
+[2024-07-14 20:39:58]       link auth: wpa2-psk
+[2024-07-14 20:39:58]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:58]            SSID: No Weenies Allowed
+[2024-07-14 20:39:58]             MCS: 3
+[2024-07-14 20:39:58]   guardInterval: 400
+[2024-07-14 20:39:58]             NSS: 3
+[2024-07-14 20:39:58]         channel: 161,80
+[2024-07-14 20:39:59]      agrCtlRSSI: -67
+[2024-07-14 20:39:59]      agrExtRSSI: 0
+[2024-07-14 20:39:59]     agrCtlNoise: -88
+[2024-07-14 20:39:59]     agrExtNoise: 0
+[2024-07-14 20:39:59]           state: running
+[2024-07-14 20:39:59]         op mode: station 
+[2024-07-14 20:39:59]      lastTxRate: 390
+[2024-07-14 20:39:59]         maxRate: 217
+[2024-07-14 20:39:59] lastAssocStatus: 0
+[2024-07-14 20:39:59]     802.11 auth: open
+[2024-07-14 20:39:59]       link auth: wpa2-psk
+[2024-07-14 20:39:59]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:39:59]            SSID: No Weenies Allowed
+[2024-07-14 20:39:59]             MCS: 3
+[2024-07-14 20:39:59]   guardInterval: 400
+[2024-07-14 20:39:59]             NSS: 3
+[2024-07-14 20:39:59]         channel: 161,80
+[2024-07-14 20:40:00]      agrCtlRSSI: -68
+[2024-07-14 20:40:00]      agrExtRSSI: 0
+[2024-07-14 20:40:00]     agrCtlNoise: -88
+[2024-07-14 20:40:00]     agrExtNoise: 0
+[2024-07-14 20:40:00]           state: running
+[2024-07-14 20:40:00]         op mode: station 
+[2024-07-14 20:40:00]      lastTxRate: 390
+[2024-07-14 20:40:00]         maxRate: 217
+[2024-07-14 20:40:00] lastAssocStatus: 0
+[2024-07-14 20:40:00]     802.11 auth: open
+[2024-07-14 20:40:00]       link auth: wpa2-psk
+[2024-07-14 20:40:00]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:40:00]            SSID: No Weenies Allowed
+[2024-07-14 20:40:00]             MCS: 3
+[2024-07-14 20:40:00]   guardInterval: 400
+[2024-07-14 20:40:00]             NSS: 3
+[2024-07-14 20:40:00]         channel: 161,80
+[2024-07-14 20:40:01]      agrCtlRSSI: -67
+[2024-07-14 20:40:01]      agrExtRSSI: 0
+[2024-07-14 20:40:01]     agrCtlNoise: -90
+[2024-07-14 20:40:01]     agrExtNoise: 0
+[2024-07-14 20:40:01]           state: running
+[2024-07-14 20:40:01]         op mode: station 
+[2024-07-14 20:40:01]      lastTxRate: 390
+[2024-07-14 20:40:01]         maxRate: 217
+[2024-07-14 20:40:01] lastAssocStatus: 0
+[2024-07-14 20:40:01]     802.11 auth: open
+[2024-07-14 20:40:01]       link auth: wpa2-psk
+[2024-07-14 20:40:01]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:40:01]            SSID: No Weenies Allowed
+[2024-07-14 20:40:01]             MCS: 3
+[2024-07-14 20:40:01]   guardInterval: 400
+[2024-07-14 20:40:01]             NSS: 3
+[2024-07-14 20:40:01]         channel: 161,80
+[2024-07-14 20:40:02]      agrCtlRSSI: -67
+[2024-07-14 20:40:02]      agrExtRSSI: 0
+[2024-07-14 20:40:02]     agrCtlNoise: -90
+[2024-07-14 20:40:02]     agrExtNoise: 0
+[2024-07-14 20:40:02]           state: running
+[2024-07-14 20:40:02]         op mode: station 
+[2024-07-14 20:40:02]      lastTxRate: 390
+[2024-07-14 20:40:02]         maxRate: 217
+[2024-07-14 20:40:02] lastAssocStatus: 0
+[2024-07-14 20:40:02]     802.11 auth: open
+[2024-07-14 20:40:02]       link auth: wpa2-psk
+[2024-07-14 20:40:02]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:40:02]            SSID: No Weenies Allowed
+[2024-07-14 20:40:02]             MCS: 3
+[2024-07-14 20:40:02]   guardInterval: 400
+[2024-07-14 20:40:02]             NSS: 3
+[2024-07-14 20:40:02]         channel: 161,80
+[2024-07-14 20:40:03]      agrCtlRSSI: -67
+[2024-07-14 20:40:03]      agrExtRSSI: 0
+[2024-07-14 20:40:03]     agrCtlNoise: -90
+[2024-07-14 20:40:03]     agrExtNoise: 0
+[2024-07-14 20:40:03]           state: running
+[2024-07-14 20:40:03]         op mode: station 
+[2024-07-14 20:40:03]      lastTxRate: 390
+[2024-07-14 20:40:03]         maxRate: 217
+[2024-07-14 20:40:03] lastAssocStatus: 0
+[2024-07-14 20:40:03]     802.11 auth: open
+[2024-07-14 20:40:03]       link auth: wpa2-psk
+[2024-07-14 20:40:03]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:40:03]            SSID: No Weenies Allowed
+[2024-07-14 20:40:03]             MCS: 3
+[2024-07-14 20:40:03]   guardInterval: 400
+[2024-07-14 20:40:03]             NSS: 3
+[2024-07-14 20:40:03]         channel: 161,80
+[2024-07-14 20:40:04]      agrCtlRSSI: -67
+[2024-07-14 20:40:04]      agrExtRSSI: 0
+[2024-07-14 20:40:04]     agrCtlNoise: -90
+[2024-07-14 20:40:04]     agrExtNoise: 0
+[2024-07-14 20:40:04]           state: running
+[2024-07-14 20:40:04]         op mode: station 
+[2024-07-14 20:40:04]      lastTxRate: 390
+[2024-07-14 20:40:04]         maxRate: 217
+[2024-07-14 20:40:04] lastAssocStatus: 0
+[2024-07-14 20:40:04]     802.11 auth: open
+[2024-07-14 20:40:04]       link auth: wpa2-psk
+[2024-07-14 20:40:04]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:40:04]            SSID: No Weenies Allowed
+[2024-07-14 20:40:04]             MCS: 3
+[2024-07-14 20:40:04]   guardInterval: 400
+[2024-07-14 20:40:04]             NSS: 3
+[2024-07-14 20:40:04]         channel: 161,80
+[2024-07-14 20:40:22]      agrCtlRSSI: -62
+[2024-07-14 20:40:22]      agrExtRSSI: 0
+[2024-07-14 20:40:22]     agrCtlNoise: -93
+[2024-07-14 20:40:22]     agrExtNoise: 0
+[2024-07-14 20:40:22]           state: running
+[2024-07-14 20:40:22]         op mode: station 
+[2024-07-14 20:40:22]      lastTxRate: 468
+[2024-07-14 20:40:22]         maxRate: 217
+[2024-07-14 20:40:22] lastAssocStatus: 0
+[2024-07-14 20:40:22]     802.11 auth: open
+[2024-07-14 20:40:22]       link auth: wpa2-psk
+[2024-07-14 20:40:22]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:40:22]            SSID: No Weenies Allowed
+[2024-07-14 20:40:22]             MCS: 4
+[2024-07-14 20:40:22]   guardInterval: 400
+[2024-07-14 20:40:22]             NSS: 3
+[2024-07-14 20:40:22]         channel: 161,80
+[2024-07-14 20:40:23]      agrCtlRSSI: -61
+[2024-07-14 20:40:23]      agrExtRSSI: 0
+[2024-07-14 20:40:23]     agrCtlNoise: -93
+[2024-07-14 20:40:23]     agrExtNoise: 0
+[2024-07-14 20:40:23]           state: scanning
+[2024-07-14 20:40:23]         op mode: station 
+[2024-07-14 20:40:23]      lastTxRate: 468
+[2024-07-14 20:40:23]         maxRate: 217
+[2024-07-14 20:40:23] lastAssocStatus: 0
+[2024-07-14 20:40:23]     802.11 auth: open
+[2024-07-14 20:40:23]       link auth: wpa2-psk
+[2024-07-14 20:40:23]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:40:23]            SSID: No Weenies Allowed
+[2024-07-14 20:40:23]             MCS: 4
+[2024-07-14 20:40:23]   guardInterval: 400
+[2024-07-14 20:40:23]             NSS: 3
+[2024-07-14 20:40:23]         channel: 161,80
+[2024-07-14 20:40:24]      agrCtlRSSI: -63
+[2024-07-14 20:40:24]      agrExtRSSI: 0
+[2024-07-14 20:40:24]     agrCtlNoise: -93
+[2024-07-14 20:40:24]     agrExtNoise: 0
+[2024-07-14 20:40:24]           state: scanning
+[2024-07-14 20:40:24]         op mode: station 
+[2024-07-14 20:40:24]      lastTxRate: 468
+[2024-07-14 20:40:24]         maxRate: 217
+[2024-07-14 20:40:24] lastAssocStatus: 0
+[2024-07-14 20:40:24]     802.11 auth: open
+[2024-07-14 20:40:24]       link auth: wpa2-psk
+[2024-07-14 20:40:24]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:40:24]            SSID: No Weenies Allowed
+[2024-07-14 20:40:24]             MCS: 4
+[2024-07-14 20:40:24]   guardInterval: 400
+[2024-07-14 20:40:24]             NSS: 3
+[2024-07-14 20:40:24]         channel: 161,80
+[2024-07-14 20:40:25]      agrCtlRSSI: -62
+[2024-07-14 20:40:25]      agrExtRSSI: 0
+[2024-07-14 20:40:25]     agrCtlNoise: -92
+[2024-07-14 20:40:25]     agrExtNoise: 0
+[2024-07-14 20:40:25]           state: scanning
+[2024-07-14 20:40:25]         op mode: station 
+[2024-07-14 20:40:25]      lastTxRate: 585
+[2024-07-14 20:40:25]         maxRate: 217
+[2024-07-14 20:40:25] lastAssocStatus: 0
+[2024-07-14 20:40:25]     802.11 auth: open
+[2024-07-14 20:40:25]       link auth: wpa2-psk
+[2024-07-14 20:40:25]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:40:25]            SSID: No Weenies Allowed
+[2024-07-14 20:40:25]             MCS: 4
+[2024-07-14 20:40:25]   guardInterval: 400
+[2024-07-14 20:40:25]             NSS: 3
+[2024-07-14 20:40:25]         channel: 161,80
+[2024-07-14 20:40:26]      agrCtlRSSI: -62
+[2024-07-14 20:40:26]      agrExtRSSI: 0
+[2024-07-14 20:40:26]     agrCtlNoise: -92
+[2024-07-14 20:40:26]     agrExtNoise: 0
+[2024-07-14 20:40:26]           state: scanning
+[2024-07-14 20:40:26]         op mode: station 
+[2024-07-14 20:40:26]      lastTxRate: 585
+[2024-07-14 20:40:26]         maxRate: 217
+[2024-07-14 20:40:26] lastAssocStatus: 0
+[2024-07-14 20:40:26]     802.11 auth: open
+[2024-07-14 20:40:26]       link auth: wpa2-psk
+[2024-07-14 20:40:26]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:40:26]            SSID: No Weenies Allowed
+[2024-07-14 20:40:26]             MCS: 4
+[2024-07-14 20:40:26]   guardInterval: 400
+[2024-07-14 20:40:26]             NSS: 3
+[2024-07-14 20:40:26]         channel: 161,80
+[2024-07-14 20:45:03]      agrCtlRSSI: -65
+[2024-07-14 20:45:03]      agrExtRSSI: 0
+[2024-07-14 20:45:03]     agrCtlNoise: -94
+[2024-07-14 20:45:03]     agrExtNoise: 0
+[2024-07-14 20:45:03]           state: running
+[2024-07-14 20:45:03]         op mode: station 
+[2024-07-14 20:45:03]      lastTxRate: 390
+[2024-07-14 20:45:03]         maxRate: 217
+[2024-07-14 20:45:03] lastAssocStatus: 0
+[2024-07-14 20:45:03]     802.11 auth: open
+[2024-07-14 20:45:03]       link auth: wpa2-psk
+[2024-07-14 20:45:03]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:45:03]            SSID: No Weenies Allowed
+[2024-07-14 20:45:03]             MCS: 5
+[2024-07-14 20:45:03]   guardInterval: 400
+[2024-07-14 20:45:03]             NSS: 2
+[2024-07-14 20:45:03]         channel: 161,80
+[2024-07-14 20:45:04]      agrCtlRSSI: -66
+[2024-07-14 20:45:04]      agrExtRSSI: 0
+[2024-07-14 20:45:04]     agrCtlNoise: -94
+[2024-07-14 20:45:04]     agrExtNoise: 0
+[2024-07-14 20:45:04]           state: running
+[2024-07-14 20:45:04]         op mode: station 
+[2024-07-14 20:45:04]      lastTxRate: 390
+[2024-07-14 20:45:04]         maxRate: 217
+[2024-07-14 20:45:04] lastAssocStatus: 0
+[2024-07-14 20:45:04]     802.11 auth: open
+[2024-07-14 20:45:04]       link auth: wpa2-psk
+[2024-07-14 20:45:04]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:45:04]            SSID: No Weenies Allowed
+[2024-07-14 20:45:04]             MCS: 4
+[2024-07-14 20:45:04]   guardInterval: 400
+[2024-07-14 20:45:04]             NSS: 2
+[2024-07-14 20:45:04]         channel: 161,80
+[2024-07-14 20:45:05]      agrCtlRSSI: -65
+[2024-07-14 20:45:05]      agrExtRSSI: 0
+[2024-07-14 20:45:05]     agrCtlNoise: -94
+[2024-07-14 20:45:05]     agrExtNoise: 0
+[2024-07-14 20:45:05]           state: running
+[2024-07-14 20:45:05]         op mode: station 
+[2024-07-14 20:45:05]      lastTxRate: 390
+[2024-07-14 20:45:05]         maxRate: 217
+[2024-07-14 20:45:05] lastAssocStatus: 0
+[2024-07-14 20:45:05]     802.11 auth: open
+[2024-07-14 20:45:05]       link auth: wpa2-psk
+[2024-07-14 20:45:05]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:45:05]            SSID: No Weenies Allowed
+[2024-07-14 20:45:05]             MCS: 4
+[2024-07-14 20:45:05]   guardInterval: 400
+[2024-07-14 20:45:05]             NSS: 2
+[2024-07-14 20:45:05]         channel: 161,80
+[2024-07-14 20:45:06]      agrCtlRSSI: -65
+[2024-07-14 20:45:06]      agrExtRSSI: 0
+[2024-07-14 20:45:06]     agrCtlNoise: -91
+[2024-07-14 20:45:06]     agrExtNoise: 0
+[2024-07-14 20:45:06]           state: running
+[2024-07-14 20:45:06]         op mode: station 
+[2024-07-14 20:45:06]      lastTxRate: 390
+[2024-07-14 20:45:06]         maxRate: 217
+[2024-07-14 20:45:06] lastAssocStatus: 0
+[2024-07-14 20:45:06]     802.11 auth: open
+[2024-07-14 20:45:06]       link auth: wpa2-psk
+[2024-07-14 20:45:06]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:45:06]            SSID: No Weenies Allowed
+[2024-07-14 20:45:06]             MCS: 4
+[2024-07-14 20:45:06]   guardInterval: 400
+[2024-07-14 20:45:06]             NSS: 2
+[2024-07-14 20:45:06]         channel: 161,80
+[2024-07-14 20:45:07]      agrCtlRSSI: -65
+[2024-07-14 20:45:07]      agrExtRSSI: 0
+[2024-07-14 20:45:07]     agrCtlNoise: -91
+[2024-07-14 20:45:07]     agrExtNoise: 0
+[2024-07-14 20:45:07]           state: running
+[2024-07-14 20:45:07]         op mode: station 
+[2024-07-14 20:45:07]      lastTxRate: 390
+[2024-07-14 20:45:07]         maxRate: 217
+[2024-07-14 20:45:07] lastAssocStatus: 0
+[2024-07-14 20:45:07]     802.11 auth: open
+[2024-07-14 20:45:07]       link auth: wpa2-psk
+[2024-07-14 20:45:07]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:45:07]            SSID: No Weenies Allowed
+[2024-07-14 20:45:07]             MCS: 4
+[2024-07-14 20:45:07]   guardInterval: 400
+[2024-07-14 20:45:07]             NSS: 2
+[2024-07-14 20:45:07]         channel: 161,80
+[2024-07-14 20:48:15]      agrCtlRSSI: -62
+[2024-07-14 20:48:15]      agrExtRSSI: 0
+[2024-07-14 20:48:15]     agrCtlNoise: -91
+[2024-07-14 20:48:15]     agrExtNoise: 0
+[2024-07-14 20:48:15]           state: running
+[2024-07-14 20:48:15]         op mode: station 
+[2024-07-14 20:48:15]      lastTxRate: 468
+[2024-07-14 20:48:15]         maxRate: 217
+[2024-07-14 20:48:15] lastAssocStatus: 0
+[2024-07-14 20:48:15]     802.11 auth: open
+[2024-07-14 20:48:15]       link auth: wpa2-psk
+[2024-07-14 20:48:15]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:48:15]            SSID: No Weenies Allowed
+[2024-07-14 20:48:15]             MCS: 5
+[2024-07-14 20:48:15]   guardInterval: 800
+[2024-07-14 20:48:15]             NSS: 2
+[2024-07-14 20:48:15]         channel: 161,80
+[2024-07-14 20:48:16]      agrCtlRSSI: -64
+[2024-07-14 20:48:16]      agrExtRSSI: 0
+[2024-07-14 20:48:16]     agrCtlNoise: -93
+[2024-07-14 20:48:16]     agrExtNoise: 0
+[2024-07-14 20:48:16]           state: running
+[2024-07-14 20:48:16]         op mode: station 
+[2024-07-14 20:48:16]      lastTxRate: 468
+[2024-07-14 20:48:16]         maxRate: 217
+[2024-07-14 20:48:16] lastAssocStatus: 0
+[2024-07-14 20:48:16]     802.11 auth: open
+[2024-07-14 20:48:16]       link auth: wpa2-psk
+[2024-07-14 20:48:16]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:48:16]            SSID: No Weenies Allowed
+[2024-07-14 20:48:16]             MCS: 5
+[2024-07-14 20:48:16]   guardInterval: 800
+[2024-07-14 20:48:16]             NSS: 2
+[2024-07-14 20:48:16]         channel: 161,80
+[2024-07-14 20:48:17]      agrCtlRSSI: -65
+[2024-07-14 20:48:17]      agrExtRSSI: 0
+[2024-07-14 20:48:17]     agrCtlNoise: -93
+[2024-07-14 20:48:17]     agrExtNoise: 0
+[2024-07-14 20:48:17]           state: running
+[2024-07-14 20:48:17]         op mode: station 
+[2024-07-14 20:48:17]      lastTxRate: 468
+[2024-07-14 20:48:17]         maxRate: 217
+[2024-07-14 20:48:17] lastAssocStatus: 0
+[2024-07-14 20:48:17]     802.11 auth: open
+[2024-07-14 20:48:17]       link auth: wpa2-psk
+[2024-07-14 20:48:17]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:48:17]            SSID: No Weenies Allowed
+[2024-07-14 20:48:17]             MCS: 5
+[2024-07-14 20:48:17]   guardInterval: 800
+[2024-07-14 20:48:17]             NSS: 2
+[2024-07-14 20:48:17]         channel: 161,80
+[2024-07-14 20:48:18]      agrCtlRSSI: -64
+[2024-07-14 20:48:18]      agrExtRSSI: 0
+[2024-07-14 20:48:18]     agrCtlNoise: -93
+[2024-07-14 20:48:18]     agrExtNoise: 0
+[2024-07-14 20:48:18]           state: running
+[2024-07-14 20:48:18]         op mode: station 
+[2024-07-14 20:48:18]      lastTxRate: 468
+[2024-07-14 20:48:18]         maxRate: 217
+[2024-07-14 20:48:18] lastAssocStatus: 0
+[2024-07-14 20:48:18]     802.11 auth: open
+[2024-07-14 20:48:18]       link auth: wpa2-psk
+[2024-07-14 20:48:18]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:48:18]            SSID: No Weenies Allowed
+[2024-07-14 20:48:18]             MCS: 5
+[2024-07-14 20:48:18]   guardInterval: 800
+[2024-07-14 20:48:18]             NSS: 2
+[2024-07-14 20:48:18]         channel: 161,80
+[2024-07-14 20:48:19]      agrCtlRSSI: -64
+[2024-07-14 20:48:19]      agrExtRSSI: 0
+[2024-07-14 20:48:19]     agrCtlNoise: -93
+[2024-07-14 20:48:19]     agrExtNoise: 0
+[2024-07-14 20:48:19]           state: running
+[2024-07-14 20:48:19]         op mode: station 
+[2024-07-14 20:48:19]      lastTxRate: 468
+[2024-07-14 20:48:19]         maxRate: 217
+[2024-07-14 20:48:19] lastAssocStatus: 0
+[2024-07-14 20:48:19]     802.11 auth: open
+[2024-07-14 20:48:19]       link auth: wpa2-psk
+[2024-07-14 20:48:19]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:48:19]            SSID: No Weenies Allowed
+[2024-07-14 20:48:19]             MCS: 5
+[2024-07-14 20:48:19]   guardInterval: 800
+[2024-07-14 20:48:19]             NSS: 2
+[2024-07-14 20:48:19]         channel: 161,80
+[2024-07-14 20:49:56]      agrCtlRSSI: -65
+[2024-07-14 20:49:56]      agrExtRSSI: 0
+[2024-07-14 20:49:56]     agrCtlNoise: -93
+[2024-07-14 20:49:56]     agrExtNoise: 0
+[2024-07-14 20:49:56]           state: running
+[2024-07-14 20:49:56]         op mode: station 
+[2024-07-14 20:49:56]      lastTxRate: 526
+[2024-07-14 20:49:56]         maxRate: 217
+[2024-07-14 20:49:56] lastAssocStatus: 0
+[2024-07-14 20:49:56]     802.11 auth: open
+[2024-07-14 20:49:56]       link auth: wpa2-psk
+[2024-07-14 20:49:56]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:49:56]            SSID: No Weenies Allowed
+[2024-07-14 20:49:56]             MCS: 3
+[2024-07-14 20:49:56]   guardInterval: 800
+[2024-07-14 20:49:56]             NSS: 3
+[2024-07-14 20:49:56]         channel: 161,80
+[2024-07-14 20:49:57]      agrCtlRSSI: -65
+[2024-07-14 20:49:57]      agrExtRSSI: 0
+[2024-07-14 20:49:57]     agrCtlNoise: -93
+[2024-07-14 20:49:57]     agrExtNoise: 0
+[2024-07-14 20:49:57]           state: running
+[2024-07-14 20:49:57]         op mode: station 
+[2024-07-14 20:49:57]      lastTxRate: 526
+[2024-07-14 20:49:57]         maxRate: 217
+[2024-07-14 20:49:57] lastAssocStatus: 0
+[2024-07-14 20:49:57]     802.11 auth: open
+[2024-07-14 20:49:57]       link auth: wpa2-psk
+[2024-07-14 20:49:57]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:49:57]            SSID: No Weenies Allowed
+[2024-07-14 20:49:57]             MCS: 3
+[2024-07-14 20:49:57]   guardInterval: 400
+[2024-07-14 20:49:57]             NSS: 3
+[2024-07-14 20:49:57]         channel: 161,80
+[2024-07-14 20:49:58]      agrCtlRSSI: -65
+[2024-07-14 20:49:58]      agrExtRSSI: 0
+[2024-07-14 20:49:58]     agrCtlNoise: -93
+[2024-07-14 20:49:58]     agrExtNoise: 0
+[2024-07-14 20:49:58]           state: running
+[2024-07-14 20:49:58]         op mode: station 
+[2024-07-14 20:49:58]      lastTxRate: 526
+[2024-07-14 20:49:58]         maxRate: 217
+[2024-07-14 20:49:58] lastAssocStatus: 0
+[2024-07-14 20:49:58]     802.11 auth: open
+[2024-07-14 20:49:58]       link auth: wpa2-psk
+[2024-07-14 20:49:58]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:49:58]            SSID: No Weenies Allowed
+[2024-07-14 20:49:58]             MCS: 4
+[2024-07-14 20:49:58]   guardInterval: 400
+[2024-07-14 20:49:58]             NSS: 3
+[2024-07-14 20:49:58]         channel: 161,80
+[2024-07-14 20:49:59]      agrCtlRSSI: -65
+[2024-07-14 20:49:59]      agrExtRSSI: 0
+[2024-07-14 20:49:59]     agrCtlNoise: -93
+[2024-07-14 20:49:59]     agrExtNoise: 0
+[2024-07-14 20:49:59]           state: running
+[2024-07-14 20:49:59]         op mode: station 
+[2024-07-14 20:49:59]      lastTxRate: 526
+[2024-07-14 20:49:59]         maxRate: 217
+[2024-07-14 20:49:59] lastAssocStatus: 0
+[2024-07-14 20:49:59]     802.11 auth: open
+[2024-07-14 20:49:59]       link auth: wpa2-psk
+[2024-07-14 20:49:59]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:49:59]            SSID: No Weenies Allowed
+[2024-07-14 20:49:59]             MCS: 4
+[2024-07-14 20:49:59]   guardInterval: 400
+[2024-07-14 20:49:59]             NSS: 3
+[2024-07-14 20:49:59]         channel: 161,80
+[2024-07-14 20:50:00]      agrCtlRSSI: -64
+[2024-07-14 20:50:00]      agrExtRSSI: 0
+[2024-07-14 20:50:00]     agrCtlNoise: -93
+[2024-07-14 20:50:00]     agrExtNoise: 0
+[2024-07-14 20:50:00]           state: running
+[2024-07-14 20:50:00]         op mode: station 
+[2024-07-14 20:50:00]      lastTxRate: 526
+[2024-07-14 20:50:00]         maxRate: 217
+[2024-07-14 20:50:00] lastAssocStatus: 0
+[2024-07-14 20:50:00]     802.11 auth: open
+[2024-07-14 20:50:00]       link auth: wpa2-psk
+[2024-07-14 20:50:00]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:50:00]            SSID: No Weenies Allowed
+[2024-07-14 20:50:00]             MCS: 4
+[2024-07-14 20:50:00]   guardInterval: 400
+[2024-07-14 20:50:00]             NSS: 3
+[2024-07-14 20:50:00]         channel: 161,80
+[2024-07-14 20:51:21]      agrCtlRSSI: -64
+[2024-07-14 20:51:21]      agrExtRSSI: 0
+[2024-07-14 20:51:21]     agrCtlNoise: -90
+[2024-07-14 20:51:21]     agrExtNoise: 0
+[2024-07-14 20:51:21]           state: running
+[2024-07-14 20:51:21]         op mode: station 
+[2024-07-14 20:51:21]      lastTxRate: 526
+[2024-07-14 20:51:21]         maxRate: 217
+[2024-07-14 20:51:21] lastAssocStatus: 0
+[2024-07-14 20:51:21]     802.11 auth: open
+[2024-07-14 20:51:21]       link auth: wpa2-psk
+[2024-07-14 20:51:21]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:21]            SSID: No Weenies Allowed
+[2024-07-14 20:51:21]             MCS: 4
+[2024-07-14 20:51:21]   guardInterval: 800
+[2024-07-14 20:51:21]             NSS: 3
+[2024-07-14 20:51:21]         channel: 161,80
+[2024-07-14 20:51:22]      agrCtlRSSI: -63
+[2024-07-14 20:51:22]      agrExtRSSI: 0
+[2024-07-14 20:51:22]     agrCtlNoise: -92
+[2024-07-14 20:51:22]     agrExtNoise: 0
+[2024-07-14 20:51:22]           state: running
+[2024-07-14 20:51:22]         op mode: station 
+[2024-07-14 20:51:22]      lastTxRate: 585
+[2024-07-14 20:51:22]         maxRate: 217
+[2024-07-14 20:51:22] lastAssocStatus: 0
+[2024-07-14 20:51:22]     802.11 auth: open
+[2024-07-14 20:51:22]       link auth: wpa2-psk
+[2024-07-14 20:51:22]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:22]            SSID: No Weenies Allowed
+[2024-07-14 20:51:22]             MCS: 4
+[2024-07-14 20:51:22]   guardInterval: 400
+[2024-07-14 20:51:22]             NSS: 3
+[2024-07-14 20:51:22]         channel: 161,80
+[2024-07-14 20:51:23]      agrCtlRSSI: -64
+[2024-07-14 20:51:23]      agrExtRSSI: 0
+[2024-07-14 20:51:23]     agrCtlNoise: -92
+[2024-07-14 20:51:23]     agrExtNoise: 0
+[2024-07-14 20:51:23]           state: running
+[2024-07-14 20:51:23]         op mode: station 
+[2024-07-14 20:51:23]      lastTxRate: 585
+[2024-07-14 20:51:23]         maxRate: 217
+[2024-07-14 20:51:23] lastAssocStatus: 0
+[2024-07-14 20:51:23]     802.11 auth: open
+[2024-07-14 20:51:23]       link auth: wpa2-psk
+[2024-07-14 20:51:23]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:23]            SSID: No Weenies Allowed
+[2024-07-14 20:51:23]             MCS: 4
+[2024-07-14 20:51:23]   guardInterval: 400
+[2024-07-14 20:51:23]             NSS: 3
+[2024-07-14 20:51:23]         channel: 161,80
+[2024-07-14 20:51:24]      agrCtlRSSI: -64
+[2024-07-14 20:51:24]      agrExtRSSI: 0
+[2024-07-14 20:51:24]     agrCtlNoise: -92
+[2024-07-14 20:51:24]     agrExtNoise: 0
+[2024-07-14 20:51:24]           state: running
+[2024-07-14 20:51:24]         op mode: station 
+[2024-07-14 20:51:24]      lastTxRate: 585
+[2024-07-14 20:51:24]         maxRate: 217
+[2024-07-14 20:51:24] lastAssocStatus: 0
+[2024-07-14 20:51:24]     802.11 auth: open
+[2024-07-14 20:51:24]       link auth: wpa2-psk
+[2024-07-14 20:51:24]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:24]            SSID: No Weenies Allowed
+[2024-07-14 20:51:24]             MCS: 4
+[2024-07-14 20:51:24]   guardInterval: 400
+[2024-07-14 20:51:24]             NSS: 3
+[2024-07-14 20:51:24]         channel: 161,80
+[2024-07-14 20:51:25]      agrCtlRSSI: -64
+[2024-07-14 20:51:25]      agrExtRSSI: 0
+[2024-07-14 20:51:25]     agrCtlNoise: -92
+[2024-07-14 20:51:25]     agrExtNoise: 0
+[2024-07-14 20:51:25]           state: running
+[2024-07-14 20:51:25]         op mode: station 
+[2024-07-14 20:51:25]      lastTxRate: 585
+[2024-07-14 20:51:25]         maxRate: 217
+[2024-07-14 20:51:25] lastAssocStatus: 0
+[2024-07-14 20:51:25]     802.11 auth: open
+[2024-07-14 20:51:25]       link auth: wpa2-psk
+[2024-07-14 20:51:25]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:25]            SSID: No Weenies Allowed
+[2024-07-14 20:51:25]             MCS: 4
+[2024-07-14 20:51:25]   guardInterval: 400
+[2024-07-14 20:51:25]             NSS: 3
+[2024-07-14 20:51:25]         channel: 161,80
+[2024-07-14 20:51:51]      agrCtlRSSI: -64
+[2024-07-14 20:51:51]      agrExtRSSI: 0
+[2024-07-14 20:51:51]     agrCtlNoise: -94
+[2024-07-14 20:51:51]     agrExtNoise: 0
+[2024-07-14 20:51:51]           state: running
+[2024-07-14 20:51:51]         op mode: station 
+[2024-07-14 20:51:51]      lastTxRate: 390
+[2024-07-14 20:51:51]         maxRate: 217
+[2024-07-14 20:51:51] lastAssocStatus: 0
+[2024-07-14 20:51:51]     802.11 auth: open
+[2024-07-14 20:51:51]       link auth: wpa2-psk
+[2024-07-14 20:51:51]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:51]            SSID: No Weenies Allowed
+[2024-07-14 20:51:51]             MCS: 4
+[2024-07-14 20:51:51]   guardInterval: 800
+[2024-07-14 20:51:51]             NSS: 3
+[2024-07-14 20:51:51]         channel: 161,80
+[2024-07-14 20:51:52]      agrCtlRSSI: -64
+[2024-07-14 20:51:52]      agrExtRSSI: 0
+[2024-07-14 20:51:52]     agrCtlNoise: -94
+[2024-07-14 20:51:52]     agrExtNoise: 0
+[2024-07-14 20:51:52]           state: running
+[2024-07-14 20:51:52]         op mode: station 
+[2024-07-14 20:51:52]      lastTxRate: 526
+[2024-07-14 20:51:52]         maxRate: 217
+[2024-07-14 20:51:52] lastAssocStatus: 0
+[2024-07-14 20:51:52]     802.11 auth: open
+[2024-07-14 20:51:52]       link auth: wpa2-psk
+[2024-07-14 20:51:52]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:52]            SSID: No Weenies Allowed
+[2024-07-14 20:51:52]             MCS: 4
+[2024-07-14 20:51:52]   guardInterval: 800
+[2024-07-14 20:51:52]             NSS: 3
+[2024-07-14 20:51:52]         channel: 161,80
+[2024-07-14 20:51:53]      agrCtlRSSI: -63
+[2024-07-14 20:51:53]      agrExtRSSI: 0
+[2024-07-14 20:51:53]     agrCtlNoise: -94
+[2024-07-14 20:51:53]     agrExtNoise: 0
+[2024-07-14 20:51:53]           state: running
+[2024-07-14 20:51:53]         op mode: station 
+[2024-07-14 20:51:53]      lastTxRate: 526
+[2024-07-14 20:51:53]         maxRate: 217
+[2024-07-14 20:51:53] lastAssocStatus: 0
+[2024-07-14 20:51:53]     802.11 auth: open
+[2024-07-14 20:51:53]       link auth: wpa2-psk
+[2024-07-14 20:51:53]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:53]            SSID: No Weenies Allowed
+[2024-07-14 20:51:53]             MCS: 3
+[2024-07-14 20:51:53]   guardInterval: 400
+[2024-07-14 20:51:53]             NSS: 3
+[2024-07-14 20:51:53]         channel: 161,80
+[2024-07-14 20:51:54]      agrCtlRSSI: -64
+[2024-07-14 20:51:54]      agrExtRSSI: 0
+[2024-07-14 20:51:54]     agrCtlNoise: -94
+[2024-07-14 20:51:54]     agrExtNoise: 0
+[2024-07-14 20:51:54]           state: running
+[2024-07-14 20:51:54]         op mode: station 
+[2024-07-14 20:51:54]      lastTxRate: 526
+[2024-07-14 20:51:54]         maxRate: 217
+[2024-07-14 20:51:54] lastAssocStatus: 0
+[2024-07-14 20:51:54]     802.11 auth: open
+[2024-07-14 20:51:54]       link auth: wpa2-psk
+[2024-07-14 20:51:54]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:54]            SSID: No Weenies Allowed
+[2024-07-14 20:51:54]             MCS: 4
+[2024-07-14 20:51:54]   guardInterval: 400
+[2024-07-14 20:51:54]             NSS: 3
+[2024-07-14 20:51:54]         channel: 161,80
+[2024-07-14 20:51:55]      agrCtlRSSI: -63
+[2024-07-14 20:51:55]      agrExtRSSI: 0
+[2024-07-14 20:51:55]     agrCtlNoise: -94
+[2024-07-14 20:51:55]     agrExtNoise: 0
+[2024-07-14 20:51:55]           state: running
+[2024-07-14 20:51:55]         op mode: station 
+[2024-07-14 20:51:55]      lastTxRate: 526
+[2024-07-14 20:51:55]         maxRate: 217
+[2024-07-14 20:51:55] lastAssocStatus: 0
+[2024-07-14 20:51:55]     802.11 auth: open
+[2024-07-14 20:51:55]       link auth: wpa2-psk
+[2024-07-14 20:51:55]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:55]            SSID: No Weenies Allowed
+[2024-07-14 20:51:55]             MCS: 4
+[2024-07-14 20:51:55]   guardInterval: 400
+[2024-07-14 20:51:55]             NSS: 3
+[2024-07-14 20:51:55]         channel: 161,80
+[2024-07-14 20:51:56]      agrCtlRSSI: -63
+[2024-07-14 20:51:56]      agrExtRSSI: 0
+[2024-07-14 20:51:56]     agrCtlNoise: -92
+[2024-07-14 20:51:56]     agrExtNoise: 0
+[2024-07-14 20:51:56]           state: running
+[2024-07-14 20:51:56]         op mode: station 
+[2024-07-14 20:51:56]      lastTxRate: 585
+[2024-07-14 20:51:56]         maxRate: 217
+[2024-07-14 20:51:56] lastAssocStatus: 0
+[2024-07-14 20:51:56]     802.11 auth: open
+[2024-07-14 20:51:56]       link auth: wpa2-psk
+[2024-07-14 20:51:56]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:56]            SSID: No Weenies Allowed
+[2024-07-14 20:51:56]             MCS: 4
+[2024-07-14 20:51:56]   guardInterval: 400
+[2024-07-14 20:51:56]             NSS: 3
+[2024-07-14 20:51:56]         channel: 161,80
+[2024-07-14 20:51:57]      agrCtlRSSI: -63
+[2024-07-14 20:51:57]      agrExtRSSI: 0
+[2024-07-14 20:51:57]     agrCtlNoise: -92
+[2024-07-14 20:51:57]     agrExtNoise: 0
+[2024-07-14 20:51:57]           state: running
+[2024-07-14 20:51:57]         op mode: station 
+[2024-07-14 20:51:57]      lastTxRate: 585
+[2024-07-14 20:51:57]         maxRate: 217
+[2024-07-14 20:51:57] lastAssocStatus: 0
+[2024-07-14 20:51:57]     802.11 auth: open
+[2024-07-14 20:51:57]       link auth: wpa2-psk
+[2024-07-14 20:51:57]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:57]            SSID: No Weenies Allowed
+[2024-07-14 20:51:57]             MCS: 4
+[2024-07-14 20:51:57]   guardInterval: 400
+[2024-07-14 20:51:57]             NSS: 3
+[2024-07-14 20:51:57]         channel: 161,80
+[2024-07-14 20:51:58]      agrCtlRSSI: -62
+[2024-07-14 20:51:58]      agrExtRSSI: 0
+[2024-07-14 20:51:58]     agrCtlNoise: -92
+[2024-07-14 20:51:58]     agrExtNoise: 0
+[2024-07-14 20:51:58]           state: running
+[2024-07-14 20:51:58]         op mode: station 
+[2024-07-14 20:51:58]      lastTxRate: 585
+[2024-07-14 20:51:58]         maxRate: 217
+[2024-07-14 20:51:58] lastAssocStatus: 0
+[2024-07-14 20:51:58]     802.11 auth: open
+[2024-07-14 20:51:58]       link auth: wpa2-psk
+[2024-07-14 20:51:58]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:58]            SSID: No Weenies Allowed
+[2024-07-14 20:51:58]             MCS: 4
+[2024-07-14 20:51:58]   guardInterval: 400
+[2024-07-14 20:51:58]             NSS: 3
+[2024-07-14 20:51:58]         channel: 161,80
+[2024-07-14 20:51:59]      agrCtlRSSI: -62
+[2024-07-14 20:51:59]      agrExtRSSI: 0
+[2024-07-14 20:51:59]     agrCtlNoise: -92
+[2024-07-14 20:51:59]     agrExtNoise: 0
+[2024-07-14 20:51:59]           state: running
+[2024-07-14 20:51:59]         op mode: station 
+[2024-07-14 20:51:59]      lastTxRate: 585
+[2024-07-14 20:51:59]         maxRate: 217
+[2024-07-14 20:51:59] lastAssocStatus: 0
+[2024-07-14 20:51:59]     802.11 auth: open
+[2024-07-14 20:51:59]       link auth: wpa2-psk
+[2024-07-14 20:51:59]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:51:59]            SSID: No Weenies Allowed
+[2024-07-14 20:51:59]             MCS: 4
+[2024-07-14 20:51:59]   guardInterval: 400
+[2024-07-14 20:51:59]             NSS: 3
+[2024-07-14 20:51:59]         channel: 161,80
+[2024-07-14 20:52:00]      agrCtlRSSI: -62
+[2024-07-14 20:52:00]      agrExtRSSI: 0
+[2024-07-14 20:52:00]     agrCtlNoise: -92
+[2024-07-14 20:52:00]     agrExtNoise: 0
+[2024-07-14 20:52:00]           state: running
+[2024-07-14 20:52:00]         op mode: station 
+[2024-07-14 20:52:00]      lastTxRate: 585
+[2024-07-14 20:52:00]         maxRate: 217
+[2024-07-14 20:52:00] lastAssocStatus: 0
+[2024-07-14 20:52:00]     802.11 auth: open
+[2024-07-14 20:52:00]       link auth: wpa2-psk
+[2024-07-14 20:52:00]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:52:00]            SSID: No Weenies Allowed
+[2024-07-14 20:52:00]             MCS: 4
+[2024-07-14 20:52:00]   guardInterval: 400
+[2024-07-14 20:52:00]             NSS: 3
+[2024-07-14 20:52:00]         channel: 161,80
+[2024-07-14 20:54:16]      agrCtlRSSI: -63
+[2024-07-14 20:54:16]      agrExtRSSI: 0
+[2024-07-14 20:54:16]     agrCtlNoise: -92
+[2024-07-14 20:54:16]     agrExtNoise: 0
+[2024-07-14 20:54:16]           state: running
+[2024-07-14 20:54:16]         op mode: station 
+[2024-07-14 20:54:16]      lastTxRate: 585
+[2024-07-14 20:54:16]         maxRate: 217
+[2024-07-14 20:54:16] lastAssocStatus: 0
+[2024-07-14 20:54:16]     802.11 auth: open
+[2024-07-14 20:54:16]       link auth: wpa2-psk
+[2024-07-14 20:54:16]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:54:16]            SSID: No Weenies Allowed
+[2024-07-14 20:54:16]             MCS: 4
+[2024-07-14 20:54:16]   guardInterval: 400
+[2024-07-14 20:54:16]             NSS: 3
+[2024-07-14 20:54:16]         channel: 161,80
+[2024-07-14 20:54:17]      agrCtlRSSI: -64
+[2024-07-14 20:54:17]      agrExtRSSI: 0
+[2024-07-14 20:54:17]     agrCtlNoise: -94
+[2024-07-14 20:54:17]     agrExtNoise: 0
+[2024-07-14 20:54:17]           state: running
+[2024-07-14 20:54:17]         op mode: station 
+[2024-07-14 20:54:17]      lastTxRate: 526
+[2024-07-14 20:54:17]         maxRate: 217
+[2024-07-14 20:54:17] lastAssocStatus: 0
+[2024-07-14 20:54:17]     802.11 auth: open
+[2024-07-14 20:54:17]       link auth: wpa2-psk
+[2024-07-14 20:54:17]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:54:17]            SSID: No Weenies Allowed
+[2024-07-14 20:54:17]             MCS: 4
+[2024-07-14 20:54:17]   guardInterval: 800
+[2024-07-14 20:54:17]             NSS: 3
+[2024-07-14 20:54:17]         channel: 161,80
+[2024-07-14 20:54:18]      agrCtlRSSI: -64
+[2024-07-14 20:54:18]      agrExtRSSI: 0
+[2024-07-14 20:54:18]     agrCtlNoise: -94
+[2024-07-14 20:54:18]     agrExtNoise: 0
+[2024-07-14 20:54:18]           state: running
+[2024-07-14 20:54:18]         op mode: station 
+[2024-07-14 20:54:18]      lastTxRate: 526
+[2024-07-14 20:54:18]         maxRate: 217
+[2024-07-14 20:54:18] lastAssocStatus: 0
+[2024-07-14 20:54:18]     802.11 auth: open
+[2024-07-14 20:54:18]       link auth: wpa2-psk
+[2024-07-14 20:54:18]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:54:18]            SSID: No Weenies Allowed
+[2024-07-14 20:54:18]             MCS: 4
+[2024-07-14 20:54:18]   guardInterval: 400
+[2024-07-14 20:54:18]             NSS: 3
+[2024-07-14 20:54:18]         channel: 161,80
+[2024-07-14 20:54:19]      agrCtlRSSI: -64
+[2024-07-14 20:54:19]      agrExtRSSI: 0
+[2024-07-14 20:54:19]     agrCtlNoise: -94
+[2024-07-14 20:54:19]     agrExtNoise: 0
+[2024-07-14 20:54:19]           state: running
+[2024-07-14 20:54:19]         op mode: station 
+[2024-07-14 20:54:19]      lastTxRate: 526
+[2024-07-14 20:54:19]         maxRate: 217
+[2024-07-14 20:54:19] lastAssocStatus: 0
+[2024-07-14 20:54:19]     802.11 auth: open
+[2024-07-14 20:54:19]       link auth: wpa2-psk
+[2024-07-14 20:54:19]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:54:19]            SSID: No Weenies Allowed
+[2024-07-14 20:54:19]             MCS: 4
+[2024-07-14 20:54:19]   guardInterval: 400
+[2024-07-14 20:54:19]             NSS: 3
+[2024-07-14 20:54:19]         channel: 161,80
+[2024-07-14 20:54:20]      agrCtlRSSI: -65
+[2024-07-14 20:54:20]      agrExtRSSI: 0
+[2024-07-14 20:54:20]     agrCtlNoise: -94
+[2024-07-14 20:54:20]     agrExtNoise: 0
+[2024-07-14 20:54:20]           state: running
+[2024-07-14 20:54:20]         op mode: station 
+[2024-07-14 20:54:20]      lastTxRate: 526
+[2024-07-14 20:54:20]         maxRate: 217
+[2024-07-14 20:54:20] lastAssocStatus: 0
+[2024-07-14 20:54:20]     802.11 auth: open
+[2024-07-14 20:54:20]       link auth: wpa2-psk
+[2024-07-14 20:54:20]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:54:20]            SSID: No Weenies Allowed
+[2024-07-14 20:54:20]             MCS: 4
+[2024-07-14 20:54:20]   guardInterval: 400
+[2024-07-14 20:54:20]             NSS: 3
+[2024-07-14 20:54:20]         channel: 161,80
+[2024-07-14 20:55:28]      agrCtlRSSI: -66
+[2024-07-14 20:55:28]      agrExtRSSI: 0
+[2024-07-14 20:55:28]     agrCtlNoise: -90
+[2024-07-14 20:55:28]     agrExtNoise: 0
+[2024-07-14 20:55:28]           state: scanning
+[2024-07-14 20:55:28]         op mode: station 
+[2024-07-14 20:55:28]      lastTxRate: 260
+[2024-07-14 20:55:28]         maxRate: 217
+[2024-07-14 20:55:28] lastAssocStatus: 0
+[2024-07-14 20:55:28]     802.11 auth: open
+[2024-07-14 20:55:28]       link auth: wpa2-psk
+[2024-07-14 20:55:28]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:55:28]            SSID: No Weenies Allowed
+[2024-07-14 20:55:28]             MCS: 3
+[2024-07-14 20:55:28]   guardInterval: 800
+[2024-07-14 20:55:28]             NSS: 2
+[2024-07-14 20:55:28]         channel: 161,80
+[2024-07-14 20:55:29]      agrCtlRSSI: -67
+[2024-07-14 20:55:29]      agrExtRSSI: 0
+[2024-07-14 20:55:29]     agrCtlNoise: -90
+[2024-07-14 20:55:29]     agrExtNoise: 0
+[2024-07-14 20:55:29]           state: scanning
+[2024-07-14 20:55:29]         op mode: station 
+[2024-07-14 20:55:29]      lastTxRate: 260
+[2024-07-14 20:55:29]         maxRate: 217
+[2024-07-14 20:55:29] lastAssocStatus: 0
+[2024-07-14 20:55:29]     802.11 auth: open
+[2024-07-14 20:55:29]       link auth: wpa2-psk
+[2024-07-14 20:55:29]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:55:29]            SSID: No Weenies Allowed
+[2024-07-14 20:55:29]             MCS: 3
+[2024-07-14 20:55:29]   guardInterval: 800
+[2024-07-14 20:55:29]             NSS: 2
+[2024-07-14 20:55:29]         channel: 161,80
+[2024-07-14 20:55:30]      agrCtlRSSI: -67
+[2024-07-14 20:55:30]      agrExtRSSI: 0
+[2024-07-14 20:55:30]     agrCtlNoise: -90
+[2024-07-14 20:55:30]     agrExtNoise: 0
+[2024-07-14 20:55:30]           state: scanning
+[2024-07-14 20:55:30]         op mode: station 
+[2024-07-14 20:55:30]      lastTxRate: 260
+[2024-07-14 20:55:30]         maxRate: 217
+[2024-07-14 20:55:30] lastAssocStatus: 0
+[2024-07-14 20:55:30]     802.11 auth: open
+[2024-07-14 20:55:30]       link auth: wpa2-psk
+[2024-07-14 20:55:30]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:55:30]            SSID: No Weenies Allowed
+[2024-07-14 20:55:30]             MCS: 3
+[2024-07-14 20:55:30]   guardInterval: 800
+[2024-07-14 20:55:30]             NSS: 2
+[2024-07-14 20:55:30]         channel: 161,80
+[2024-07-14 20:55:31]      agrCtlRSSI: -67
+[2024-07-14 20:55:31]      agrExtRSSI: 0
+[2024-07-14 20:55:31]     agrCtlNoise: -90
+[2024-07-14 20:55:31]     agrExtNoise: 0
+[2024-07-14 20:55:31]           state: scanning
+[2024-07-14 20:55:31]         op mode: station 
+[2024-07-14 20:55:31]      lastTxRate: 260
+[2024-07-14 20:55:31]         maxRate: 217
+[2024-07-14 20:55:31] lastAssocStatus: 0
+[2024-07-14 20:55:31]     802.11 auth: open
+[2024-07-14 20:55:31]       link auth: wpa2-psk
+[2024-07-14 20:55:31]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:55:31]            SSID: No Weenies Allowed
+[2024-07-14 20:55:31]             MCS: 3
+[2024-07-14 20:55:31]   guardInterval: 800
+[2024-07-14 20:55:31]             NSS: 2
+[2024-07-14 20:55:31]         channel: 161,80
+[2024-07-14 20:55:32]      agrCtlRSSI: -66
+[2024-07-14 20:55:32]      agrExtRSSI: 0
+[2024-07-14 20:55:32]     agrCtlNoise: -91
+[2024-07-14 20:55:32]     agrExtNoise: 0
+[2024-07-14 20:55:32]           state: running
+[2024-07-14 20:55:32]         op mode: station 
+[2024-07-14 20:55:32]      lastTxRate: 234
+[2024-07-14 20:55:32]         maxRate: 217
+[2024-07-14 20:55:32] lastAssocStatus: 0
+[2024-07-14 20:55:32]     802.11 auth: open
+[2024-07-14 20:55:32]       link auth: wpa2-psk
+[2024-07-14 20:55:32]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:55:32]            SSID: No Weenies Allowed
+[2024-07-14 20:55:32]             MCS: 3
+[2024-07-14 20:55:32]   guardInterval: 800
+[2024-07-14 20:55:32]             NSS: 2
+[2024-07-14 20:55:32]         channel: 161,80
+[2024-07-14 20:57:22]      agrCtlRSSI: -66
+[2024-07-14 20:57:22]      agrExtRSSI: 0
+[2024-07-14 20:57:22]     agrCtlNoise: -93
+[2024-07-14 20:57:22]     agrExtNoise: 0
+[2024-07-14 20:57:22]           state: running
+[2024-07-14 20:57:22]         op mode: station 
+[2024-07-14 20:57:22]      lastTxRate: 351
+[2024-07-14 20:57:22]         maxRate: 217
+[2024-07-14 20:57:22] lastAssocStatus: 0
+[2024-07-14 20:57:22]     802.11 auth: open
+[2024-07-14 20:57:22]       link auth: wpa2-psk
+[2024-07-14 20:57:22]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:57:22]            SSID: No Weenies Allowed
+[2024-07-14 20:57:22]             MCS: 4
+[2024-07-14 20:57:22]   guardInterval: 800
+[2024-07-14 20:57:22]             NSS: 2
+[2024-07-14 20:57:22]         channel: 161,80
+[2024-07-14 20:57:23]      agrCtlRSSI: -66
+[2024-07-14 20:57:23]      agrExtRSSI: 0
+[2024-07-14 20:57:23]     agrCtlNoise: -93
+[2024-07-14 20:57:23]     agrExtNoise: 0
+[2024-07-14 20:57:23]           state: running
+[2024-07-14 20:57:23]         op mode: station 
+[2024-07-14 20:57:23]      lastTxRate: 351
+[2024-07-14 20:57:23]         maxRate: 217
+[2024-07-14 20:57:23] lastAssocStatus: 0
+[2024-07-14 20:57:23]     802.11 auth: open
+[2024-07-14 20:57:23]       link auth: wpa2-psk
+[2024-07-14 20:57:23]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:57:23]            SSID: No Weenies Allowed
+[2024-07-14 20:57:23]             MCS: 4
+[2024-07-14 20:57:23]   guardInterval: 800
+[2024-07-14 20:57:23]             NSS: 2
+[2024-07-14 20:57:23]         channel: 161,80
+[2024-07-14 20:57:24]      agrCtlRSSI: -66
+[2024-07-14 20:57:24]      agrExtRSSI: 0
+[2024-07-14 20:57:24]     agrCtlNoise: -93
+[2024-07-14 20:57:24]     agrExtNoise: 0
+[2024-07-14 20:57:24]           state: running
+[2024-07-14 20:57:24]         op mode: station 
+[2024-07-14 20:57:24]      lastTxRate: 351
+[2024-07-14 20:57:24]         maxRate: 217
+[2024-07-14 20:57:24] lastAssocStatus: 0
+[2024-07-14 20:57:24]     802.11 auth: open
+[2024-07-14 20:57:24]       link auth: wpa2-psk
+[2024-07-14 20:57:24]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:57:24]            SSID: No Weenies Allowed
+[2024-07-14 20:57:24]             MCS: 4
+[2024-07-14 20:57:24]   guardInterval: 800
+[2024-07-14 20:57:24]             NSS: 2
+[2024-07-14 20:57:24]         channel: 161,80
+[2024-07-14 20:57:25]      agrCtlRSSI: -66
+[2024-07-14 20:57:25]      agrExtRSSI: 0
+[2024-07-14 20:57:25]     agrCtlNoise: -93
+[2024-07-14 20:57:25]     agrExtNoise: 0
+[2024-07-14 20:57:25]           state: running
+[2024-07-14 20:57:25]         op mode: station 
+[2024-07-14 20:57:25]      lastTxRate: 351
+[2024-07-14 20:57:25]         maxRate: 217
+[2024-07-14 20:57:25] lastAssocStatus: 0
+[2024-07-14 20:57:25]     802.11 auth: open
+[2024-07-14 20:57:25]       link auth: wpa2-psk
+[2024-07-14 20:57:25]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:57:25]            SSID: No Weenies Allowed
+[2024-07-14 20:57:25]             MCS: 4
+[2024-07-14 20:57:25]   guardInterval: 800
+[2024-07-14 20:57:25]             NSS: 2
+[2024-07-14 20:57:25]         channel: 161,80
+[2024-07-14 20:57:26]      agrCtlRSSI: -66
+[2024-07-14 20:57:26]      agrExtRSSI: 0
+[2024-07-14 20:57:26]     agrCtlNoise: -93
+[2024-07-14 20:57:26]     agrExtNoise: 0
+[2024-07-14 20:57:26]           state: running
+[2024-07-14 20:57:26]         op mode: station 
+[2024-07-14 20:57:26]      lastTxRate: 351
+[2024-07-14 20:57:26]         maxRate: 217
+[2024-07-14 20:57:26] lastAssocStatus: 0
+[2024-07-14 20:57:26]     802.11 auth: open
+[2024-07-14 20:57:26]       link auth: wpa2-psk
+[2024-07-14 20:57:26]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:57:26]            SSID: No Weenies Allowed
+[2024-07-14 20:57:26]             MCS: 4
+[2024-07-14 20:57:26]   guardInterval: 800
+[2024-07-14 20:57:26]             NSS: 2
+[2024-07-14 20:57:26]         channel: 161,80
+[2024-07-14 20:58:13]      agrCtlRSSI: -70
+[2024-07-14 20:58:13]      agrExtRSSI: 0
+[2024-07-14 20:58:13]     agrCtlNoise: -89
+[2024-07-14 20:58:13]     agrExtNoise: 0
+[2024-07-14 20:58:13]           state: running
+[2024-07-14 20:58:13]         op mode: station 
+[2024-07-14 20:58:13]      lastTxRate: 260
+[2024-07-14 20:58:13]         maxRate: 217
+[2024-07-14 20:58:13] lastAssocStatus: 0
+[2024-07-14 20:58:13]     802.11 auth: open
+[2024-07-14 20:58:13]       link auth: wpa2-psk
+[2024-07-14 20:58:13]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:13]            SSID: No Weenies Allowed
+[2024-07-14 20:58:13]             MCS: 3
+[2024-07-14 20:58:13]   guardInterval: 400
+[2024-07-14 20:58:13]             NSS: 2
+[2024-07-14 20:58:13]         channel: 161,80
+[2024-07-14 20:58:14]      agrCtlRSSI: -70
+[2024-07-14 20:58:14]      agrExtRSSI: 0
+[2024-07-14 20:58:14]     agrCtlNoise: -89
+[2024-07-14 20:58:14]     agrExtNoise: 0
+[2024-07-14 20:58:14]           state: running
+[2024-07-14 20:58:14]         op mode: station 
+[2024-07-14 20:58:14]      lastTxRate: 260
+[2024-07-14 20:58:14]         maxRate: 217
+[2024-07-14 20:58:14] lastAssocStatus: 0
+[2024-07-14 20:58:14]     802.11 auth: open
+[2024-07-14 20:58:14]       link auth: wpa2-psk
+[2024-07-14 20:58:14]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:14]            SSID: No Weenies Allowed
+[2024-07-14 20:58:14]             MCS: 3
+[2024-07-14 20:58:14]   guardInterval: 400
+[2024-07-14 20:58:14]             NSS: 2
+[2024-07-14 20:58:14]         channel: 161,80
+[2024-07-14 20:58:15]      agrCtlRSSI: -71
+[2024-07-14 20:58:15]      agrExtRSSI: 0
+[2024-07-14 20:58:15]     agrCtlNoise: -89
+[2024-07-14 20:58:15]     agrExtNoise: 0
+[2024-07-14 20:58:15]           state: running
+[2024-07-14 20:58:15]         op mode: station 
+[2024-07-14 20:58:15]      lastTxRate: 260
+[2024-07-14 20:58:15]         maxRate: 217
+[2024-07-14 20:58:15] lastAssocStatus: 0
+[2024-07-14 20:58:15]     802.11 auth: open
+[2024-07-14 20:58:15]       link auth: wpa2-psk
+[2024-07-14 20:58:15]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:15]            SSID: No Weenies Allowed
+[2024-07-14 20:58:15]             MCS: 2
+[2024-07-14 20:58:15]   guardInterval: 400
+[2024-07-14 20:58:15]             NSS: 2
+[2024-07-14 20:58:15]         channel: 161,80
+[2024-07-14 20:58:16]      agrCtlRSSI: -70
+[2024-07-14 20:58:16]      agrExtRSSI: 0
+[2024-07-14 20:58:16]     agrCtlNoise: -89
+[2024-07-14 20:58:16]     agrExtNoise: 0
+[2024-07-14 20:58:16]           state: running
+[2024-07-14 20:58:16]         op mode: station 
+[2024-07-14 20:58:16]      lastTxRate: 260
+[2024-07-14 20:58:16]         maxRate: 217
+[2024-07-14 20:58:16] lastAssocStatus: 0
+[2024-07-14 20:58:16]     802.11 auth: open
+[2024-07-14 20:58:16]       link auth: wpa2-psk
+[2024-07-14 20:58:16]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:16]            SSID: No Weenies Allowed
+[2024-07-14 20:58:16]             MCS: 2
+[2024-07-14 20:58:16]   guardInterval: 400
+[2024-07-14 20:58:16]             NSS: 2
+[2024-07-14 20:58:16]         channel: 161,80
+[2024-07-14 20:58:17]      agrCtlRSSI: -70
+[2024-07-14 20:58:17]      agrExtRSSI: 0
+[2024-07-14 20:58:17]     agrCtlNoise: -93
+[2024-07-14 20:58:17]     agrExtNoise: 0
+[2024-07-14 20:58:17]           state: running
+[2024-07-14 20:58:17]         op mode: station 
+[2024-07-14 20:58:17]      lastTxRate: 234
+[2024-07-14 20:58:17]         maxRate: 217
+[2024-07-14 20:58:17] lastAssocStatus: 0
+[2024-07-14 20:58:17]     802.11 auth: open
+[2024-07-14 20:58:17]       link auth: wpa2-psk
+[2024-07-14 20:58:17]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:17]            SSID: No Weenies Allowed
+[2024-07-14 20:58:17]             MCS: 2
+[2024-07-14 20:58:17]   guardInterval: 400
+[2024-07-14 20:58:17]             NSS: 2
+[2024-07-14 20:58:17]         channel: 161,80
+[2024-07-14 20:58:27]      agrCtlRSSI: -71
+[2024-07-14 20:58:27]      agrExtRSSI: 0
+[2024-07-14 20:58:27]     agrCtlNoise: -93
+[2024-07-14 20:58:27]     agrExtNoise: 0
+[2024-07-14 20:58:27]           state: running
+[2024-07-14 20:58:27]         op mode: station 
+[2024-07-14 20:58:27]      lastTxRate: 260
+[2024-07-14 20:58:27]         maxRate: 217
+[2024-07-14 20:58:27] lastAssocStatus: 0
+[2024-07-14 20:58:27]     802.11 auth: open
+[2024-07-14 20:58:27]       link auth: wpa2-psk
+[2024-07-14 20:58:27]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:27]            SSID: No Weenies Allowed
+[2024-07-14 20:58:27]             MCS: 3
+[2024-07-14 20:58:27]   guardInterval: 400
+[2024-07-14 20:58:27]             NSS: 2
+[2024-07-14 20:58:27]         channel: 161,80
+[2024-07-14 20:58:28]      agrCtlRSSI: -69
+[2024-07-14 20:58:28]      agrExtRSSI: 0
+[2024-07-14 20:58:28]     agrCtlNoise: -90
+[2024-07-14 20:58:28]     agrExtNoise: 0
+[2024-07-14 20:58:28]           state: running
+[2024-07-14 20:58:28]         op mode: station 
+[2024-07-14 20:58:28]      lastTxRate: 175
+[2024-07-14 20:58:28]         maxRate: 217
+[2024-07-14 20:58:28] lastAssocStatus: 0
+[2024-07-14 20:58:28]     802.11 auth: open
+[2024-07-14 20:58:28]       link auth: wpa2-psk
+[2024-07-14 20:58:28]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:28]            SSID: No Weenies Allowed
+[2024-07-14 20:58:28]             MCS: 1
+[2024-07-14 20:58:28]   guardInterval: 400
+[2024-07-14 20:58:28]             NSS: 3
+[2024-07-14 20:58:28]         channel: 161,80
+[2024-07-14 20:58:29]      agrCtlRSSI: -67
+[2024-07-14 20:58:29]      agrExtRSSI: 0
+[2024-07-14 20:58:29]     agrCtlNoise: -90
+[2024-07-14 20:58:29]     agrExtNoise: 0
+[2024-07-14 20:58:29]           state: running
+[2024-07-14 20:58:29]         op mode: station 
+[2024-07-14 20:58:29]      lastTxRate: 175
+[2024-07-14 20:58:29]         maxRate: 217
+[2024-07-14 20:58:29] lastAssocStatus: 0
+[2024-07-14 20:58:29]     802.11 auth: open
+[2024-07-14 20:58:29]       link auth: wpa2-psk
+[2024-07-14 20:58:29]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:29]            SSID: No Weenies Allowed
+[2024-07-14 20:58:29]             MCS: 4
+[2024-07-14 20:58:29]   guardInterval: 400
+[2024-07-14 20:58:29]             NSS: 3
+[2024-07-14 20:58:29]         channel: 161,80
+[2024-07-14 20:58:30]      agrCtlRSSI: -68
+[2024-07-14 20:58:30]      agrExtRSSI: 0
+[2024-07-14 20:58:30]     agrCtlNoise: -90
+[2024-07-14 20:58:30]     agrExtNoise: 0
+[2024-07-14 20:58:30]           state: running
+[2024-07-14 20:58:30]         op mode: station 
+[2024-07-14 20:58:30]      lastTxRate: 175
+[2024-07-14 20:58:30]         maxRate: 217
+[2024-07-14 20:58:30] lastAssocStatus: 0
+[2024-07-14 20:58:30]     802.11 auth: open
+[2024-07-14 20:58:30]       link auth: wpa2-psk
+[2024-07-14 20:58:30]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:30]            SSID: No Weenies Allowed
+[2024-07-14 20:58:30]             MCS: 3
+[2024-07-14 20:58:30]   guardInterval: 400
+[2024-07-14 20:58:30]             NSS: 3
+[2024-07-14 20:58:30]         channel: 161,80
+[2024-07-14 20:58:31]      agrCtlRSSI: -67
+[2024-07-14 20:58:31]      agrExtRSSI: 0
+[2024-07-14 20:58:31]     agrCtlNoise: -90
+[2024-07-14 20:58:31]     agrExtNoise: 0
+[2024-07-14 20:58:31]           state: running
+[2024-07-14 20:58:31]         op mode: station 
+[2024-07-14 20:58:31]      lastTxRate: 175
+[2024-07-14 20:58:31]         maxRate: 217
+[2024-07-14 20:58:31] lastAssocStatus: 0
+[2024-07-14 20:58:31]     802.11 auth: open
+[2024-07-14 20:58:31]       link auth: wpa2-psk
+[2024-07-14 20:58:31]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:31]            SSID: No Weenies Allowed
+[2024-07-14 20:58:31]             MCS: 3
+[2024-07-14 20:58:31]   guardInterval: 400
+[2024-07-14 20:58:31]             NSS: 3
+[2024-07-14 20:58:31]         channel: 161,80
+[2024-07-14 20:58:32]      agrCtlRSSI: -67
+[2024-07-14 20:58:32]      agrExtRSSI: 0
+[2024-07-14 20:58:32]     agrCtlNoise: -90
+[2024-07-14 20:58:32]     agrExtNoise: 0
+[2024-07-14 20:58:32]           state: running
+[2024-07-14 20:58:32]         op mode: station 
+[2024-07-14 20:58:32]      lastTxRate: 175
+[2024-07-14 20:58:32]         maxRate: 217
+[2024-07-14 20:58:32] lastAssocStatus: 0
+[2024-07-14 20:58:32]     802.11 auth: open
+[2024-07-14 20:58:32]       link auth: wpa2-psk
+[2024-07-14 20:58:32]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:32]            SSID: No Weenies Allowed
+[2024-07-14 20:58:32]             MCS: 3
+[2024-07-14 20:58:32]   guardInterval: 400
+[2024-07-14 20:58:32]             NSS: 3
+[2024-07-14 20:58:32]         channel: 161,80
+[2024-07-14 20:58:33]      agrCtlRSSI: -67
+[2024-07-14 20:58:33]      agrExtRSSI: 0
+[2024-07-14 20:58:33]     agrCtlNoise: -92
+[2024-07-14 20:58:33]     agrExtNoise: 0
+[2024-07-14 20:58:33]           state: running
+[2024-07-14 20:58:33]         op mode: station 
+[2024-07-14 20:58:33]      lastTxRate: 526
+[2024-07-14 20:58:33]         maxRate: 217
+[2024-07-14 20:58:33] lastAssocStatus: 0
+[2024-07-14 20:58:33]     802.11 auth: open
+[2024-07-14 20:58:33]       link auth: wpa2-psk
+[2024-07-14 20:58:33]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:33]            SSID: No Weenies Allowed
+[2024-07-14 20:58:33]             MCS: 3
+[2024-07-14 20:58:33]   guardInterval: 400
+[2024-07-14 20:58:33]             NSS: 3
+[2024-07-14 20:58:33]         channel: 161,80
+[2024-07-14 20:58:34]      agrCtlRSSI: -67
+[2024-07-14 20:58:34]      agrExtRSSI: 0
+[2024-07-14 20:58:34]     agrCtlNoise: -92
+[2024-07-14 20:58:34]     agrExtNoise: 0
+[2024-07-14 20:58:34]           state: running
+[2024-07-14 20:58:34]         op mode: station 
+[2024-07-14 20:58:34]      lastTxRate: 526
+[2024-07-14 20:58:34]         maxRate: 217
+[2024-07-14 20:58:34] lastAssocStatus: 0
+[2024-07-14 20:58:34]     802.11 auth: open
+[2024-07-14 20:58:34]       link auth: wpa2-psk
+[2024-07-14 20:58:34]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:34]            SSID: No Weenies Allowed
+[2024-07-14 20:58:34]             MCS: 3
+[2024-07-14 20:58:34]   guardInterval: 400
+[2024-07-14 20:58:34]             NSS: 3
+[2024-07-14 20:58:34]         channel: 161,80
+[2024-07-14 20:58:35]      agrCtlRSSI: -68
+[2024-07-14 20:58:35]      agrExtRSSI: 0
+[2024-07-14 20:58:35]     agrCtlNoise: -92
+[2024-07-14 20:58:35]     agrExtNoise: 0
+[2024-07-14 20:58:35]           state: running
+[2024-07-14 20:58:35]         op mode: station 
+[2024-07-14 20:58:35]      lastTxRate: 526
+[2024-07-14 20:58:35]         maxRate: 217
+[2024-07-14 20:58:35] lastAssocStatus: 0
+[2024-07-14 20:58:35]     802.11 auth: open
+[2024-07-14 20:58:35]       link auth: wpa2-psk
+[2024-07-14 20:58:35]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:35]            SSID: No Weenies Allowed
+[2024-07-14 20:58:35]             MCS: 3
+[2024-07-14 20:58:35]   guardInterval: 400
+[2024-07-14 20:58:35]             NSS: 3
+[2024-07-14 20:58:35]         channel: 161,80
+[2024-07-14 20:58:36]      agrCtlRSSI: -68
+[2024-07-14 20:58:36]      agrExtRSSI: 0
+[2024-07-14 20:58:36]     agrCtlNoise: -92
+[2024-07-14 20:58:36]     agrExtNoise: 0
+[2024-07-14 20:58:36]           state: running
+[2024-07-14 20:58:36]         op mode: station 
+[2024-07-14 20:58:36]      lastTxRate: 526
+[2024-07-14 20:58:36]         maxRate: 217
+[2024-07-14 20:58:36] lastAssocStatus: 0
+[2024-07-14 20:58:36]     802.11 auth: open
+[2024-07-14 20:58:36]       link auth: wpa2-psk
+[2024-07-14 20:58:36]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:36]            SSID: No Weenies Allowed
+[2024-07-14 20:58:36]             MCS: 3
+[2024-07-14 20:58:36]   guardInterval: 400
+[2024-07-14 20:58:36]             NSS: 3
+[2024-07-14 20:58:36]         channel: 161,80
+[2024-07-14 20:58:37]      agrCtlRSSI: -68
+[2024-07-14 20:58:37]      agrExtRSSI: 0
+[2024-07-14 20:58:37]     agrCtlNoise: -90
+[2024-07-14 20:58:37]     agrExtNoise: 0
+[2024-07-14 20:58:37]           state: running
+[2024-07-14 20:58:37]         op mode: station 
+[2024-07-14 20:58:37]      lastTxRate: 390
+[2024-07-14 20:58:37]         maxRate: 217
+[2024-07-14 20:58:37] lastAssocStatus: 0
+[2024-07-14 20:58:37]     802.11 auth: open
+[2024-07-14 20:58:37]       link auth: wpa2-psk
+[2024-07-14 20:58:37]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:37]            SSID: No Weenies Allowed
+[2024-07-14 20:58:37]             MCS: 3
+[2024-07-14 20:58:37]   guardInterval: 400
+[2024-07-14 20:58:37]             NSS: 3
+[2024-07-14 20:58:37]         channel: 161,80
+[2024-07-14 20:58:38]      agrCtlRSSI: -68
+[2024-07-14 20:58:38]      agrExtRSSI: 0
+[2024-07-14 20:58:38]     agrCtlNoise: -90
+[2024-07-14 20:58:38]     agrExtNoise: 0
+[2024-07-14 20:58:38]           state: running
+[2024-07-14 20:58:38]         op mode: station 
+[2024-07-14 20:58:38]      lastTxRate: 390
+[2024-07-14 20:58:38]         maxRate: 217
+[2024-07-14 20:58:38] lastAssocStatus: 0
+[2024-07-14 20:58:38]     802.11 auth: open
+[2024-07-14 20:58:38]       link auth: wpa2-psk
+[2024-07-14 20:58:38]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:38]            SSID: No Weenies Allowed
+[2024-07-14 20:58:38]             MCS: 3
+[2024-07-14 20:58:38]   guardInterval: 400
+[2024-07-14 20:58:38]             NSS: 3
+[2024-07-14 20:58:38]         channel: 161,80
+[2024-07-14 20:58:39]      agrCtlRSSI: -68
+[2024-07-14 20:58:39]      agrExtRSSI: 0
+[2024-07-14 20:58:39]     agrCtlNoise: -90
+[2024-07-14 20:58:39]     agrExtNoise: 0
+[2024-07-14 20:58:39]           state: running
+[2024-07-14 20:58:39]         op mode: station 
+[2024-07-14 20:58:39]      lastTxRate: 390
+[2024-07-14 20:58:39]         maxRate: 217
+[2024-07-14 20:58:39] lastAssocStatus: 0
+[2024-07-14 20:58:39]     802.11 auth: open
+[2024-07-14 20:58:39]       link auth: wpa2-psk
+[2024-07-14 20:58:39]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:39]            SSID: No Weenies Allowed
+[2024-07-14 20:58:39]             MCS: 3
+[2024-07-14 20:58:39]   guardInterval: 400
+[2024-07-14 20:58:39]             NSS: 3
+[2024-07-14 20:58:39]         channel: 161,80
+[2024-07-14 20:58:40]      agrCtlRSSI: -67
+[2024-07-14 20:58:40]      agrExtRSSI: 0
+[2024-07-14 20:58:40]     agrCtlNoise: -90
+[2024-07-14 20:58:40]     agrExtNoise: 0
+[2024-07-14 20:58:40]           state: running
+[2024-07-14 20:58:40]         op mode: station 
+[2024-07-14 20:58:40]      lastTxRate: 390
+[2024-07-14 20:58:40]         maxRate: 217
+[2024-07-14 20:58:40] lastAssocStatus: 0
+[2024-07-14 20:58:40]     802.11 auth: open
+[2024-07-14 20:58:40]       link auth: wpa2-psk
+[2024-07-14 20:58:40]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:40]            SSID: No Weenies Allowed
+[2024-07-14 20:58:40]             MCS: 3
+[2024-07-14 20:58:40]   guardInterval: 400
+[2024-07-14 20:58:40]             NSS: 3
+[2024-07-14 20:58:40]         channel: 161,80
+[2024-07-14 20:58:41]      agrCtlRSSI: -68
+[2024-07-14 20:58:41]      agrExtRSSI: 0
+[2024-07-14 20:58:41]     agrCtlNoise: -90
+[2024-07-14 20:58:41]     agrExtNoise: 0
+[2024-07-14 20:58:41]           state: running
+[2024-07-14 20:58:41]         op mode: station 
+[2024-07-14 20:58:41]      lastTxRate: 390
+[2024-07-14 20:58:41]         maxRate: 217
+[2024-07-14 20:58:41] lastAssocStatus: 0
+[2024-07-14 20:58:41]     802.11 auth: open
+[2024-07-14 20:58:41]       link auth: wpa2-psk
+[2024-07-14 20:58:41]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:58:41]            SSID: No Weenies Allowed
+[2024-07-14 20:58:41]             MCS: 3
+[2024-07-14 20:58:41]   guardInterval: 400
+[2024-07-14 20:58:41]             NSS: 3
+[2024-07-14 20:58:41]         channel: 161,80
+[2024-07-14 20:59:34]      agrCtlRSSI: -69
+[2024-07-14 20:59:34]      agrExtRSSI: 0
+[2024-07-14 20:59:34]     agrCtlNoise: -93
+[2024-07-14 20:59:34]     agrExtNoise: 0
+[2024-07-14 20:59:34]           state: running
+[2024-07-14 20:59:34]         op mode: station 
+[2024-07-14 20:59:34]      lastTxRate: 390
+[2024-07-14 20:59:34]         maxRate: 217
+[2024-07-14 20:59:34] lastAssocStatus: 0
+[2024-07-14 20:59:34]     802.11 auth: open
+[2024-07-14 20:59:34]       link auth: wpa2-psk
+[2024-07-14 20:59:34]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:59:34]            SSID: No Weenies Allowed
+[2024-07-14 20:59:34]             MCS: 3
+[2024-07-14 20:59:34]   guardInterval: 400
+[2024-07-14 20:59:34]             NSS: 3
+[2024-07-14 20:59:34]         channel: 161,80
+[2024-07-14 20:59:36]      agrCtlRSSI: -68
+[2024-07-14 20:59:36]      agrExtRSSI: 0
+[2024-07-14 20:59:36]     agrCtlNoise: -93
+[2024-07-14 20:59:36]     agrExtNoise: 0
+[2024-07-14 20:59:36]           state: running
+[2024-07-14 20:59:36]         op mode: station 
+[2024-07-14 20:59:36]      lastTxRate: 390
+[2024-07-14 20:59:36]         maxRate: 217
+[2024-07-14 20:59:36] lastAssocStatus: 0
+[2024-07-14 20:59:36]     802.11 auth: open
+[2024-07-14 20:59:36]       link auth: wpa2-psk
+[2024-07-14 20:59:36]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 20:59:36]            SSID: No Weenies Allowed
+[2024-07-14 20:59:36]             MCS: 3
+[2024-07-14 20:59:36]   guardInterval: 400
+[2024-07-14 20:59:36]             NSS: 3
+[2024-07-14 20:59:36]         channel: 161,80
+[2024-07-14 21:05:01]      agrCtlRSSI: -62
+[2024-07-14 21:05:01]      agrExtRSSI: 0
+[2024-07-14 21:05:01]     agrCtlNoise: -93
+[2024-07-14 21:05:01]     agrExtNoise: 0
+[2024-07-14 21:05:01]           state: running
+[2024-07-14 21:05:01]         op mode: station 
+[2024-07-14 21:05:01]      lastTxRate: 585
+[2024-07-14 21:05:01]         maxRate: 217
+[2024-07-14 21:05:01] lastAssocStatus: 0
+[2024-07-14 21:05:01]     802.11 auth: open
+[2024-07-14 21:05:01]       link auth: wpa2-psk
+[2024-07-14 21:05:01]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:05:01]            SSID: No Weenies Allowed
+[2024-07-14 21:05:01]             MCS: 6
+[2024-07-14 21:05:01]   guardInterval: 400
+[2024-07-14 21:05:01]             NSS: 2
+[2024-07-14 21:05:01]         channel: 161,80
+[2024-07-14 21:05:02]      agrCtlRSSI: -62
+[2024-07-14 21:05:02]      agrExtRSSI: 0
+[2024-07-14 21:05:02]     agrCtlNoise: -93
+[2024-07-14 21:05:02]     agrExtNoise: 0
+[2024-07-14 21:05:02]           state: running
+[2024-07-14 21:05:02]         op mode: station 
+[2024-07-14 21:05:02]      lastTxRate: 585
+[2024-07-14 21:05:02]         maxRate: 217
+[2024-07-14 21:05:02] lastAssocStatus: 0
+[2024-07-14 21:05:02]     802.11 auth: open
+[2024-07-14 21:05:02]       link auth: wpa2-psk
+[2024-07-14 21:05:02]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:05:02]            SSID: No Weenies Allowed
+[2024-07-14 21:05:02]             MCS: 5
+[2024-07-14 21:05:02]   guardInterval: 400
+[2024-07-14 21:05:02]             NSS: 2
+[2024-07-14 21:05:02]         channel: 161,80
+[2024-07-14 21:05:03]      agrCtlRSSI: -61
+[2024-07-14 21:05:03]      agrExtRSSI: 0
+[2024-07-14 21:05:03]     agrCtlNoise: -92
+[2024-07-14 21:05:03]     agrExtNoise: 0
+[2024-07-14 21:05:03]           state: running
+[2024-07-14 21:05:03]         op mode: station 
+[2024-07-14 21:05:03]      lastTxRate: 520
+[2024-07-14 21:05:03]         maxRate: 217
+[2024-07-14 21:05:03] lastAssocStatus: 0
+[2024-07-14 21:05:03]     802.11 auth: open
+[2024-07-14 21:05:03]       link auth: wpa2-psk
+[2024-07-14 21:05:03]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:05:03]            SSID: No Weenies Allowed
+[2024-07-14 21:05:03]             MCS: 5
+[2024-07-14 21:05:03]   guardInterval: 400
+[2024-07-14 21:05:03]             NSS: 2
+[2024-07-14 21:05:03]         channel: 161,80
+[2024-07-14 21:07:49]      agrCtlRSSI: -62
+[2024-07-14 21:07:49]      agrExtRSSI: 0
+[2024-07-14 21:07:49]     agrCtlNoise: -94
+[2024-07-14 21:07:49]     agrExtNoise: 0
+[2024-07-14 21:07:49]           state: running
+[2024-07-14 21:07:49]         op mode: station 
+[2024-07-14 21:07:49]      lastTxRate: 390
+[2024-07-14 21:07:49]         maxRate: 217
+[2024-07-14 21:07:49] lastAssocStatus: 0
+[2024-07-14 21:07:49]     802.11 auth: open
+[2024-07-14 21:07:49]       link auth: wpa2-psk
+[2024-07-14 21:07:49]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:07:49]            SSID: No Weenies Allowed
+[2024-07-14 21:07:49]             MCS: 4
+[2024-07-14 21:07:49]   guardInterval: 800
+[2024-07-14 21:07:49]             NSS: 2
+[2024-07-14 21:07:49]         channel: 161,80
+[2024-07-14 21:07:50]      agrCtlRSSI: -61
+[2024-07-14 21:07:50]      agrExtRSSI: 0
+[2024-07-14 21:07:50]     agrCtlNoise: -94
+[2024-07-14 21:07:50]     agrExtNoise: 0
+[2024-07-14 21:07:50]           state: running
+[2024-07-14 21:07:50]         op mode: station 
+[2024-07-14 21:07:50]      lastTxRate: 390
+[2024-07-14 21:07:50]         maxRate: 217
+[2024-07-14 21:07:50] lastAssocStatus: 0
+[2024-07-14 21:07:50]     802.11 auth: open
+[2024-07-14 21:07:50]       link auth: wpa2-psk
+[2024-07-14 21:07:50]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:07:50]            SSID: No Weenies Allowed
+[2024-07-14 21:07:50]             MCS: 4
+[2024-07-14 21:07:50]   guardInterval: 400
+[2024-07-14 21:07:50]             NSS: 2
+[2024-07-14 21:07:50]         channel: 161,80
+[2024-07-14 21:07:51]      agrCtlRSSI: -62
+[2024-07-14 21:07:51]      agrExtRSSI: 0
+[2024-07-14 21:07:51]     agrCtlNoise: -94
+[2024-07-14 21:07:51]     agrExtNoise: 0
+[2024-07-14 21:07:51]           state: running
+[2024-07-14 21:07:51]         op mode: station 
+[2024-07-14 21:07:51]      lastTxRate: 390
+[2024-07-14 21:07:51]         maxRate: 217
+[2024-07-14 21:07:51] lastAssocStatus: 0
+[2024-07-14 21:07:51]     802.11 auth: open
+[2024-07-14 21:07:51]       link auth: wpa2-psk
+[2024-07-14 21:07:51]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:07:51]            SSID: No Weenies Allowed
+[2024-07-14 21:07:51]             MCS: 4
+[2024-07-14 21:07:51]   guardInterval: 400
+[2024-07-14 21:07:51]             NSS: 2
+[2024-07-14 21:07:51]         channel: 161,80
+[2024-07-14 21:11:28]      agrCtlRSSI: -62
+[2024-07-14 21:11:28]      agrExtRSSI: 0
+[2024-07-14 21:11:28]     agrCtlNoise: -93
+[2024-07-14 21:11:28]     agrExtNoise: 0
+[2024-07-14 21:11:28]           state: running
+[2024-07-14 21:11:28]         op mode: station 
+[2024-07-14 21:11:28]      lastTxRate: 468
+[2024-07-14 21:11:28]         maxRate: 217
+[2024-07-14 21:11:28] lastAssocStatus: 0
+[2024-07-14 21:11:28]     802.11 auth: open
+[2024-07-14 21:11:28]       link auth: wpa2-psk
+[2024-07-14 21:11:28]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:11:28]            SSID: No Weenies Allowed
+[2024-07-14 21:11:28]             MCS: 5
+[2024-07-14 21:11:28]   guardInterval: 400
+[2024-07-14 21:11:28]             NSS: 2
+[2024-07-14 21:11:28]         channel: 161,80
+[2024-07-14 21:11:29]      agrCtlRSSI: -62
+[2024-07-14 21:11:29]      agrExtRSSI: 0
+[2024-07-14 21:11:29]     agrCtlNoise: -93
+[2024-07-14 21:11:29]     agrExtNoise: 0
+[2024-07-14 21:11:29]           state: running
+[2024-07-14 21:11:29]         op mode: station 
+[2024-07-14 21:11:29]      lastTxRate: 526
+[2024-07-14 21:11:29]         maxRate: 217
+[2024-07-14 21:11:29] lastAssocStatus: 0
+[2024-07-14 21:11:29]     802.11 auth: open
+[2024-07-14 21:11:29]       link auth: wpa2-psk
+[2024-07-14 21:11:29]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:11:29]            SSID: No Weenies Allowed
+[2024-07-14 21:11:29]             MCS: 5
+[2024-07-14 21:11:29]   guardInterval: 400
+[2024-07-14 21:11:29]             NSS: 2
+[2024-07-14 21:11:29]         channel: 161,80
+[2024-07-14 21:11:30]      agrCtlRSSI: -62
+[2024-07-14 21:11:30]      agrExtRSSI: 0
+[2024-07-14 21:11:30]     agrCtlNoise: -92
+[2024-07-14 21:11:30]     agrExtNoise: 0
+[2024-07-14 21:11:30]           state: running
+[2024-07-14 21:11:30]         op mode: station 
+[2024-07-14 21:11:30]      lastTxRate: 526
+[2024-07-14 21:11:30]         maxRate: 217
+[2024-07-14 21:11:30] lastAssocStatus: 0
+[2024-07-14 21:11:30]     802.11 auth: open
+[2024-07-14 21:11:30]       link auth: wpa2-psk
+[2024-07-14 21:11:30]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:11:30]            SSID: No Weenies Allowed
+[2024-07-14 21:11:30]             MCS: 5
+[2024-07-14 21:11:30]   guardInterval: 400
+[2024-07-14 21:11:30]             NSS: 2
+[2024-07-14 21:11:30]         channel: 161,80
+[2024-07-14 21:12:47]      agrCtlRSSI: -68
+[2024-07-14 21:12:47]      agrExtRSSI: 0
+[2024-07-14 21:12:47]     agrCtlNoise: -89
+[2024-07-14 21:12:47]     agrExtNoise: 0
+[2024-07-14 21:12:47]           state: running
+[2024-07-14 21:12:47]         op mode: station 
+[2024-07-14 21:12:47]      lastTxRate: 468
+[2024-07-14 21:12:47]         maxRate: 217
+[2024-07-14 21:12:47] lastAssocStatus: 0
+[2024-07-14 21:12:47]     802.11 auth: open
+[2024-07-14 21:12:47]       link auth: wpa2-psk
+[2024-07-14 21:12:47]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:12:47]            SSID: No Weenies Allowed
+[2024-07-14 21:12:47]             MCS: 4
+[2024-07-14 21:12:47]   guardInterval: 800
+[2024-07-14 21:12:47]             NSS: 2
+[2024-07-14 21:12:47]         channel: 161,80
+[2024-07-14 21:12:48]      agrCtlRSSI: -67
+[2024-07-14 21:12:48]      agrExtRSSI: 0
+[2024-07-14 21:12:48]     agrCtlNoise: -89
+[2024-07-14 21:12:48]     agrExtNoise: 0
+[2024-07-14 21:12:48]           state: running
+[2024-07-14 21:12:48]         op mode: station 
+[2024-07-14 21:12:48]      lastTxRate: 468
+[2024-07-14 21:12:48]         maxRate: 217
+[2024-07-14 21:12:48] lastAssocStatus: 0
+[2024-07-14 21:12:48]     802.11 auth: open
+[2024-07-14 21:12:48]       link auth: wpa2-psk
+[2024-07-14 21:12:48]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:12:48]            SSID: No Weenies Allowed
+[2024-07-14 21:12:48]             MCS: 3
+[2024-07-14 21:12:48]   guardInterval: 400
+[2024-07-14 21:12:48]             NSS: 2
+[2024-07-14 21:12:48]         channel: 161,80
+[2024-07-14 21:12:49]      agrCtlRSSI: -68
+[2024-07-14 21:12:49]      agrExtRSSI: 0
+[2024-07-14 21:12:49]     agrCtlNoise: -93
+[2024-07-14 21:12:49]     agrExtNoise: 0
+[2024-07-14 21:12:49]           state: running
+[2024-07-14 21:12:49]         op mode: station 
+[2024-07-14 21:12:49]      lastTxRate: 260
+[2024-07-14 21:12:49]         maxRate: 217
+[2024-07-14 21:12:49] lastAssocStatus: 0
+[2024-07-14 21:12:49]     802.11 auth: open
+[2024-07-14 21:12:49]       link auth: wpa2-psk
+[2024-07-14 21:12:49]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:12:49]            SSID: No Weenies Allowed
+[2024-07-14 21:12:49]             MCS: 4
+[2024-07-14 21:12:49]   guardInterval: 400
+[2024-07-14 21:12:49]             NSS: 2
+[2024-07-14 21:12:49]         channel: 161,80
+[2024-07-14 21:14:21]      agrCtlRSSI: -69
+[2024-07-14 21:14:21]      agrExtRSSI: 0
+[2024-07-14 21:14:21]     agrCtlNoise: -93
+[2024-07-14 21:14:21]     agrExtNoise: 0
+[2024-07-14 21:14:21]           state: running
+[2024-07-14 21:14:21]         op mode: station 
+[2024-07-14 21:14:21]      lastTxRate: 351
+[2024-07-14 21:14:21]         maxRate: 217
+[2024-07-14 21:14:21] lastAssocStatus: 0
+[2024-07-14 21:14:21]     802.11 auth: open
+[2024-07-14 21:14:21]       link auth: wpa2-psk
+[2024-07-14 21:14:21]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:14:21]            SSID: No Weenies Allowed
+[2024-07-14 21:14:21]             MCS: 3
+[2024-07-14 21:14:21]   guardInterval: 800
+[2024-07-14 21:14:21]             NSS: 3
+[2024-07-14 21:14:21]         channel: 161,80
+[2024-07-14 21:14:22]      agrCtlRSSI: -68
+[2024-07-14 21:14:22]      agrExtRSSI: 0
+[2024-07-14 21:14:22]     agrCtlNoise: -93
+[2024-07-14 21:14:22]     agrExtNoise: 0
+[2024-07-14 21:14:22]           state: running
+[2024-07-14 21:14:22]         op mode: station 
+[2024-07-14 21:14:22]      lastTxRate: 351
+[2024-07-14 21:14:22]         maxRate: 217
+[2024-07-14 21:14:22] lastAssocStatus: 0
+[2024-07-14 21:14:22]     802.11 auth: open
+[2024-07-14 21:14:22]       link auth: wpa2-psk
+[2024-07-14 21:14:22]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:14:22]            SSID: No Weenies Allowed
+[2024-07-14 21:14:22]             MCS: 3
+[2024-07-14 21:14:22]   guardInterval: 400
+[2024-07-14 21:14:22]             NSS: 3
+[2024-07-14 21:14:22]         channel: 161,80
+[2024-07-14 21:14:23]      agrCtlRSSI: -66
+[2024-07-14 21:14:23]      agrExtRSSI: 0
+[2024-07-14 21:14:23]     agrCtlNoise: -93
+[2024-07-14 21:14:23]     agrExtNoise: 0
+[2024-07-14 21:14:23]           state: running
+[2024-07-14 21:14:23]         op mode: station 
+[2024-07-14 21:14:23]      lastTxRate: 351
+[2024-07-14 21:14:23]         maxRate: 217
+[2024-07-14 21:14:23] lastAssocStatus: 0
+[2024-07-14 21:14:23]     802.11 auth: open
+[2024-07-14 21:14:23]       link auth: wpa2-psk
+[2024-07-14 21:14:23]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:14:23]            SSID: No Weenies Allowed
+[2024-07-14 21:14:23]             MCS: 3
+[2024-07-14 21:14:23]   guardInterval: 400
+[2024-07-14 21:14:23]             NSS: 3
+[2024-07-14 21:14:23]         channel: 161,80
+[2024-07-14 21:16:58]      agrCtlRSSI: -69
+[2024-07-14 21:16:58]      agrExtRSSI: 0
+[2024-07-14 21:16:58]     agrCtlNoise: -93
+[2024-07-14 21:16:58]     agrExtNoise: 0
+[2024-07-14 21:16:58]           state: running
+[2024-07-14 21:16:58]         op mode: station 
+[2024-07-14 21:16:58]      lastTxRate: 390
+[2024-07-14 21:16:58]         maxRate: 217
+[2024-07-14 21:16:58] lastAssocStatus: 0
+[2024-07-14 21:16:58]     802.11 auth: open
+[2024-07-14 21:16:58]       link auth: wpa2-psk
+[2024-07-14 21:16:58]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:16:58]            SSID: No Weenies Allowed
+[2024-07-14 21:16:58]             MCS: 3
+[2024-07-14 21:16:58]   guardInterval: 800
+[2024-07-14 21:16:58]             NSS: 3
+[2024-07-14 21:16:58]         channel: 161,80
+[2024-07-14 21:16:59]      agrCtlRSSI: -68
+[2024-07-14 21:16:59]      agrExtRSSI: 0
+[2024-07-14 21:16:59]     agrCtlNoise: -92
+[2024-07-14 21:16:59]     agrExtNoise: 0
+[2024-07-14 21:16:59]           state: running
+[2024-07-14 21:16:59]         op mode: station 
+[2024-07-14 21:16:59]      lastTxRate: 390
+[2024-07-14 21:16:59]         maxRate: 217
+[2024-07-14 21:16:59] lastAssocStatus: 0
+[2024-07-14 21:16:59]     802.11 auth: open
+[2024-07-14 21:16:59]       link auth: wpa2-psk
+[2024-07-14 21:16:59]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:16:59]            SSID: No Weenies Allowed
+[2024-07-14 21:16:59]             MCS: 3
+[2024-07-14 21:16:59]   guardInterval: 800
+[2024-07-14 21:16:59]             NSS: 3
+[2024-07-14 21:16:59]         channel: 161,80
+[2024-07-14 21:17:00]      agrCtlRSSI: -68
+[2024-07-14 21:17:00]      agrExtRSSI: 0
+[2024-07-14 21:17:00]     agrCtlNoise: -92
+[2024-07-14 21:17:00]     agrExtNoise: 0
+[2024-07-14 21:17:00]           state: running
+[2024-07-14 21:17:00]         op mode: station 
+[2024-07-14 21:17:00]      lastTxRate: 390
+[2024-07-14 21:17:00]         maxRate: 217
+[2024-07-14 21:17:00] lastAssocStatus: 0
+[2024-07-14 21:17:00]     802.11 auth: open
+[2024-07-14 21:17:00]       link auth: wpa2-psk
+[2024-07-14 21:17:00]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:17:00]            SSID: No Weenies Allowed
+[2024-07-14 21:17:00]             MCS: 4
+[2024-07-14 21:17:00]   guardInterval: 800
+[2024-07-14 21:17:00]             NSS: 3
+[2024-07-14 21:17:00]         channel: 161,80
+[2024-07-14 21:18:23]      agrCtlRSSI: -67
+[2024-07-14 21:18:23]      agrExtRSSI: 0
+[2024-07-14 21:18:23]     agrCtlNoise: -94
+[2024-07-14 21:18:23]     agrExtNoise: 0
+[2024-07-14 21:18:23]           state: running
+[2024-07-14 21:18:23]         op mode: station 
+[2024-07-14 21:18:23]      lastTxRate: 351
+[2024-07-14 21:18:23]         maxRate: 217
+[2024-07-14 21:18:23] lastAssocStatus: 0
+[2024-07-14 21:18:23]     802.11 auth: open
+[2024-07-14 21:18:23]       link auth: wpa2-psk
+[2024-07-14 21:18:23]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:18:23]            SSID: No Weenies Allowed
+[2024-07-14 21:18:23]             MCS: 3
+[2024-07-14 21:18:23]   guardInterval: 400
+[2024-07-14 21:18:23]             NSS: 3
+[2024-07-14 21:18:23]         channel: 161,80
+[2024-07-14 21:18:24]      agrCtlRSSI: -66
+[2024-07-14 21:18:24]      agrExtRSSI: 0
+[2024-07-14 21:18:24]     agrCtlNoise: -91
+[2024-07-14 21:18:24]     agrExtNoise: 0
+[2024-07-14 21:18:24]           state: running
+[2024-07-14 21:18:24]         op mode: station 
+[2024-07-14 21:18:24]      lastTxRate: 390
+[2024-07-14 21:18:24]         maxRate: 217
+[2024-07-14 21:18:24] lastAssocStatus: 0
+[2024-07-14 21:18:24]     802.11 auth: open
+[2024-07-14 21:18:24]       link auth: wpa2-psk
+[2024-07-14 21:18:24]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:18:24]            SSID: No Weenies Allowed
+[2024-07-14 21:18:24]             MCS: 3
+[2024-07-14 21:18:24]   guardInterval: 400
+[2024-07-14 21:18:24]             NSS: 3
+[2024-07-14 21:18:24]         channel: 161,80
+[2024-07-14 21:18:25]      agrCtlRSSI: -66
+[2024-07-14 21:18:25]      agrExtRSSI: 0
+[2024-07-14 21:18:25]     agrCtlNoise: -91
+[2024-07-14 21:18:25]     agrExtNoise: 0
+[2024-07-14 21:18:25]           state: running
+[2024-07-14 21:18:25]         op mode: station 
+[2024-07-14 21:18:25]      lastTxRate: 390
+[2024-07-14 21:18:25]         maxRate: 217
+[2024-07-14 21:18:25] lastAssocStatus: 0
+[2024-07-14 21:18:25]     802.11 auth: open
+[2024-07-14 21:18:25]       link auth: wpa2-psk
+[2024-07-14 21:18:25]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:18:25]            SSID: No Weenies Allowed
+[2024-07-14 21:18:25]             MCS: 3
+[2024-07-14 21:18:25]   guardInterval: 400
+[2024-07-14 21:18:25]             NSS: 3
+[2024-07-14 21:18:25]         channel: 161,80
+[2024-07-14 21:21:51]      agrCtlRSSI: -65
+[2024-07-14 21:21:51]      agrExtRSSI: 0
+[2024-07-14 21:21:51]     agrCtlNoise: -94
+[2024-07-14 21:21:51]     agrExtNoise: 0
+[2024-07-14 21:21:51]           state: running
+[2024-07-14 21:21:51]         op mode: station 
+[2024-07-14 21:21:51]      lastTxRate: 526
+[2024-07-14 21:21:51]         maxRate: 217
+[2024-07-14 21:21:51] lastAssocStatus: 0
+[2024-07-14 21:21:51]     802.11 auth: open
+[2024-07-14 21:21:51]       link auth: wpa2-psk
+[2024-07-14 21:21:51]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:21:51]            SSID: No Weenies Allowed
+[2024-07-14 21:21:51]             MCS: 5
+[2024-07-14 21:21:51]   guardInterval: 400
+[2024-07-14 21:21:51]             NSS: 2
+[2024-07-14 21:21:51]         channel: 161,80
+[2024-07-14 21:21:52]      agrCtlRSSI: -64
+[2024-07-14 21:21:52]      agrExtRSSI: 0
+[2024-07-14 21:21:52]     agrCtlNoise: -94
+[2024-07-14 21:21:52]     agrExtNoise: 0
+[2024-07-14 21:21:52]           state: running
+[2024-07-14 21:21:52]         op mode: station 
+[2024-07-14 21:21:52]      lastTxRate: 526
+[2024-07-14 21:21:52]         maxRate: 217
+[2024-07-14 21:21:52] lastAssocStatus: 0
+[2024-07-14 21:21:52]     802.11 auth: open
+[2024-07-14 21:21:52]       link auth: wpa2-psk
+[2024-07-14 21:21:52]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:21:52]            SSID: No Weenies Allowed
+[2024-07-14 21:21:52]             MCS: 5
+[2024-07-14 21:21:52]   guardInterval: 400
+[2024-07-14 21:21:52]             NSS: 2
+[2024-07-14 21:21:52]         channel: 161,80
+[2024-07-14 21:21:53]      agrCtlRSSI: -64
+[2024-07-14 21:21:53]      agrExtRSSI: 0
+[2024-07-14 21:21:53]     agrCtlNoise: -94
+[2024-07-14 21:21:53]     agrExtNoise: 0
+[2024-07-14 21:21:53]           state: running
+[2024-07-14 21:21:53]         op mode: station 
+[2024-07-14 21:21:53]      lastTxRate: 526
+[2024-07-14 21:21:53]         maxRate: 217
+[2024-07-14 21:21:53] lastAssocStatus: 0
+[2024-07-14 21:21:53]     802.11 auth: open
+[2024-07-14 21:21:53]       link auth: wpa2-psk
+[2024-07-14 21:21:53]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:21:53]            SSID: No Weenies Allowed
+[2024-07-14 21:21:53]             MCS: 5
+[2024-07-14 21:21:53]   guardInterval: 400
+[2024-07-14 21:21:53]             NSS: 2
+[2024-07-14 21:21:53]         channel: 161,80
+[2024-07-14 21:24:23]      agrCtlRSSI: -65
+[2024-07-14 21:24:23]      agrExtRSSI: 0
+[2024-07-14 21:24:23]     agrCtlNoise: -92
+[2024-07-14 21:24:23]     agrExtNoise: 0
+[2024-07-14 21:24:23]           state: running
+[2024-07-14 21:24:23]         op mode: station 
+[2024-07-14 21:24:23]      lastTxRate: 585
+[2024-07-14 21:24:23]         maxRate: 217
+[2024-07-14 21:24:23] lastAssocStatus: 0
+[2024-07-14 21:24:23]     802.11 auth: open
+[2024-07-14 21:24:23]       link auth: wpa2-psk
+[2024-07-14 21:24:23]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:24:23]            SSID: No Weenies Allowed
+[2024-07-14 21:24:23]             MCS: 4
+[2024-07-14 21:24:23]   guardInterval: 800
+[2024-07-14 21:24:23]             NSS: 3
+[2024-07-14 21:24:23]         channel: 161,80
+[2024-07-14 21:24:25]      agrCtlRSSI: -64
+[2024-07-14 21:24:25]      agrExtRSSI: 0
+[2024-07-14 21:24:25]     agrCtlNoise: -92
+[2024-07-14 21:24:25]     agrExtNoise: 0
+[2024-07-14 21:24:25]           state: running
+[2024-07-14 21:24:25]         op mode: station 
+[2024-07-14 21:24:25]      lastTxRate: 585
+[2024-07-14 21:24:25]         maxRate: 217
+[2024-07-14 21:24:25] lastAssocStatus: 0
+[2024-07-14 21:24:25]     802.11 auth: open
+[2024-07-14 21:24:25]       link auth: wpa2-psk
+[2024-07-14 21:24:25]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:24:25]            SSID: No Weenies Allowed
+[2024-07-14 21:24:25]             MCS: 4
+[2024-07-14 21:24:25]   guardInterval: 800
+[2024-07-14 21:24:25]             NSS: 3
+[2024-07-14 21:24:25]         channel: 161,80
+[2024-07-14 21:25:59]      agrCtlRSSI: -65
+[2024-07-14 21:25:59]      agrExtRSSI: 0
+[2024-07-14 21:25:59]     agrCtlNoise: -93
+[2024-07-14 21:25:59]     agrExtNoise: 0
+[2024-07-14 21:25:59]           state: running
+[2024-07-14 21:25:59]         op mode: station 
+[2024-07-14 21:25:59]      lastTxRate: 351
+[2024-07-14 21:25:59]         maxRate: 217
+[2024-07-14 21:25:59] lastAssocStatus: 0
+[2024-07-14 21:25:59]     802.11 auth: open
+[2024-07-14 21:25:59]       link auth: wpa2-psk
+[2024-07-14 21:25:59]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:25:59]            SSID: No Weenies Allowed
+[2024-07-14 21:25:59]             MCS: 5
+[2024-07-14 21:25:59]   guardInterval: 400
+[2024-07-14 21:25:59]             NSS: 2
+[2024-07-14 21:25:59]         channel: 161,80
+[2024-07-14 21:26:00]      agrCtlRSSI: -65
+[2024-07-14 21:26:00]      agrExtRSSI: 0
+[2024-07-14 21:26:00]     agrCtlNoise: -92
+[2024-07-14 21:26:00]     agrExtNoise: 0
+[2024-07-14 21:26:00]           state: running
+[2024-07-14 21:26:00]         op mode: station 
+[2024-07-14 21:26:00]      lastTxRate: 468
+[2024-07-14 21:26:00]         maxRate: 217
+[2024-07-14 21:26:00] lastAssocStatus: 0
+[2024-07-14 21:26:00]     802.11 auth: open
+[2024-07-14 21:26:00]       link auth: wpa2-psk
+[2024-07-14 21:26:00]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:26:00]            SSID: No Weenies Allowed
+[2024-07-14 21:26:00]             MCS: 5
+[2024-07-14 21:26:00]   guardInterval: 400
+[2024-07-14 21:26:00]             NSS: 2
+[2024-07-14 21:26:00]         channel: 161,80
+[2024-07-14 21:26:01]      agrCtlRSSI: -65
+[2024-07-14 21:26:01]      agrExtRSSI: 0
+[2024-07-14 21:26:01]     agrCtlNoise: -92
+[2024-07-14 21:26:01]     agrExtNoise: 0
+[2024-07-14 21:26:01]           state: running
+[2024-07-14 21:26:01]         op mode: station 
+[2024-07-14 21:26:01]      lastTxRate: 468
+[2024-07-14 21:26:01]         maxRate: 217
+[2024-07-14 21:26:01] lastAssocStatus: 0
+[2024-07-14 21:26:01]     802.11 auth: open
+[2024-07-14 21:26:01]       link auth: wpa2-psk
+[2024-07-14 21:26:01]           BSSID: d0:fc:d0:f7:a1:bc
+[2024-07-14 21:26:01]            SSID: No Weenies Allowed
+[2024-07-14 21:26:01]             MCS: 4
+[2024-07-14 21:26:01]   guardInterval: 400
+[2024-07-14 21:26:01]             NSS: 2
+[2024-07-14 21:26:01]         channel: 161,80
