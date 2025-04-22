@@ -1,13 +1,15 @@
 # WiFi Stability Analyzer (WSA)
 
-WiFi Stability Analyzer (WSA) is a command-line tool designed to monitor and log the stability of your WiFi connection. It measures signal strength, connectivity, and network speed over a specified duration, and logs the results for analysis.
+WiFi Stability Analyzer (WSA) is a command-line tool designed to monitor and log the stability of your WiFi connection. It measures signal strength, connectivity, system-level WiFi logs, and network speed over a specified duration and interval, then outputs both raw logs and a combined CSV report for analysis.
 
 ## Features
 
-- **Signal Strength Monitoring:** Logs WiFi signal strength at regular intervals.
-- **Connectivity Check:** Logs connectivity status by pinging a known server.
-- **Network Speed Test:** Measures download speed by downloading a file from a known server.
-- **Progress Bar:** Displays a progress bar indicating the progress of the tests.
+- **Signal Strength Monitoring:** Logs WiFi RSSI and noise levels at regular intervals.
+- **Connectivity Check:** Logs reachability and response times by pinging a known server (8.8.8.8).
+- **System Log Parsing:** Captures WiFi-related kernel messages (e.g., retransmissions, PHY errors).
+- **Combined CSV Report:** Aggregates all metrics (RSSI, noise, ping results, packet mismatches, retries, FCS/PLCP errors, etc.) into a single `report.csv`.
+- **Network Speed Test:** Attempts a download of a 1 MB file via `wget` or falls back to `curl`, reporting success or error.
+- **Progress Bar:** Displays a live status bar during data collection.
 
 ## Installation
 
@@ -15,134 +17,75 @@ WiFi Stability Analyzer (WSA) is a command-line tool designed to monitor and log
 
 - **macOS**: The tool is designed to work on macOS.
 - **Homebrew**: Ensure Homebrew is installed on your system.
-- **GCC**: Install GCC via Homebrew if not already installed.
+- **GCC**: Install GCC via Homebrew if not already installed:
 
-```sh
-brew install gcc
-```
+  ```sh
+  brew install gcc
+  ```
+- **wget** _or_ **curl**: One of these must be available for the network speed test:
+
+  ```sh
+  brew install wget
+  # or
+  brew install curl
+  ```
 
 ### Clone the Repository
-
-Clone the repository to your local machine:
 
 ```sh
 git clone https://github.com/yourusername/wifi-stability-analyzer.git
 cd wifi-stability-analyzer
 ```
 
-## Usage
+## Build
 
-### Build the Program
-
-To build the program, use the following command:
+Compile the C source into the `wsa` executable:
 
 ```sh
 gcc -g main.c -o wsa
 ```
 
-### Run the Program
-
-To run the program, use the following command format:
+## Usage
 
 ```sh
-./wsa <duration_in_seconds>
+./wsa <duration_in_seconds> <interval_in_seconds>
 ```
 
-For example, to run the analyzer for 30 seconds:
+- `<duration_in_seconds>`: Total logging time (e.g., 30).
+- `<interval_in_seconds>`: Sampling interval (e.g., 0.5).
+
+Example, log for 60 s at 0.5 s intervals:
 
 ```sh
-./wsa 30
+./wsa 60 0.5
 ```
 
-### Output
+## Output
 
-The program generates two log files:
+All output files are placed in the `output/` subfolder:
 
-- `signal_strength.log`: Contains logs of WiFi signal strength.
-- `connectivity.log`: Contains logs of connectivity status.
+- `signal_strength.log`: Timestamped RSSI and noise readings.
+- `connectivity.log`: Raw ping output per interval.
+- `system_logs.log`: Captured `dmesg | grep -i wifi` lines and parsed counts.
+- `report.csv`: Combined CSV report with columns:
 
-## Components
+  ```csv
+  Timestamp,RSSI,Noise,PingSuccess,PingTimeMs,PacketMismatch,HighRetries,FcsFail,PlcpBad,GoodPlcps,CrsGlitches
+  ```
 
-### Main Functions
-
-- **get_current_time:** Returns the current time as a formatted string.
-- **get_network_interfaces:** Displays network interfaces and their addresses.
-- **monitor_signal_strength:** Logs WiFi signal strength at regular intervals.
-- **check_connectivity:** Logs connectivity status by pinging a known server.
-- **test_network_speed:** Measures download speed by downloading a file from a known server.
-- **display_status_bar:** Displays a progress bar indicating the progress of the tests.
-
-### Code Structure
-
-```c
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <unistd.h>
-#include <sys/types.h>
-#include <sys/socket.h>
-#include <netinet/in.h>
-#include <arpa/inet.h>
-#include <ifaddrs.h>
-#include <net/if.h>
-#include <time.h>
-#include <sys/wait.h>
-
-// Function to get the current time as a string
-char* get_current_time() {
-    // Implementation here
-}
-
-// Function to get network interfaces
-void get_network_interfaces() {
-    // Implementation here
-}
-
-// Function to monitor signal strength
-void monitor_signal_strength(int duration) {
-    // Implementation here
-}
-
-// Function to check connectivity
-void check_connectivity(int duration) {
-    // Implementation here
-}
-
-// Function to test network speed
-void test_network_speed() {
-    // Implementation here
-}
-
-// Function to display a status bar
-void display_status_bar(int duration) {
-    // Implementation here
-}
-
-// Main function
-int main(int argc, char *argv[]) {
-    // Implementation here
-}
-```
+After sampling completes, the tool runs a network speed test. If neither `wget` nor `curl` is installed, an error is printed.
 
 ## Troubleshooting
 
-### `signal_strength.log` is Empty
+- **Empty `signal_strength.log`**: Ensure the command-line WiFi utility is available:
 
-If `signal_strength.log` is empty, ensure the `airport` command is available and working:
+  ```sh
+  /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I
+  ```
 
-```sh
-/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I
-```
+- **Missing `wget`/`curl`**: Install one of them via Homebrew.
 
-This command should output information about your WiFi connection.
-
-### `gcc` is Not Installed
-
-If `gcc` is not installed, install it using Homebrew:
-
-```sh
-brew install gcc
-```
+- **Insufficient Permissions**: Some operations require `sudo` (e.g., reading `dmesg`).
 
 ## Contributing
 
