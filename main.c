@@ -212,12 +212,13 @@ int main(int argc, char *argv[]) {
         display_status_bar(duration);
         exit(0);
     }
-    sample_all(duration, interval);
-    wait(NULL);
 
-    printf("\nRunning network speed test...\n");
+    sample_all(duration, interval);
+
     test_network_speed();
 
     generate_summary(duration);
+
+    printf("Done!\n");
     return 0;
 }

@@ -1,24 +1,480 @@
-[2025-04-22 19:16:50.863] PING 8.8.8.8 (8.8.8.8): 56 data bytes
-[2025-04-22 19:16:50.863] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=13.536 ms
-[2025-04-22 19:16:50.863] 
-[2025-04-22 19:16:50.863] --- 8.8.8.8 ping statistics ---
-[2025-04-22 19:16:50.863] 1 packets transmitted, 1 packets received, 0.0% packet loss
-[2025-04-22 19:16:50.863] round-trip min/avg/max/stddev = 13.536/13.536/13.536/0.000 ms
-[2025-04-22 19:16:51.363] PING 8.8.8.8 (8.8.8.8): 56 data bytes
-[2025-04-22 19:16:51.363] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=13.160 ms
-[2025-04-22 19:16:51.363] 
-[2025-04-22 19:16:51.363] --- 8.8.8.8 ping statistics ---
-[2025-04-22 19:16:51.363] 1 packets transmitted, 1 packets received, 0.0% packet loss
-[2025-04-22 19:16:51.363] round-trip min/avg/max/stddev = 13.160/13.160/13.160/0.000 ms
-[2025-04-22 19:16:51.864] PING 8.8.8.8 (8.8.8.8): 56 data bytes
-[2025-04-22 19:16:51.864] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=14.024 ms
-[2025-04-22 19:16:51.864] 
-[2025-04-22 19:16:51.864] --- 8.8.8.8 ping statistics ---
-[2025-04-22 19:16:51.864] 1 packets transmitted, 1 packets received, 0.0% packet loss
-[2025-04-22 19:16:51.864] round-trip min/avg/max/stddev = 14.024/14.024/14.024/0.000 ms
-[2025-04-22 19:16:52.364] PING 8.8.8.8 (8.8.8.8): 56 data bytes
-[2025-04-22 19:16:52.364] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=13.478 ms
-[2025-04-22 19:16:52.364] 
-[2025-04-22 19:16:52.364] --- 8.8.8.8 ping statistics ---
-[2025-04-22 19:16:52.364] 1 packets transmitted, 1 packets received, 0.0% packet loss
-[2025-04-22 19:16:52.364] round-trip min/avg/max/stddev = 13.478/13.478/13.478/0.000 ms
+[2025-04-22 20:03:46.075] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:46.075] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=11.880 ms
+[2025-04-22 20:03:46.075] 
+[2025-04-22 20:03:46.075] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:46.075] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:46.075] round-trip min/avg/max/stddev = 11.880/11.880/11.880/0.000 ms
+[2025-04-22 20:03:51.664] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:51.664] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=71.371 ms
+[2025-04-22 20:03:51.664] 
+[2025-04-22 20:03:51.664] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:51.664] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:51.664] round-trip min/avg/max/stddev = 71.371/71.371/71.371/0.000 ms
+[2025-04-22 20:03:52.017] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:52.017] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=71.702 ms
+[2025-04-22 20:03:52.017] 
+[2025-04-22 20:03:52.017] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:52.017] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:52.017] round-trip min/avg/max/stddev = 71.702/71.702/71.702/0.000 ms
+[2025-04-22 20:03:52.386] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:52.386] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=9.402 ms
+[2025-04-22 20:03:52.386] 
+[2025-04-22 20:03:52.386] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:52.386] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:52.386] round-trip min/avg/max/stddev = 9.402/9.402/9.402/0.000 ms
+[2025-04-22 20:03:52.692] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:52.692] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=89.173 ms
+[2025-04-22 20:03:52.692] 
+[2025-04-22 20:03:52.692] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:52.692] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:52.692] round-trip min/avg/max/stddev = 89.173/89.173/89.173/0.000 ms
+[2025-04-22 20:03:53.041] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:53.041] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=91.859 ms
+[2025-04-22 20:03:53.041] 
+[2025-04-22 20:03:53.041] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:53.041] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:53.041] round-trip min/avg/max/stddev = 91.859/91.859/91.859/0.000 ms
+[2025-04-22 20:03:53.424] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:53.424] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=10.026 ms
+[2025-04-22 20:03:53.424] 
+[2025-04-22 20:03:53.424] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:53.424] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:53.424] round-trip min/avg/max/stddev = 10.026/10.026/10.026/0.000 ms
+[2025-04-22 20:03:53.756] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:53.756] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=15.682 ms
+[2025-04-22 20:03:53.756] 
+[2025-04-22 20:03:53.756] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:53.756] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:53.756] round-trip min/avg/max/stddev = 15.682/15.682/15.682/0.000 ms
+[2025-04-22 20:03:54.089] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:54.089] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=40.161 ms
+[2025-04-22 20:03:54.089] 
+[2025-04-22 20:03:54.089] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:54.089] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:54.089] round-trip min/avg/max/stddev = 40.161/40.161/40.161/0.000 ms
+[2025-04-22 20:03:54.482] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:54.482] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=10.381 ms
+[2025-04-22 20:03:54.482] 
+[2025-04-22 20:03:54.482] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:54.482] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:54.482] round-trip min/avg/max/stddev = 10.381/10.381/10.381/0.000 ms
+[2025-04-22 20:03:54.784] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:54.784] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=66.537 ms
+[2025-04-22 20:03:54.784] 
+[2025-04-22 20:03:54.784] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:54.784] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:54.784] round-trip min/avg/max/stddev = 66.537/66.537/66.537/0.000 ms
+[2025-04-22 20:03:55.153] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:55.153] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=79.001 ms
+[2025-04-22 20:03:55.153] 
+[2025-04-22 20:03:55.153] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:55.153] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:55.153] round-trip min/avg/max/stddev = 79.001/79.001/79.001/0.000 ms
+[2025-04-22 20:03:55.531] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:55.531] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=8.479 ms
+[2025-04-22 20:03:55.531] 
+[2025-04-22 20:03:55.531] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:55.531] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:55.531] round-trip min/avg/max/stddev = 8.479/8.479/8.479/0.000 ms
+[2025-04-22 20:03:55.835] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:55.835] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=30.036 ms
+[2025-04-22 20:03:55.835] 
+[2025-04-22 20:03:55.835] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:55.835] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:55.835] round-trip min/avg/max/stddev = 30.036/30.036/30.036/0.000 ms
+[2025-04-22 20:03:56.184] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:56.184] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=92.876 ms
+[2025-04-22 20:03:56.184] 
+[2025-04-22 20:03:56.184] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:56.184] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:56.184] round-trip min/avg/max/stddev = 92.876/92.876/92.876/0.000 ms
+[2025-04-22 20:03:56.569] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:56.569] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.974 ms
+[2025-04-22 20:03:56.569] 
+[2025-04-22 20:03:56.569] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:56.569] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:56.569] round-trip min/avg/max/stddev = 6.974/6.974/6.974/0.000 ms
+[2025-04-22 20:03:56.879] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:56.879] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=64.589 ms
+[2025-04-22 20:03:56.879] 
+[2025-04-22 20:03:56.879] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:56.879] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:56.879] round-trip min/avg/max/stddev = 64.589/64.589/64.589/0.000 ms
+[2025-04-22 20:03:57.234] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:57.234] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=77.051 ms
+[2025-04-22 20:03:57.234] 
+[2025-04-22 20:03:57.234] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:57.234] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:57.234] round-trip min/avg/max/stddev = 77.051/77.051/77.051/0.000 ms
+[2025-04-22 20:03:57.628] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:57.628] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.275 ms
+[2025-04-22 20:03:57.628] 
+[2025-04-22 20:03:57.628] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:57.628] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:57.628] round-trip min/avg/max/stddev = 7.275/7.275/7.275/0.000 ms
+[2025-04-22 20:03:57.947] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:57.947] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=60.214 ms
+[2025-04-22 20:03:57.947] 
+[2025-04-22 20:03:57.947] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:57.947] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:57.947] round-trip min/avg/max/stddev = 60.214/60.214/60.214/0.000 ms
+[2025-04-22 20:03:58.286] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:58.286] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=80.918 ms
+[2025-04-22 20:03:58.286] 
+[2025-04-22 20:03:58.286] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:58.286] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:58.286] round-trip min/avg/max/stddev = 80.918/80.918/80.918/0.000 ms
+[2025-04-22 20:03:58.674] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:58.674] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=28.367 ms
+[2025-04-22 20:03:58.674] 
+[2025-04-22 20:03:58.674] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:58.674] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:58.674] round-trip min/avg/max/stddev = 28.367/28.367/28.367/0.000 ms
+[2025-04-22 20:03:58.960] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:58.960] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=268.036 ms
+[2025-04-22 20:03:58.960] 
+[2025-04-22 20:03:58.960] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:58.960] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:58.960] round-trip min/avg/max/stddev = 268.036/268.036/268.036/0.000 ms
+[2025-04-22 20:03:59.527] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:03:59.527] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=256.453 ms
+[2025-04-22 20:03:59.527] 
+[2025-04-22 20:03:59.527] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:03:59.527] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:03:59.527] round-trip min/avg/max/stddev = 256.453/256.453/256.453/0.000 ms
+[2025-04-22 20:04:00.051] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:00.051] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=28.315 ms
+[2025-04-22 20:04:00.051] 
+[2025-04-22 20:04:00.051] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:00.051] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:00.051] round-trip min/avg/max/stddev = 28.315/28.315/28.315/0.000 ms
+[2025-04-22 20:04:00.380] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:00.380] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=30.105 ms
+[2025-04-22 20:04:00.380] 
+[2025-04-22 20:04:00.380] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:00.380] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:00.380] round-trip min/avg/max/stddev = 30.105/30.105/30.105/0.000 ms
+[2025-04-22 20:04:00.757] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:00.757] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.066 ms
+[2025-04-22 20:04:00.757] 
+[2025-04-22 20:04:00.757] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:00.757] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:00.757] round-trip min/avg/max/stddev = 7.066/7.066/7.066/0.000 ms
+[2025-04-22 20:04:01.074] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:01.074] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=69.017 ms
+[2025-04-22 20:04:01.074] 
+[2025-04-22 20:04:01.074] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:01.074] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:01.074] round-trip min/avg/max/stddev = 69.017/69.017/69.017/0.000 ms
+[2025-04-22 20:04:01.450] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:01.450] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=81.465 ms
+[2025-04-22 20:04:01.450] 
+[2025-04-22 20:04:01.450] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:01.450] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:01.450] round-trip min/avg/max/stddev = 81.465/81.465/81.465/0.000 ms
+[2025-04-22 20:04:01.824] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:01.824] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.544 ms
+[2025-04-22 20:04:01.824] 
+[2025-04-22 20:04:01.824] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:01.824] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:01.824] round-trip min/avg/max/stddev = 7.544/7.544/7.544/0.000 ms
+[2025-04-22 20:04:02.179] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:02.179] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=26.741 ms
+[2025-04-22 20:04:02.179] 
+[2025-04-22 20:04:02.179] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:02.179] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:02.179] round-trip min/avg/max/stddev = 26.741/26.741/26.741/0.000 ms
+[2025-04-22 20:04:02.467] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:02.467] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.840 ms
+[2025-04-22 20:04:02.467] 
+[2025-04-22 20:04:02.467] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:02.467] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:02.467] round-trip min/avg/max/stddev = 6.840/6.840/6.840/0.000 ms
+[2025-04-22 20:04:02.723] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:02.723] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.810 ms
+[2025-04-22 20:04:02.723] 
+[2025-04-22 20:04:02.723] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:02.723] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:02.723] round-trip min/avg/max/stddev = 6.810/6.810/6.810/0.000 ms
+[2025-04-22 20:04:03.053] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:03.053] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=208.042 ms
+[2025-04-22 20:04:03.053] 
+[2025-04-22 20:04:03.053] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:03.053] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:03.053] round-trip min/avg/max/stddev = 208.042/208.042/208.042/0.000 ms
+[2025-04-22 20:04:03.525] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:03.525] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=37.975 ms
+[2025-04-22 20:04:03.525] 
+[2025-04-22 20:04:03.525] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:03.525] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:03.525] round-trip min/avg/max/stddev = 37.975/37.975/37.975/0.000 ms
+[2025-04-22 20:04:03.920] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:03.920] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.184 ms
+[2025-04-22 20:04:03.920] 
+[2025-04-22 20:04:03.920] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:03.920] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:03.920] round-trip min/avg/max/stddev = 7.184/7.184/7.184/0.000 ms
+[2025-04-22 20:04:04.214] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:04.214] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=80.999 ms
+[2025-04-22 20:04:04.214] 
+[2025-04-22 20:04:04.214] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:04.214] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:04.214] round-trip min/avg/max/stddev = 80.999/80.999/80.999/0.000 ms
+[2025-04-22 20:04:04.597] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:04.597] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=96.789 ms
+[2025-04-22 20:04:04.597] 
+[2025-04-22 20:04:04.597] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:04.597] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:04.597] round-trip min/avg/max/stddev = 96.789/96.789/96.789/0.000 ms
+[2025-04-22 20:04:04.968] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:04.968] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.466 ms
+[2025-04-22 20:04:04.968] 
+[2025-04-22 20:04:04.968] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:04.968] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:04.968] round-trip min/avg/max/stddev = 7.466/7.466/7.466/0.000 ms
+[2025-04-22 20:04:05.464] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:05.464] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=26.882 ms
+[2025-04-22 20:04:05.464] 
+[2025-04-22 20:04:05.464] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:05.464] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:05.464] round-trip min/avg/max/stddev = 26.882/26.882/26.882/0.000 ms
+[2025-04-22 20:04:05.819] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:05.819] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=40.186 ms
+[2025-04-22 20:04:05.819] 
+[2025-04-22 20:04:05.819] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:05.819] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:05.819] round-trip min/avg/max/stddev = 40.186/40.186/40.186/0.000 ms
+[2025-04-22 20:04:06.168] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:06.168] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=182.867 ms
+[2025-04-22 20:04:06.168] 
+[2025-04-22 20:04:06.168] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:06.168] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:06.168] round-trip min/avg/max/stddev = 182.867/182.867/182.867/0.000 ms
+[2025-04-22 20:04:06.672] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:06.672] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=57.646 ms
+[2025-04-22 20:04:06.672] 
+[2025-04-22 20:04:06.672] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:06.672] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:06.672] round-trip min/avg/max/stddev = 57.646/57.646/57.646/0.000 ms
+[2025-04-22 20:04:07.067] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:07.067] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=8.361 ms
+[2025-04-22 20:04:07.067] 
+[2025-04-22 20:04:07.067] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:07.067] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:07.067] round-trip min/avg/max/stddev = 8.361/8.361/8.361/0.000 ms
+[2025-04-22 20:04:07.364] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:07.364] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=43.667 ms
+[2025-04-22 20:04:07.364] 
+[2025-04-22 20:04:07.364] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:07.364] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:07.364] round-trip min/avg/max/stddev = 43.667/43.667/43.667/0.000 ms
+[2025-04-22 20:04:07.721] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:07.721] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=62.058 ms
+[2025-04-22 20:04:07.721] 
+[2025-04-22 20:04:07.721] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:07.721] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:07.721] round-trip min/avg/max/stddev = 62.058/62.058/62.058/0.000 ms
+[2025-04-22 20:04:08.113] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:08.113] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.844 ms
+[2025-04-22 20:04:08.113] 
+[2025-04-22 20:04:08.113] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:08.113] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:08.113] round-trip min/avg/max/stddev = 6.844/6.844/6.844/0.000 ms
+[2025-04-22 20:04:08.401] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:08.401] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=65.578 ms
+[2025-04-22 20:04:08.401] 
+[2025-04-22 20:04:08.401] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:08.401] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:08.401] round-trip min/avg/max/stddev = 65.578/65.578/65.578/0.000 ms
+[2025-04-22 20:04:08.769] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:08.769] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=425.711 ms
+[2025-04-22 20:04:08.769] 
+[2025-04-22 20:04:08.769] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:08.769] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:08.769] round-trip min/avg/max/stddev = 425.711/425.711/425.711/0.000 ms
+[2025-04-22 20:04:09.499] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:09.499] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=230.923 ms
+[2025-04-22 20:04:09.499] 
+[2025-04-22 20:04:09.499] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:09.499] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:09.499] round-trip min/avg/max/stddev = 230.923/230.923/230.923/0.000 ms
+[2025-04-22 20:04:10.016] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:10.016] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=31.692 ms
+[2025-04-22 20:04:10.016] 
+[2025-04-22 20:04:10.016] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:10.016] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:10.016] round-trip min/avg/max/stddev = 31.692/31.692/31.692/0.000 ms
+[2025-04-22 20:04:10.342] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:10.342] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=225.093 ms
+[2025-04-22 20:04:10.342] 
+[2025-04-22 20:04:10.342] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:10.342] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:10.342] round-trip min/avg/max/stddev = 225.093/225.093/225.093/0.000 ms
+[2025-04-22 20:04:10.848] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:10.848] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.575 ms
+[2025-04-22 20:04:10.848] 
+[2025-04-22 20:04:10.848] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:10.848] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:10.848] round-trip min/avg/max/stddev = 7.575/7.575/7.575/0.000 ms
+[2025-04-22 20:04:11.128] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:11.128] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.670 ms
+[2025-04-22 20:04:11.128] 
+[2025-04-22 20:04:11.128] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:11.128] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:11.128] round-trip min/avg/max/stddev = 6.670/6.670/6.670/0.000 ms
+[2025-04-22 20:04:11.382] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:11.382] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.202 ms
+[2025-04-22 20:04:11.382] 
+[2025-04-22 20:04:11.382] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:11.382] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:11.382] round-trip min/avg/max/stddev = 7.202/7.202/7.202/0.000 ms
+[2025-04-22 20:04:11.656] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:11.656] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=16.330 ms
+[2025-04-22 20:04:11.656] 
+[2025-04-22 20:04:11.656] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:11.656] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:11.656] round-trip min/avg/max/stddev = 16.330/16.330/16.330/0.000 ms
+[2025-04-22 20:04:11.976] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:11.976] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=70.681 ms
+[2025-04-22 20:04:11.976] 
+[2025-04-22 20:04:11.976] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:11.976] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:11.976] round-trip min/avg/max/stddev = 70.681/70.681/70.681/0.000 ms
+[2025-04-22 20:04:12.329] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:12.329] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.318 ms
+[2025-04-22 20:04:12.329] 
+[2025-04-22 20:04:12.329] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:12.329] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:12.329] round-trip min/avg/max/stddev = 7.318/7.318/7.318/0.000 ms
+[2025-04-22 20:04:12.658] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:12.658] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.881 ms
+[2025-04-22 20:04:12.658] 
+[2025-04-22 20:04:12.658] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:12.658] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:12.658] round-trip min/avg/max/stddev = 6.881/6.881/6.881/0.000 ms
+[2025-04-22 20:04:12.964] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:12.964] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=96.817 ms
+[2025-04-22 20:04:12.964] 
+[2025-04-22 20:04:12.964] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:12.964] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:12.964] round-trip min/avg/max/stddev = 96.817/96.817/96.817/0.000 ms
+[2025-04-22 20:04:13.370] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:13.370] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.918 ms
+[2025-04-22 20:04:13.370] 
+[2025-04-22 20:04:13.370] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:13.370] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:13.370] round-trip min/avg/max/stddev = 6.918/6.918/6.918/0.000 ms
+[2025-04-22 20:04:13.653] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:13.653] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=25.394 ms
+[2025-04-22 20:04:13.653] 
+[2025-04-22 20:04:13.653] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:13.653] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:13.653] round-trip min/avg/max/stddev = 25.394/25.394/25.394/0.000 ms
+[2025-04-22 20:04:14.013] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:14.013] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=73.172 ms
+[2025-04-22 20:04:14.013] 
+[2025-04-22 20:04:14.013] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:14.013] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:14.013] round-trip min/avg/max/stddev = 73.172/73.172/73.172/0.000 ms
+[2025-04-22 20:04:14.406] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:14.406] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.890 ms
+[2025-04-22 20:04:14.406] 
+[2025-04-22 20:04:14.406] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:14.406] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:14.406] round-trip min/avg/max/stddev = 6.890/6.890/6.890/0.000 ms
+[2025-04-22 20:04:14.723] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:14.723] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=23.932 ms
+[2025-04-22 20:04:14.723] 
+[2025-04-22 20:04:14.723] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:14.723] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:14.723] round-trip min/avg/max/stddev = 23.932/23.932/23.932/0.000 ms
+[2025-04-22 20:04:15.065] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:15.065] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=55.045 ms
+[2025-04-22 20:04:15.065] 
+[2025-04-22 20:04:15.065] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:15.065] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:15.065] round-trip min/avg/max/stddev = 55.045/55.045/55.045/0.000 ms
+[2025-04-22 20:04:15.439] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:15.439] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.024 ms
+[2025-04-22 20:04:15.439] 
+[2025-04-22 20:04:15.439] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:15.439] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:15.439] round-trip min/avg/max/stddev = 7.024/7.024/7.024/0.000 ms
+[2025-04-22 20:04:15.723] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:15.723] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=85.733 ms
+[2025-04-22 20:04:15.723] 
+[2025-04-22 20:04:15.723] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:15.723] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:15.723] round-trip min/avg/max/stddev = 85.733/85.733/85.733/0.000 ms
+[2025-04-22 20:04:16.110] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:16.110] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=64.918 ms
+[2025-04-22 20:04:16.110] 
+[2025-04-22 20:04:16.110] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:16.110] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:16.110] round-trip min/avg/max/stddev = 64.918/64.918/64.918/0.000 ms
+[2025-04-22 20:04:16.506] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:16.506] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=6.961 ms
+[2025-04-22 20:04:16.506] 
+[2025-04-22 20:04:16.506] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:16.506] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:16.506] round-trip min/avg/max/stddev = 6.961/6.961/6.961/0.000 ms
+[2025-04-22 20:04:16.802] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:16.802] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=58.417 ms
+[2025-04-22 20:04:16.802] 
+[2025-04-22 20:04:16.802] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:16.802] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:16.802] round-trip min/avg/max/stddev = 58.417/58.417/58.417/0.000 ms
+[2025-04-22 20:04:17.158] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:17.158] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=89.693 ms
+[2025-04-22 20:04:17.158] 
+[2025-04-22 20:04:17.158] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:17.158] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:17.158] round-trip min/avg/max/stddev = 89.693/89.693/89.693/0.000 ms
+[2025-04-22 20:04:17.547] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:17.547] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=25.710 ms
+[2025-04-22 20:04:17.547] 
+[2025-04-22 20:04:17.547] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:17.547] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:17.547] round-trip min/avg/max/stddev = 25.710/25.710/25.710/0.000 ms
+[2025-04-22 20:04:17.932] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:17.932] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=186.431 ms
+[2025-04-22 20:04:17.932] 
+[2025-04-22 20:04:17.932] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:17.932] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:17.932] round-trip min/avg/max/stddev = 186.431/186.431/186.431/0.000 ms
+[2025-04-22 20:04:18.406] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:18.406] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=262.872 ms
+[2025-04-22 20:04:18.406] 
+[2025-04-22 20:04:18.406] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:18.406] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:18.406] round-trip min/avg/max/stddev = 262.872/262.872/262.872/0.000 ms
+[2025-04-22 20:04:18.946] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:18.946] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=45.846 ms
+[2025-04-22 20:04:18.946] 
+[2025-04-22 20:04:18.946] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:18.946] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:18.946] round-trip min/avg/max/stddev = 45.846/45.846/45.846/0.000 ms
+[2025-04-22 20:04:19.243] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:19.243] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=7.451 ms
+[2025-04-22 20:04:19.243] 
+[2025-04-22 20:04:19.243] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:19.243] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:19.243] round-trip min/avg/max/stddev = 7.451/7.451/7.451/0.000 ms
+[2025-04-22 20:04:19.534] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:19.534] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=28.587 ms
+[2025-04-22 20:04:19.534] 
+[2025-04-22 20:04:19.534] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:19.534] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:19.534] round-trip min/avg/max/stddev = 28.587/28.587/28.587/0.000 ms
+[2025-04-22 20:04:19.859] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:19.859] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=150.864 ms
+[2025-04-22 20:04:19.859] 
+[2025-04-22 20:04:19.859] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:19.859] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:19.859] round-trip min/avg/max/stddev = 150.864/150.864/150.864/0.000 ms
+[2025-04-22 20:04:20.307] PING 8.8.8.8 (8.8.8.8): 56 data bytes
+[2025-04-22 20:04:20.307] 64 bytes from 8.8.8.8: icmp_seq=0 ttl=117 time=80.519 ms
+[2025-04-22 20:04:20.307] 
+[2025-04-22 20:04:20.307] --- 8.8.8.8 ping statistics ---
+[2025-04-22 20:04:20.307] 1 packets transmitted, 1 packets received, 0.0% packet loss
+[2025-04-22 20:04:20.307] round-trip min/avg/max/stddev = 80.519/80.519/80.519/0.000 ms
